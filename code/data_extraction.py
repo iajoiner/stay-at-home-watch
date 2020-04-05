@@ -3,9 +3,9 @@ import pdftotext
 import pandas
 import numpy
 import re
-import pathlib
+from os.path import dirname, abspath
 
-root = str(pathlib.Path(__file__).parent.parent.absolute()) + "/"
+root = dirname(dirname(abspath(__file__))) + "/"
 url_head = "https://www.gstatic.com/covid19/mobility/"
 url_tail = "Mobility_Report_en.pdf"
 
