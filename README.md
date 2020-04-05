@@ -13,6 +13,8 @@ This is a project that is initiated as part of [Data vs Corona Hackathon](https:
 # tools
 - python  
 - Jupyter notebook  
+- R/RStudio
+- Power BI/ Tableau
 
 # team-communications
 [slack channel](https://join.slack.com/t/datavscoronaworkspace/shared_invite/zt-dbh4ojkx-OR3w9EDVJEJqawDY7OO5_Q)  
