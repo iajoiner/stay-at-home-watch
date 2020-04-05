@@ -1,0 +1,962 @@
+,retail_recreation,grocery_pharmacy,parks,transit_stations,workplace,residential,second_level_subdivision,country_code,first_level_subdivision
+0,-38,-21,-13,-34,-33,10,None,AF,None
+0,-61,-40,-39,-57,-11,22,None,AO,None
+0,-46,-21,-30,-67,-48,17,None,AG,None
+0,-86,-61,-89,-80,-57,27,None,AR,None
+1,-90,-48,-91,-82,-69,31,None,AR,Buenos Aires
+2,-88,-60,-91,-79,-60,26,None,AR,Buenos Aires Province
+3,-71,-46,-78,-81,-35,29,None,AR,Catamarca Province
+4,-79,-63,-83,-92,-48,24,None,AR,Chaco Province
+5,-92,-91,-94,-93,-62,28,None,AR,Chubut Province
+6,-88,-66,-90,-91,-57,30,None,AR,Cordoba
+7,-80,-63,-88,-89,-47,25,None,AR,Corrientes
+8,-87,-65,-93,-90,-54,29,None,AR,Entre Rios
+9,-76,-53,-82,-71,-37,21,None,AR,Formosa Province
+10,-80,-55,-83,-92,-44,27,None,AR,Jujuy
+11,-88,-72,-88,-87,-56,28,None,AR,La Pampa
+12,-70,-46,-84,-86,-40,26,None,AR,La Rioja Province
+13,-81,-56,-84,-72,-49,29,None,AR,Mendoza Province
+14,-83,-66,-85,-92,-51,27,None,AR,Misiones Province
+15,-96,-95,-95,-92,-72,33,None,AR,Neuquen
+16,-90,-72,-92,-96,-55,29,None,AR,Río Negro
+17,-82,-55,-84,-76,-47,26,None,AR,Salta Province
+18,-76,-50,-80,-87,-46,28,None,AR,San Juan Province
+19,-85,-60,-89,-91,-56,29,None,AR,San Luis Province
+20,-83,-62,-88,-91,-56,24,None,AR,Santa Cruz Province
+21,-87,-63,-89,-77,-57,29,None,AR,Santa Fe Province
+22,-75,-49,-75,-90,-46,25,None,AR,Santiago del Estero Province
+23,-87,-63,-89,-92,-59,24,None,AR,Tierra del Fuego Province
+24,-81,-53,-78,-90,-51,28,None,AR,Tucumán
+0,-88,-66,-80,-88,-72,20,None,AW,None
+0,-45,-19,-35,-58,-33,13,None,AU,None
+1,-40,-3,38,-52,-31,11,None,AU,Australian Capital Territory
+2,-44,-13,-27,-57,-35,14,None,AU,New South Wales
+3,-35,-13,-20,-55,-23,12,None,AU,Northern Territory
+4,-40,-19,-33,-57,-30,12,None,AU,Queensland
+5,-43,-15,-33,-55,-28,12,None,AU,South Australia
+6,-50,-30,-70,-62,-28,13,None,AU,Tasmania
+7,-51,-26,-55,-68,-37,16,None,AU,Victoria
+8,-40,-16,-37,-55,-26,13,None,AU,Western Australia
+0,-87,-64,-43,-71,-51,14,None,AT,None
+1,-83,-36,19,-43,-49,16,None,AT,Burgenland
+2,-85,-62,-45,-59,-48,13,None,AT,Carinthia
+3,-82,-36,8,-74,-45,13,None,AT,Lower Austria
+4,-93,-86,-73,-81,-59,15,None,AT,Salzburg
+5,-86,-61,-42,-71,-47,13,None,AT,Styria
+6,-95,-86,-82,-85,-65,16,None,AT,Tyrol
+7,-86,-44,-19,-67,-47,13,None,AT,Upper Austria
+8,-85,-52,-44,-71,-52,15,None,AT,Vienna
+9,-90,-70,-68,-79,-54,14,None,AT,Vorarlberg
+0,-67,-34,-48,-87,-52,19,None,BS,None
+0,-45,-22,-40,-38,-25,16,None,BH,None
+0,-68,-46,-26,-66,-60,24,None,BD,None
+0,-70,-47,-60,-77,-52,15,None,BB,None
+1,-81,-57,None,-83,-51,17,None,BB,Christ Church
+2,-35,None,-53,None,-29,None,None,BB,Saint George
+3,-76,-50,None,None,-56,None,None,BB,Saint James
+4,None,None,None,None,-36,None,None,BB,Saint John
+5,-70,-48,-70,-73,-55,14,None,BB,Saint Michael
+6,-74,-18,None,None,-31,None,None,BB,Saint Peter
+7,-72,-49,None,None,-49,None,None,BB,Saint Philip
+8,-13,None,None,None,-29,None,None,BB,Saint Thomas
+0,-14,5,41,-7,3,-2,None,BY,None
+0,-84,-53,-66,-76,-52,17,None,BE,None
+1,-89,-65,-64,-82,-62,19,None,BE,Brussels
+2,-82,-46,-65,-74,-50,17,None,BE,Flanders
+3,-84,-62,-72,-77,-52,16,None,BE,Wallonia
+0,-63,-49,-38,-68,-42,13,None,BZ,None
+0,-16,0,10,-14,2,5,None,BJ,None
+0,-93,-94,-89,-92,-72,35,None,BO,None
+0,-76,-50,-22,-59,-50,13,None,BA,None
+0,-12,-2,7,-20,-3,13,None,BW,None
+0,-71,-35,-70,-62,-34,17,None,BR,None
+1,-68,-28,-63,-56,-36,20,None,BR,Federal District
+2,-68,-20,-56,-75,-22,11,None,BR,State of Acre
+3,-77,-43,-79,-76,-35,17,None,BR,State of Alagoas
+4,-71,-27,-51,-73,-28,11,None,BR,State of Amapá
+5,-64,-28,-62,-46,-26,13,None,BR,State of Amazonas
+6,-73,-42,-71,-73,-33,17,None,BR,State of Bahia
+7,-76,-34,-71,-68,-33,16,None,BR,State of Ceará
+8,-68,-35,-69,-69,-31,16,None,BR,State of Espírito Santo
+9,-67,-27,-44,-50,-28,15,None,BR,State of Goiás
+10,-63,-27,-48,-66,-20,11,None,BR,State of Maranhão
+11,-63,-30,-44,-59,-22,11,None,BR,State of Mato Grosso
+12,-68,-33,-56,-68,-26,14,None,BR,State of Mato Grosso do Sul
+13,-66,-29,-46,-57,-30,15,None,BR,State of Minas Gerais
+14,-75,-42,-70,-64,-34,17,None,BR,State of Paraná
+15,-76,-36,-73,-64,-33,17,None,BR,State of Paraíba
+16,-61,-25,-53,-64,-19,12,None,BR,State of Pará
+17,-74,-35,-72,-59,-35,17,None,BR,State of Pernambuco
+18,-71,-39,-49,-76,-27,18,None,BR,State of Piauí
+19,-74,-36,-74,-66,-33,19,None,BR,State of Rio Grande do Norte
+20,-75,-39,-73,-67,-36,20,None,BR,State of Rio Grande do Sul
+21,-72,-32,-74,-61,-37,17,None,BR,State of Rio de Janeiro
+22,-63,-27,-42,-71,-23,12,None,BR,State of Rondônia
+23,-68,-25,-51,-72,-24,12,None,BR,State of Roraima
+24,-80,-49,-84,-76,-40,20,None,BR,State of Santa Catarina
+25,-78,-46,-77,-83,-36,18,None,BR,State of Sergipe
+26,-72,-36,-71,-62,-37,17,None,BR,State of São Paulo
+27,-61,-31,-35,-71,-19,11,None,BR,State of Tocantins
+0,-66,-36,-32,-58,-29,11,None,BG,None
+1,-74,-47,-32,-55,-43,10,None,BG,Blagoevgrad Province
+2,-65,-38,-40,-51,-35,11,None,BG,Burgas
+3,-61,-33,-38,None,-19,18,None,BG,Dobrich Province
+4,-61,-34,-16,None,-17,17,None,BG,Gabrovo
+5,-66,-43,-14,-67,-27,13,None,BG,Haskovo Province
+6,-58,-44,-42,None,-20,14,None,BG,Jambol
+7,-71,-48,-27,-76,-39,12,None,BG,Kardzhali Province
+8,-57,-39,-35,-46,-24,19,None,BG,Kyustendil Province
+9,-64,-32,-16,None,-21,18,None,BG,Lovec
+10,-41,-37,-18,-58,-13,11,None,BG,Montana Province
+11,-68,-38,-29,-69,-32,13,None,BG,Pazardzhik
+12,-58,-31,-37,None,-21,21,None,BG,Pernik
+13,-64,-37,-16,None,-22,14,None,BG,Pleven Province
+14,-68,-38,-33,-54,-29,12,None,BG,Plovdiv Province
+15,-48,-66,None,None,-10,11,None,BG,Razgrad
+16,-58,-36,-14,-43,-25,11,None,BG,Ruse
+17,-63,-29,-26,-70,-20,20,None,BG,Shumen Province
+18,-37,-23,None,None,-12,-3,None,BG,Silistra
+19,-61,-36,-40,-51,-25,19,None,BG,Sliven Province
+20,-66,-59,-42,None,-41,2,None,BG,Smoljan
+21,-70,-35,-42,-62,-34,15,None,BG,Sofia City Province
+22,-60,-35,-28,None,-31,14,None,BG,Sofia Province
+23,-63,-38,-27,-10,-29,10,None,BG,Stara Zagora
+24,-63,-31,None,None,-19,2,None,BG,Targovishte Province
+25,-72,-36,-54,-76,-34,12,None,BG,Varna
+26,-68,-37,-24,-56,-28,13,None,BG,Veliko Tarnovo Province
+27,-59,-29,None,None,-25,None,None,BG,Vidin
+28,-53,-31,-3,-49,-18,21,None,BG,Vraca
+0,-34,-25,-22,-53,-3,15,None,BF,None
+0,-43,-29,-31,-57,-15,12,None,KH,None
+0,-26,-20,-19,-23,-3,9,None,CM,None
+0,-59,-35,-16,-66,-44,14,None,CA,None
+1,-55,-29,-23,-63,-41,13,None,CA,Alberta
+2,-54,-28,27,-59,-47,13,None,CA,British Columbia
+3,-49,-21,-9,-56,-36,11,None,CA,Manitoba
+4,-42,-20,101,-47,-35,8,None,CA,New Brunswick
+5,-54,-38,-18,-60,-35,9,None,CA,Newfoundland and Labrador
+6,-59,-44,None,-59,-32,None,None,CA,Northwest Territories
+7,-33,-7,95,-45,-32,5,None,CA,Nova Scotia
+8,-47,None,None,None,-32,None,None,CA,Nunavut
+9,-59,-33,-14,-66,-46,14,None,CA,Ontario
+10,-43,-19,-51,None,-34,25,None,CA,Prince Edward Island
+11,-70,-44,-68,-75,-45,15,None,CA,Quebec
+12,-53,-24,45,-52,-37,11,None,CA,Saskatchewan
+13,-43,-28,None,None,-31,None,None,CA,Yukon
+0,-60,-48,-57,-88,-40,19,None,CV,None
+0,-73,-55,-72,-64,-42,24,None,CL,None
+0,-86,-68,-80,-82,-58,26,None,CO,None
+0,-68,-41,-71,-68,-39,21,None,CR,None
+0,-35,-21,-21,-33,-9,14,None,CI,None
+0,-82,-57,-45,-74,-50,15,None,HR,None
+1,-85,-58,-23,-70,-46,20,None,HR,Bjelovar-Bilogora County
+2,-81,-59,None,-83,-51,23,None,HR,Brod-Posavina County
+3,-85,-61,-51,-76,-51,16,None,HR,City of Zagreb
+4,-78,-54,-29,-66,-52,22,None,HR,Dubrovnik-Neretva County
+5,-74,-55,-35,-76,-45,15,None,HR,Istria County
+6,-83,-56,-16,-66,-48,30,None,HR,Karlovac County
+7,-81,-58,None,None,-44,25,None,HR,Koprivnica-Križevci County
+8,-87,-63,None,-72,-48,34,None,HR,Krapina-Zagorje County
+9,-73,-44,-58,-83,-46,None,None,HR,Lika-Senj County
+10,-86,-64,None,-84,-54,27,None,HR,Međimurje County
+11,-83,-54,-14,-73,-47,17,None,HR,Osijek-Baranja County
+12,-83,-58,None,-75,-49,0,None,HR,Požega-Slavonia County
+13,-82,-58,-47,-81,-48,15,None,HR,Primorje-Gorski Kotar County
+14,-76,-61,-51,-71,-43,27,None,HR,Sisak-Moslavina County
+15,-83,-52,-33,-76,-55,17,None,HR,Split-Dalmatia County
+16,-86,-61,-62,-83,-50,30,None,HR,Varaždin County
+17,-80,-53,None,-79,-46,1,None,HR,Virovitica-Podravina County
+18,-81,-52,None,-70,-48,24,None,HR,Vukovar-Srijem County
+19,-77,-51,-19,-75,-47,25,None,HR,Zadar County
+20,-85,-59,-64,-72,-53,15,None,HR,Zagreb County
+21,-78,-47,-12,-67,-48,15,None,HR,Šibenik-Knin County
+0,-73,-26,-24,-61,-31,11,None,CZ,None
+1,-67,-20,9,-37,-29,11,None,CZ,Central Bohemian Region
+2,-78,-30,-33,-69,-32,11,None,CZ,Hradec Králové Region
+3,-75,-38,-53,-70,-36,10,None,CZ,Karlovy Vary Region
+4,-75,-24,-45,-66,-36,10,None,CZ,Liberec Region
+5,-72,-21,-14,-63,-27,10,None,CZ,Moravian-Silesian Region
+6,-72,-27,-15,-74,-27,10,None,CZ,Olomouc Region
+7,-74,-27,-1,-73,-28,10,None,CZ,Pardubice Region
+8,-74,-29,-8,-55,-30,10,None,CZ,Plzeň Region
+9,-77,-30,-58,-71,-38,15,None,CZ,Prague
+10,-72,-27,-17,-60,-29,9,None,CZ,South Bohemian Region
+11,-70,-24,5,-50,-28,11,None,CZ,South Moravian Region
+12,-74,-21,27,-55,-28,10,None,CZ,Vysocina Region
+13,-71,-25,1,-65,-29,9,None,CZ,Zlin Region
+14,-71,-25,-28,-56,-26,9,None,CZ,Ústí nad Labem Region
+0,-37,-22,35,-60,-28,9,None,DK,None
+1,-48,-24,13,-67,-33,10,None,DK,Capital Region of Denmark
+2,-34,-23,71,-55,-26,9,None,DK,Central Denmark Region
+3,-34,-16,32,-54,-26,8,None,DK,North Denmark Region
+4,-28,-17,54,-55,-25,8,None,DK,Region Zealand
+5,-30,-22,23,-59,-28,9,None,DK,Region of Southern Denmark
+0,-80,-63,-73,-84,-56,23,None,DO,None
+0,-84,-66,-80,-80,-61,26,None,EC,None
+0,-50,-24,-40,-52,-35,15,None,EG,None
+0,-81,-62,-72,-73,-50,23,None,SV,None
+0,-60,-28,4,-51,-32,10,None,EE,None
+1,-61,-29,2,-57,-34,11,None,EE,Harju County
+2,None,None,None,None,-68,None,None,EE,Hiiu County
+3,-50,-22,-23,-35,-28,12,None,EE,Ida-Viru County
+4,-41,-23,None,None,-39,None,None,EE,Järva County
+5,-45,-24,None,None,-42,None,None,EE,Jõgeva County
+6,-53,-32,None,None,-47,None,None,EE,Lääne County
+7,-55,-20,None,-41,-20,5,None,EE,Lääne-Viru County
+8,-67,-31,-17,-53,-36,20,None,EE,Pärnu County
+9,-77,-24,None,None,-48,None,None,EE,Põlva County
+10,-72,-23,None,None,-47,None,None,EE,Rapla County
+11,-80,-40,None,-80,-57,None,None,EE,Saare County
+12,-65,-30,-13,-54,-35,23,None,EE,Tartu County
+13,-58,-30,None,None,-40,None,None,EE,Valga County
+14,-58,-26,None,-42,-13,None,None,EE,Viljandi County
+15,-82,-20,None,None,-46,None,None,EE,Võru County
+0,-39,-25,-13,-59,-6,12,None,FJ,None
+0,-52,-21,48,-59,-25,9,None,FI,None
+1,-48,-22,60,-70,-23,8,None,FI,Central Finland
+2,-44,-13,None,-63,-21,15,None,FI,Central Ostrobothnia
+3,-54,-24,44,-64,-21,13,None,FI,Kainuu
+4,-52,-21,65,-64,-17,8,None,FI,Kymenlaakso
+5,-62,-30,40,-71,-31,7,None,FI,Lapland
+6,-54,-20,61,-54,-24,14,None,FI,North Karelia
+7,-51,-24,73,-55,-24,8,None,FI,Northern Ostrobothnia
+8,-56,-20,47,-53,-22,7,None,FI,Northern Savonia
+9,-44,-16,70,-50,-21,8,None,FI,Ostrobothnia
+10,-53,-21,42,-53,-26,9,None,FI,Pirkanmaa
+11,-56,-22,84,-54,-25,8,None,FI,Päijänne Tavastia
+12,-49,-22,34,-48,-19,8,None,FI,Satakunta
+13,-55,-26,46,-64,-25,15,None,FI,South Karelia
+14,-49,-20,50,-51,-20,9,None,FI,Southern Ostrobothnia
+15,-55,-18,59,-66,-23,14,None,FI,Southern Savonia
+16,-54,-22,15,-51,-25,9,None,FI,Southwest Finland
+17,-53,-24,43,-62,-22,9,None,FI,Tavastia Proper
+18,-50,-20,39,-64,-28,10,None,FI,Uusimaa
+0,-88,-72,-82,-87,-56,18,None,FR,None
+1,-87,-74,-80,-89,-56,19,None,FR,Auvergne-Rhône-Alpes
+2,-87,-77,-77,-88,-54,18,None,FR,Bourgogne-Franche-Comté
+3,-87,-76,-83,-88,-53,18,None,FR,Brittany
+4,-86,-75,-79,-88,-53,17,None,FR,Centre-Val de Loire
+5,-84,-67,-74,-83,-54,21,None,FR,Corsica
+6,-89,-77,-81,-89,-59,17,None,FR,Grand Est
+7,-88,-72,-84,-87,-56,17,None,FR,Hauts-de-France
+8,-86,-73,-78,-88,-53,17,None,FR,Normandy
+9,-86,-76,-80,-86,-53,18,None,FR,Nouvelle-Aquitaine
+10,-86,-72,-73,-86,-53,18,None,FR,Occitanie
+11,-88,-78,-80,-90,-54,18,None,FR,Pays de la Loire
+12,-87,-68,-83,-85,-55,18,None,FR,Provence-Alpes-Côte d'Azur
+13,-91,-69,-89,-87,-63,20,None,FR,Île-de-France
+0,-39,-24,-25,-47,-15,15,None,GA,None
+0,-67,-36,-24,-53,-38,12,None,GE,None
+0,-77,-51,-49,-68,-39,11,None,DE,None
+1,-79,-49,-55,-71,-43,12,None,DE,Baden-Württemberg
+2,-80,-49,-50,-73,-43,12,None,DE,Bavaria
+3,-83,-55,-63,-70,-44,12,None,DE,Berlin
+4,-75,-52,-53,-63,-31,9,None,DE,Brandenburg
+5,-79,-54,-22,-74,-40,10,None,DE,Bremen
+6,-80,-50,-34,-72,-42,12,None,DE,Hamburg
+7,-74,-40,-26,-72,-41,10,None,DE,Hesse
+8,-76,-52,-42,-64,-36,10,None,DE,Lower Saxony
+9,-74,-48,-50,-64,-32,8,None,DE,Mecklenburg-Vorpommern
+10,-77,-51,-50,-70,-38,11,None,DE,North Rhine-Westphalia
+11,-74,-40,-38,-71,-39,10,None,DE,Rhineland-Palatinate
+12,-77,-56,-29,-71,-39,10,None,DE,Saarland
+13,-78,-51,-50,-66,-34,10,None,DE,Saxony
+14,-74,-48,-56,-65,-27,8,None,DE,Saxony-Anhalt
+15,-70,-53,-27,-58,-36,10,None,DE,Schleswig-Holstein
+16,-75,-44,-50,-63,-32,8,None,DE,Thuringia
+0,-15,8,-15,-15,3,9,None,GH,None
+0,-80,-41,-55,-76,-53,20,None,GR,None
+0,-67,-39,-53,-69,-39,19,None,GT,None
+0,-50,-11,-25,None,-27,None,None,GW,None
+0,-34,-31,-19,-48,-14,7,None,HT,None
+0,-81,-64,-59,-74,-46,20,None,HN,None
+0,-35,-7,-43,-45,-24,16,None,HK,None
+0,-66,-43,-7,-53,-32,10,None,HU,None
+1,-70,-45,27,-45,-30,9,None,HU,Baranya
+2,-59,-47,19,-38,-28,8,None,HU,Borsod-Abaúj-Zemplén
+3,-74,-40,-38,-67,-39,12,None,HU,Budapest
+4,-62,-42,10,-47,-27,9,None,HU,Bács-Kiskun
+5,-54,-39,15,-43,-23,7,None,HU,Békés County
+6,-66,-40,-12,-39,-28,10,None,HU,Csongrád
+7,-58,-43,24,-48,-30,9,None,HU,Fejér
+8,-71,-48,-6,-51,-42,11,None,HU,Gyor-Moson-Sopron
+9,-63,-46,34,-52,-28,9,None,HU,Hajdú-Bihar
+10,-62,-48,-35,-48,-34,12,None,HU,Heves County
+11,-52,-38,32,-49,-25,8,None,HU,Jász-Nagykun-Szolnok
+12,-57,-40,51,-46,-28,9,None,HU,Komárom-Esztergom
+13,-51,-40,-29,-30,-24,15,None,HU,Nógrád County
+14,-56,-42,57,-34,-31,10,None,HU,Pest County
+15,-58,-44,1,-44,-30,10,None,HU,Somogy County
+16,-57,-52,4,-43,-25,7,None,HU,Szabolcs-Szatmár-Bereg
+17,-50,-44,None,-44,-28,18,None,HU,Tolna County
+18,-68,-50,19,-55,-38,13,None,HU,Vas County
+19,-57,-44,5,-43,-33,9,None,HU,Veszprém
+20,-66,-52,-25,-48,-35,11,None,HU,Zala County
+0,-77,-65,-57,-71,-47,22,None,IN,None
+0,-47,-27,-52,-54,-15,15,None,ID,None
+0,-64,-42,-48,-61,-55,21,None,IQ,None
+0,-83,-37,-59,-78,-52,19,None,IE,None
+1,-83,-35,-52,-64,-48,9,None,IE,County Carlow
+2,-81,-39,-41,-57,-45,21,None,IE,County Cavan
+3,-78,-30,-54,-74,-49,25,None,IE,County Clare
+4,-81,-40,-54,-73,-51,19,None,IE,County Cork
+5,-81,-39,-49,-56,-47,21,None,IE,County Donegal
+6,-85,-35,-64,-82,-58,21,None,IE,County Dublin
+7,-82,-36,-60,-68,-51,21,None,IE,County Galway
+8,-83,-44,-54,-76,-53,22,None,IE,County Kerry
+9,-84,-36,-66,-71,-51,21,None,IE,County Kildare
+10,-82,-37,-65,-77,-47,23,None,IE,County Kilkenny
+11,-79,-40,None,-77,-48,22,None,IE,County Laois
+12,-93,-41,None,None,-50,None,None,IE,County Leitrim
+13,-82,-35,-57,-74,-46,21,None,IE,County Limerick
+14,-77,-40,None,None,-45,None,None,IE,County Longford
+15,-84,-39,-67,-84,-49,24,None,IE,County Louth
+16,-85,-44,-31,-78,-47,22,None,IE,County Mayo
+17,-80,-33,-54,-59,-49,21,None,IE,County Meath
+18,-80,-43,None,-58,-49,18,None,IE,County Monaghan
+19,-79,-38,-40,-65,-47,22,None,IE,County Offaly
+20,-86,-38,None,None,-43,18,None,IE,County Roscommon
+21,-89,-44,-48,-69,-44,9,None,IE,County Sligo
+22,-80,-36,-61,-73,-46,21,None,IE,County Tipperary
+23,-87,-45,-75,-77,-46,20,None,IE,County Waterford
+24,-85,-48,-45,-75,-52,24,None,IE,County Westmeath
+25,-83,-42,-70,-71,-52,22,None,IE,County Wexford
+26,-89,-40,-79,-76,-53,27,None,IE,County Wicklow
+0,-67,-13,-56,-61,-59,30,None,IL,None
+0,-94,-85,-90,-87,-63,24,None,IT,None
+1,-94,-84,-89,-90,-63,24,None,IT,Abruzzo
+2,-95,-88,-91,-86,-67,36,None,IT,Aosta
+3,-94,-85,-88,-88,-64,25,None,IT,Apulia
+4,-91,-84,-77,-86,-58,22,None,IT,Basilicata
+5,-94,-92,-85,-90,-63,22,None,IT,Calabria
+6,-94,-78,-91,-89,-67,23,None,IT,Campania
+7,-96,-94,-88,-88,-65,24,None,IT,Emilia-Romagna
+8,-95,-94,-90,-83,-59,24,None,IT,Friuli-Venezia Giulia
+9,-94,-76,-90,-88,-62,24,None,IT,Lazio
+10,-94,-80,-91,-85,-60,23,None,IT,Liguria
+11,-95,-81,-91,-89,-65,24,None,IT,Lombardy
+12,-95,-88,-91,-86,-64,26,None,IT,Marche
+13,-91,-82,-84,-80,-60,29,None,IT,Molise
+14,-94,-82,-89,-85,-59,23,None,IT,Piedmont
+15,-94,-92,-87,-81,-56,22,None,IT,Sardinia
+16,-95,-93,-91,-89,-68,25,None,IT,Sicily
+17,-96,-94,-93,-86,-65,25,None,IT,Trentino-South Tyrol
+18,-94,-84,-91,-85,-62,25,None,IT,Tuscany
+19,-95,-89,-86,-81,-61,25,None,IT,Umbria
+20,-96,-95,-91,-89,-62,25,None,IT,Veneto
+0,-53,-36,-50,-50,-29,12,None,JM,None
+0,-26,-7,-25,-41,-9,7,None,JP,None
+1,-14,1,-11,-35,-5,6,None,JP,Aichi
+2,-1,5,19,-20,0,3,None,JP,Akita
+3,-11,1,11,-20,0,3,None,JP,Aomori
+4,-43,-21,-61,-53,-15,11,None,JP,Chiba
+5,-5,5,29,-12,0,3,None,JP,Ehime
+6,-13,5,-18,-19,-2,6,None,JP,Fukui
+7,-13,6,34,-34,-3,4,None,JP,Fukuoka
+8,-21,-7,-51,-35,-4,7,None,JP,Fukushima
+9,-14,3,-25,-32,-4,6,None,JP,Gifu
+10,-33,-15,-55,-49,-8,9,None,JP,Gunma
+11,-7,7,15,-24,-1,3,None,JP,Hiroshima
+12,-7,3,-2,-27,-5,3,None,JP,Hokkaido
+13,-12,5,-10,-31,-4,5,None,JP,Hyogo
+14,-31,-16,-60,-51,-10,10,None,JP,Ibaraki
+15,-8,8,-23,-30,-1,4,None,JP,Ishikawa
+16,-5,5,6,-19,1,3,None,JP,Iwate
+17,-7,4,19,-22,-1,3,None,JP,Kagawa
+18,-5,4,16,-15,4,2,None,JP,Kagoshima
+19,-55,-31,-66,-55,-23,13,None,JP,Kanagawa
+20,-3,3,23,-7,0,2,None,JP,Kochi
+21,-13,4,36,-14,-1,4,None,JP,Kumamoto
+22,-10,7,12,-32,-3,4,None,JP,Kyoto
+23,-9,4,-20,-33,-1,5,None,JP,Mie
+24,-14,0,-37,-35,-2,5,None,JP,Miyagi
+25,-7,7,4,-15,2,3,None,JP,Miyazaki
+26,-31,-11,-56,-44,-4,8,None,JP,Nagano
+27,-3,8,30,-12,3,2,None,JP,Nagasaki
+28,-7,11,10,-27,-5,4,None,JP,Nara
+29,-11,3,-22,-35,-3,5,None,JP,Niigata
+30,-8,5,22,-17,-1,3,None,JP,Oita
+31,-7,7,17,-18,0,3,None,JP,Okayama
+32,-9,0,-14,-27,1,3,None,JP,Okinawa
+33,-21,3,-8,-39,-7,6,None,JP,Osaka
+34,-4,6,48,-19,0,3,None,JP,Saga
+35,-51,-28,-61,-53,-20,12,None,JP,Saitama
+36,-6,7,-8,-25,-2,4,None,JP,Shiga
+37,1,6,45,4,5,1,None,JP,Shimane
+38,-17,-4,-47,-38,-6,7,None,JP,Shizuoka
+39,-33,-16,-61,-46,-9,10,None,JP,Tochigi
+40,-4,3,27,-13,0,3,None,JP,Tokushima
+41,-63,-32,-66,-59,-27,14,None,JP,Tokyo
+42,1,9,15,-13,2,2,None,JP,Tottori
+43,-6,7,-19,-26,0,4,None,JP,Toyama
+44,-6,8,16,-21,-2,4,None,JP,Wakayama
+45,-3,6,-12,-27,-1,3,None,JP,Yamagata
+46,-4,9,49,-6,1,3,None,JP,Yamaguchi
+47,-29,-13,-56,-51,-9,8,None,JP,Yamanashi
+0,-74,-52,-59,-89,-73,27,None,JO,None
+0,-45,-24,-20,-32,-17,9,None,KZ,None
+0,-45,-33,-20,-39,-22,17,None,KE,None
+0,-19,11,51,-17,-12,6,None,KR,None
+0,-56,-30,-48,-49,-42,23,None,KW,None
+1,-52,-28,-40,-37,-34,20,None,KW,Al Ahmadi Governorate
+2,-65,-34,-56,-53,-50,21,None,KW,Al Asimah Governate
+3,-50,-31,-47,-55,-37,24,None,KW,Al Farwaniyah Governorate
+4,-46,-30,-38,-18,-32,19,None,KW,Al Jahra Governorate
+5,-61,-28,-53,-40,-52,26,None,KW,Hawalli Governorate
+6,-56,-34,-51,-42,-52,21,None,KW,Mubarak Al-Kabeer Governorate
+0,-74,-64,-32,-70,-43,15,None,KG,None
+0,-45,-23,-18,-47,-9,11,None,LA,None
+0,-50,-22,-18,-48,-25,7,None,LV,None
+0,-73,-48,-59,-84,-41,15,None,LB,None
+0,-49,-28,-32,-52,-36,21,None,LY,None
+0,-90,-22,None,None,-37,None,None,LI,None
+0,-72,-38,-28,-63,-33,11,None,LT,None
+1,-71,-36,0,-70,-32,17,None,LT,Alytus County
+2,-74,-40,-48,-68,-33,11,None,LT,Kaunas County
+3,-73,-31,-43,-59,-36,11,None,LT,Klaipėda County
+4,-64,-39,-35,-41,-27,18,None,LT,Marijampolė County
+5,-70,-36,-32,-63,-26,7,None,LT,Panevėžys County
+6,-60,-31,None,-46,-23,15,None,LT,Tauragė County
+7,-67,-40,-18,-44,-24,17,None,LT,Telšiai County
+8,-63,-22,1,-35,-23,16,None,LT,Utena County
+9,-74,-41,-22,-67,-40,12,None,LT,Vilnius County
+10,-73,-39,-41,-38,-30,7,None,LT,Šiauliai County
+0,-90,-70,-66,-78,-60,23,None,LU,None
+0,-74,-41,-44,-69,-51,18,None,MK,None
+0,-81,-58,-68,-83,-52,31,None,MY,None
+0,-25,-18,-12,-36,0,9,None,ML,None
+0,-76,-38,-45,-57,-49,19,None,MT,None
+0,-89,-86,-88,-89,-69,24,None,MU,None
+1,-92,-89,-88,None,-72,8,None,MU,Flacq District
+2,-94,-90,-90,-94,-70,8,None,MU,Grand Port District
+3,-97,-76,None,-74,-65,8,None,MU,Moka District
+4,-81,-82,-91,-81,-67,7,None,MU,Pamplemousses District
+5,-91,-88,None,-92,-71,37,None,MU,Plaines Wilhems District
+6,-88,-89,-85,-87,-65,6,None,MU,Port Louis District
+7,-92,-88,-91,-82,-73,8,None,MU,Rivière Noire District
+8,-93,-93,-100,None,-67,8,None,MU,Rivière du Rempart District
+9,None,None,-55,None,-62,None,None,MU,Rodrigues District
+10,-91,-83,-28,None,-69,None,None,MU,Savanne District
+0,-45,-19,-46,-47,-20,11,None,MX,None
+0,-67,-44,-43,-68,-37,12,None,MD,None
+0,-16,5,5,-16,-2,2,None,MN,None
+0,-26,-13,-22,-29,1,10,None,MZ,None
+0,-46,-29,-19,-35,-10,12,None,MM,None
+0,-56,-42,-39,-74,-28,16,None,NA,None
+0,-78,-69,-55,-74,-72,28,None,NP,None
+0,-65,-29,-30,-68,-35,11,None,NL,None
+1,-61,-30,-27,-58,-29,9,None,NL,Drenthe
+2,-56,-25,-5,-63,-34,10,None,NL,Flevoland
+3,-57,-28,-11,-51,-28,9,None,NL,Friesland
+4,-66,-28,-29,-62,-33,10,None,NL,Gelderland
+5,-65,-31,2,-63,-33,10,None,NL,Groningen
+6,-76,-34,-59,-65,-38,12,None,NL,Limburg
+7,-68,-28,-33,-71,-34,12,None,NL,North Brabant
+8,-66,-31,-35,-78,-40,12,None,NL,North Holland
+9,-67,-29,-25,-66,-34,11,None,NL,Overijssel
+10,-60,-26,-22,-64,-35,11,None,NL,South Holland
+11,-60,-32,-17,-70,-36,11,None,NL,Utrecht
+12,-69,-40,-46,-57,-31,10,None,NL,Zeeland
+0,-91,-54,-78,-84,-59,22,None,NZ,None
+1,-89,-55,-70,-83,-64,25,None,NZ,Auckland
+2,-92,-51,-86,-83,-52,22,None,NZ,Bay Of Plenty
+3,-90,-56,-83,-90,-60,22,None,NZ,Canterbury
+4,-100,-48,-88,None,-47,None,None,NZ,Gisborne
+5,-94,-53,-78,-84,-51,31,None,NZ,Hawke's Bay
+6,-93,-50,-76,-84,-54,33,None,NZ,Manawatu-Wanganui
+7,-92,-60,-83,-91,-25,0,None,NZ,Marlborough
+8,-100,-60,-81,None,-61,4,None,NZ,Nelson
+9,-93,-55,-86,-86,-52,32,None,NZ,Northland
+10,-95,-62,-82,-91,-64,39,None,NZ,Otago
+11,-96,-53,-83,None,-48,17,None,NZ,Southland
+12,-95,-52,-86,None,-51,17,None,NZ,Taranaki
+13,-90,-67,-89,None,-54,None,None,NZ,Tasman
+14,-94,-55,-84,-82,-57,23,None,NZ,Waikato
+15,-93,-54,-63,-84,-62,20,None,NZ,Wellington
+16,-100,-61,-87,None,-54,None,None,NZ,West Coast
+0,-45,-25,-31,-38,-17,11,None,NI,None
+0,-23,-15,-19,-25,-1,9,None,NE,None
+0,-39,-25,-24,-34,-11,15,None,NG,None
+0,-65,-32,-5,-57,-34,11,None,NO,None
+1,-59,-21,-1,-39,-31,9,None,NO,Agder
+2,-66,-37,-8,-54,-32,10,None,NO,Innlandet
+3,-73,-38,-40,-67,-29,10,None,NO,Møre og Romsdal
+4,-61,-18,24,-71,-24,8,None,NO,Nordland
+5,-68,-26,-7,-64,-45,14,None,NO,Oslo
+6,-61,-38,4,-58,-35,11,None,NO,Rogaland
+7,-74,-46,-24,-71,-32,10,None,NO,Troms Og Finnmark
+8,-74,-41,-15,-68,-37,13,None,NO,Trondelag
+9,-59,-23,13,-52,-30,10,None,NO,Vestfold Og Telemark
+10,-71,-47,-31,-66,-36,12,None,NO,Vestland
+11,-56,-21,24,-59,-33,11,None,NO,Viken
+0,-52,-35,-41,-64,-34,17,None,OM,None
+0,-70,-55,-45,-62,-41,18,None,PK,None
+0,-84,-61,-78,-77,-59,31,None,PA,None
+0,-20,-9,-12,-46,11,12,None,PG,None
+0,-68,-52,-71,-76,-30,23,None,PY,None
+0,-82,-57,-76,-83,-55,29,None,PE,None
+0,-81,-59,-59,-82,-54,26,None,PH,None
+0,-78,-59,-59,-71,-36,13,None,PL,None
+1,-80,-61,-62,-73,-37,13,None,PL,Greater Poland Voivodeship
+2,-79,-63,-73,-78,-33,12,None,PL,Kuyavian-Pomeranian Voivodeship
+3,-84,-65,-69,-78,-41,14,None,PL,Lesser Poland Voivodeship
+4,-82,-65,-71,-77,-38,13,None,PL,Lower Silesian Voivodeship
+5,-71,-44,-25,-71,-32,12,None,PL,Lublin Voivodeship
+6,-77,-65,-55,-72,-37,12,None,PL,Lubusz Voivodeship
+7,-77,-54,-60,-70,-35,13,None,PL,Masovian Voivodeship
+8,-79,-62,-55,-72,-37,12,None,PL,Opole Voivodeship
+9,-71,-46,-11,-71,-36,13,None,PL,Podkarpackie Voivodeship
+10,-75,-47,-17,-60,-32,11,None,PL,Podlaskie Voivodeship
+11,-82,-64,-78,-78,-38,14,None,PL,Pomeranian Voivodeship
+12,-77,-58,-50,-65,-35,13,None,PL,Silesian Voivodeship
+13,-74,-44,-26,-67,-34,12,None,PL,Swietokrzyskie
+14,-77,-60,-63,-73,-35,11,None,PL,Warmian-Masurian Voivodeship
+15,-80,-66,-76,-69,-39,12,None,PL,West Pomeranian Voivodeship
+16,-74,-55,-49,-66,-29,13,None,PL,Łódź Voivodeship
+0,-83,-59,-80,-78,-53,22,None,PT,None
+1,-83,-61,-84,-83,-53,24,None,PT,Aveiro District
+2,-83,-56,-66,-87,-47,18,None,PT,Azores
+3,-83,-59,-60,None,-40,24,None,PT,Beja District
+4,-83,-60,-82,-76,-52,24,None,PT,Braga
+5,-85,-66,-57,-78,-52,18,None,PT,Bragança District
+6,-81,-61,-65,-76,-48,31,None,PT,Castelo Branco District
+7,-83,-61,-80,-77,-48,23,None,PT,Coimbra District
+8,-83,-60,-78,-82,-54,21,None,PT,Faro District
+9,-86,-64,-75,-68,-46,28,None,PT,Guarda District
+10,-85,-62,-85,-81,-50,23,None,PT,Leiria District
+11,-84,-58,-82,-79,-56,22,None,PT,Lisbon
+12,-89,-63,-86,-77,-60,27,None,PT,Madeira
+13,-85,-63,-70,None,-42,24,None,PT,Portalegre District
+14,-84,-59,-82,-79,-54,23,None,PT,Porto District
+15,-83,-59,-77,-81,-46,20,None,PT,Santarém District
+16,-82,-56,-78,-74,-54,20,None,PT,Setubal
+17,-85,-68,-76,-76,-51,26,None,PT,Viana do Castelo District
+18,-86,-64,-71,-72,-52,33,None,PT,Vila Real District
+19,-82,-60,-65,-61,-48,22,None,PT,Viseu District
+20,-83,-59,-78,-77,-48,29,None,PT,Évora District
+0,-77,-51,-75,-79,-48,21,None,PR,None
+0,-51,-25,-34,-52,-31,22,None,QA,None
+0,-96,-88,-92,-82,-53,None,None,RE,None
+0,-81,-53,-60,-72,-39,15,None,RO,None
+1,-83,-58,-49,-62,-45,12,None,RO,Alba County
+2,-81,-55,-45,-69,-38,15,None,RO,Arad County
+3,-79,-54,-45,-73,-36,15,None,RO,Argeș County
+4,-80,-55,-47,-77,-38,15,None,RO,Bacău County
+5,-80,-59,-39,-64,-38,14,None,RO,Bihor County
+6,-82,-64,-64,-64,-43,17,None,RO,Bistrița-Năsăud County
+7,-77,-51,-6,-67,-38,14,None,RO,Botoșani County
+8,-85,-61,-79,-79,-43,17,None,RO,Brașov County
+9,-78,-47,-71,-70,-31,15,None,RO,Brăila County
+10,-85,-50,-86,-74,-45,18,None,RO,Bucharest
+11,-76,-56,-50,-59,-29,15,None,RO,Buzău County
+12,-77,-56,-53,-69,-41,19,None,RO,Caraș-Severin County
+13,-85,-62,-66,-77,-45,17,None,RO,Cluj County
+14,-80,-49,-72,-69,-37,16,None,RO,Constanța County
+15,-85,-61,-60,-61,-36,20,None,RO,Covasna County
+16,-65,-50,-53,-60,-24,14,None,RO,Călărași County
+17,-78,-53,-58,-67,-32,14,None,RO,Dolj County
+18,-76,-52,-50,-61,-32,14,None,RO,Dâmbovița County
+19,-80,-51,-66,-71,-38,16,None,RO,Galați
+20,-63,-38,-37,-45,-19,14,None,RO,Giurgiu County
+21,-73,-48,-50,-67,-36,15,None,RO,Gorj County
+22,-79,-65,-60,-60,-40,18,None,RO,Harghita County
+23,-82,-53,-66,-67,-44,14,None,RO,Hunedoara County
+24,-62,-49,-47,-63,-28,17,None,RO,Ialomița County
+25,-82,-53,-57,-73,-39,17,None,RO,Iași County
+26,-78,-47,-61,-78,-39,16,None,RO,Ilfov County
+27,-81,-58,-44,-67,-44,13,None,RO,Maramureș County
+28,-78,-48,-51,-64,-33,20,None,RO,Mehedinți County
+29,-81,-58,-61,-68,-37,14,None,RO,Mureș County
+30,-80,-55,-62,-79,-39,16,None,RO,Neamț County
+31,-70,-46,-53,-66,-35,13,None,RO,Olt County
+32,-81,-56,-72,-73,-36,14,None,RO,Prahova
+33,-82,-58,-39,-72,-40,13,None,RO,Satu Mare County
+34,-83,-63,-70,-73,-42,15,None,RO,Sibiu
+35,-85,-65,-49,-78,-48,17,None,RO,Suceava County
+36,-82,-50,-55,-64,-36,16,None,RO,Sălaj
+37,-56,-47,-21,-55,-24,13,None,RO,Teleorman County
+38,-83,-54,-71,-74,-42,16,None,RO,Timiș County
+39,-79,-53,-60,-71,-33,16,None,RO,Tulcea County
+40,-76,-53,-28,-68,-37,13,None,RO,Vaslui County
+41,-81,-56,-36,-74,-37,17,None,RO,Vrancea County
+42,-78,-52,-50,-66,-36,14,None,RO,Vâlcea County
+0,-56,-57,-18,-75,-31,22,None,RW,None
+0,-54,-24,-49,-75,-45,23,None,SA,None
+0,-44,-31,-28,-50,-10,12,None,SN,None
+0,-28,-6,-12,-40,-15,15,None,SG,None
+0,-82,-89,-9,-61,-38,10,None,SK,None
+1,-81,-88,5,-59,-36,9,None,SK,Banská Bystrica Region
+2,-83,-91,-3,-64,-40,12,None,SK,Bratislava Region
+3,-81,-90,67,-60,-34,9,None,SK,Košice Region
+4,-81,-90,29,-58,-36,9,None,SK,Nitra Region
+5,-82,-90,-55,-71,-41,10,None,SK,Prešov Region
+6,-78,-88,3,-57,-40,9,None,SK,Trenčín Region
+7,-81,-89,45,-62,-38,10,None,SK,Trnava Region
+8,-83,-88,-25,-68,-41,10,None,SK,Žilina Region
+0,-88,-92,-43,-54,-45,13,None,SI,None
+1,-90,-95,-53,-69,-45,27,None,SI,Administrative unit Maribor
+2,-86,-41,None,-65,-56,None,None,SI,Ajdovščina
+3,-91,-55,None,None,-57,None,None,SI,Brežice
+4,-88,-94,-58,-52,-39,11,None,SI,Celje
+5,-83,None,None,None,-53,None,None,SI,Cerknica
+6,-89,-89,None,-55,-39,22,None,SI,Domžale
+7,-70,None,None,None,-45,None,None,SI,Dravograd
+8,-88,-33,None,None,-48,None,None,SI,Gornja Radgona
+9,-90,-43,None,None,-38,2,None,SI,Grosuplje
+10,-66,-45,None,None,-55,None,None,SI,Idrija
+11,-80,None,None,None,-55,None,None,SI,Ilirska Bistrica
+12,-84,-33,None,None,-63,None,None,SI,Izola
+13,-90,-53,-67,-61,-53,None,None,SI,Jesenice
+14,-95,-47,None,None,-39,2,None,SI,Kamnik
+15,-92,-85,-63,-73,-47,13,None,SI,Koper
+16,-73,-51,None,None,-52,None,None,SI,Kočevje
+17,-90,-91,None,-75,-52,30,None,SI,Kranj
+18,-71,-54,None,None,-36,None,None,SI,Krško
+19,-80,-51,None,None,-53,None,None,SI,Laško
+20,-89,-41,None,None,-51,None,None,SI,Lenart
+21,-78,-55,None,None,-48,None,None,SI,Lendava
+22,-77,-35,None,None,-53,None,None,SI,Litija
+23,-87,-91,-51,-58,-44,15,None,SI,Ljubljana
+24,-88,-48,None,None,-52,None,None,SI,Ljutomer
+25,-88,-47,None,-81,-53,None,None,SI,Logatec
+26,None,None,None,None,-58,None,None,SI,Metlika
+27,-80,-45,None,None,-53,None,None,SI,Mozirje
+28,None,None,None,None,-53,None,None,SI,Municipality of Hrastnik
+29,-90,-39,None,-44,-50,1,None,SI,Murska Sobota
+30,-89,-49,None,-60,-52,2,None,SI,Nova Gorica
+31,-90,-45,None,None,-37,19,None,SI,Novo Mesto
+32,-61,-50,None,None,-59,None,None,SI,Ormož
+33,-83,None,None,None,-55,None,None,SI,Pesnica
+34,-90,-81,-53,None,-61,None,None,SI,Piran
+35,-73,-46,None,-51,-51,None,None,SI,Postojna
+36,-95,-92,None,-61,-37,18,None,SI,Ptuj
+37,-81,-45,None,None,-49,None,None,SI,Radlje ob Dravi
+38,-94,-50,-62,-61,-61,None,None,SI,Radovljica
+39,-76,-41,None,None,-30,None,None,SI,Ravne na Koroškem
+40,None,None,None,None,-52,None,None,SI,Ribnica
+41,-78,None,None,None,-52,None,None,SI,Ruše
+42,-85,-40,None,None,-51,None,None,SI,Sevnica
+43,-95,-57,None,None,-44,None,None,SI,Sežana
+44,-86,-57,None,None,-58,None,None,SI,Slovenj Gradec
+45,-100,-49,None,None,-36,None,None,SI,Slovenska Bistrica
+46,-91,-36,None,None,-48,None,None,SI,Slovenske Konjice
+47,-68,-49,None,None,-54,None,None,SI,Tolmin
+48,-86,-41,None,None,-50,None,None,SI,Trbovlje
+49,-92,-49,None,None,-57,None,None,SI,Trebnje
+50,-84,-44,None,None,-54,None,None,SI,Tržič
+51,-93,-58,None,-59,-47,0,None,SI,Velenje
+52,-88,-42,None,None,-50,None,None,SI,Vrhnika
+53,-76,-45,None,None,-59,None,None,SI,Zagorje ob Savi
+54,-70,-47,None,None,-47,None,None,SI,Črnomelj
+55,-74,-44,None,None,-54,None,None,SI,Šentjur
+56,-90,-43,None,-63,-64,1,None,SI,Škofja Loka
+57,-82,-60,2,None,-58,None,None,SI,Šmarje pri Jelšah
+58,-100,-42,None,None,-41,0,None,SI,Žalec
+0,-79,-60,-55,-80,-49,24,None,ZA,None
+0,-94,-76,-89,-88,-64,22,None,ES,None
+1,-94,-81,-88,-90,-65,21,None,ES,Andalusia
+2,-92,-75,-87,-90,-64,20,None,ES,Aragon
+3,-94,-78,-88,-80,-63,23,None,ES,Asturias
+4,-92,-68,-90,-88,-61,22,None,ES,Balearic Islands
+5,-94,-77,-93,-88,-63,22,None,ES,Basque Country
+6,-94,-75,-92,-87,-66,20,None,ES,Canary Islands
+7,-94,-76,-92,-89,-61,23,None,ES,Cantabria
+8,-94,-78,-84,-89,-62,22,None,ES,Castile and León
+9,-93,-77,-84,-89,-63,21,None,ES,Castile-La Mancha
+10,-94,-75,-90,-88,-64,21,None,ES,Catalonia
+11,-89,-78,-91,None,-64,4,None,ES,Ceuta
+12,-94,-72,-92,-89,-65,22,None,ES,Community of Madrid
+13,-93,-75,-79,-87,-60,22,None,ES,Extremadura
+14,-92,-77,-84,-88,-59,24,None,ES,Galicia
+15,-94,-75,-90,-90,-65,23,None,ES,La Rioja
+16,-92,-86,-90,-87,-59,-2,None,ES,Melilla
+17,-93,-77,-88,-90,-61,23,None,ES,Navarre
+18,-94,-85,-90,-86,-63,24,None,ES,Region of Murcia
+19,-95,-84,-92,-90,-66,22,None,ES,Valencian Community
+0,-86,-87,-57,-78,-50,32,None,LK,None
+0,-24,-10,43,-36,-18,5,None,SE,None
+1,-6,-5,26,-23,-18,9,None,SE,Blekinge County
+2,-34,-15,1,-30,-17,5,None,SE,Dalarna County
+3,-27,-10,10,-27,-14,5,None,SE,Gavleborg County
+4,-12,-6,None,-45,-10,7,None,SE,Gotland County
+5,-13,-7,74,-25,-14,5,None,SE,Halland County
+6,-41,-25,3,-46,-16,8,None,SE,Jamtland County
+7,-24,-7,30,-29,-23,6,None,SE,Jonkoping County
+8,-11,-5,21,-27,-13,5,None,SE,Kalmar County
+9,-19,-6,-51,-35,-17,8,None,SE,Kronoberg County
+10,-30,-14,60,-38,-15,2,None,SE,Norrbotten County
+11,-23,-8,23,-43,-16,6,None,SE,Skåne County
+12,-31,-14,24,-45,-21,7,None,SE,Stockholm County
+13,-18,-7,46,-41,-19,5,None,SE,Södermanland County
+14,-27,-9,35,-36,-18,7,None,SE,Uppsala County
+15,-28,-11,0,-25,-13,5,None,SE,Varmland County
+16,-27,-10,34,-32,-18,3,None,SE,Västerbotten County
+17,-26,-9,-14,-26,-17,4,None,SE,Västernorrland County
+18,-18,-7,-25,-32,-17,5,None,SE,Västmanland County
+19,-24,-9,38,-34,-18,6,None,SE,Västra Götaland County
+20,-18,-7,59,-28,-18,5,None,SE,Örebro County
+21,-18,-12,60,-33,-17,5,None,SE,Östergötland County
+0,-81,-51,-41,-68,-46,15,None,CH,None
+1,-75,-35,-14,-56,-41,13,None,CH,Aargau
+2,-77,3,None,-60,-29,None,None,CH,Appenzell Ausserrhoden
+3,-57,None,None,None,-29,None,None,CH,Appenzell Innerrhoden
+4,-89,-41,-65,-76,-48,25,None,CH,Basel City
+5,-77,-21,-25,-61,-40,23,None,CH,Basel-Landschaft
+6,-80,-53,-36,-68,-43,14,None,CH,Canton of Bern
+7,-75,-2,None,-67,-45,27,None,CH,Canton of Zug
+8,-82,-44,-41,-62,-42,20,None,CH,Fribourg
+9,-82,-60,-40,-84,-54,21,None,CH,Geneva
+10,-92,-19,None,-48,-33,None,None,CH,Glarus
+11,-89,-78,-59,-78,-57,20,None,CH,Grisons
+12,-91,-32,None,-64,-43,14,None,CH,Jura
+13,-82,-38,-50,-66,-40,16,None,CH,Lucerne
+14,-78,-48,-18,-58,-46,28,None,CH,Neuchâtel
+15,-74,-2,-73,-78,-46,None,None,CH,Nidwalden
+16,-63,-16,-49,-79,-40,None,None,CH,Obwalden
+17,-90,-50,None,-61,-41,2,None,CH,Schaffhausen
+18,-72,-55,-45,-66,-44,23,None,CH,Schwyz
+19,-77,-35,-13,-63,-38,15,None,CH,Solothurn
+20,-80,-44,-29,-58,-42,14,None,CH,St. Gallen
+21,-79,-30,-44,-61,-40,15,None,CH,Thurgau
+22,-85,-69,-51,-64,-49,21,None,CH,Ticino
+23,-89,-13,None,-78,-44,None,None,CH,Uri
+24,-87,-67,-61,-75,-57,17,None,CH,Valais
+25,-79,-49,-42,-68,-50,17,None,CH,Vaud
+26,-82,-44,-53,-73,-47,16,None,CH,Zurich
+0,-9,3,17,-24,-1,4,None,TW,None
+0,-8,-8,4,-17,10,-3,None,TJ,None
+0,-16,-8,-7,-11,-9,3,None,TZ,None
+0,-55,-27,-54,-61,-21,16,None,TH,None
+0,-37,-25,-21,-41,-9,16,None,TG,None
+0,-29,10,-40,-70,-17,9,None,TT,None
+0,-75,-39,-58,-71,-45,17,None,TR,None
+0,-50,-36,-16,-59,-23,19,None,UG,None
+0,-55,-26,-53,-69,-45,26,None,AE,None
+0,-85,-46,-52,-75,-55,15,None,GB,None
+1,-86,-41,-46,-73,-58,30,None,GB,Aberdeen City
+2,-80,-46,-45,-58,-52,27,None,GB,Aberdeenshire
+3,-80,-44,-28,-51,-48,20,None,GB,Angus council
+4,-81,-46,-61,-89,-52,29,None,GB,Antrim And Newtownabbey
+5,-78,-39,-57,-57,-56,28,None,GB,Ards And North Down
+6,-88,-45,-34,-57,-52,8,None,GB,Argyll and Bute Council
+7,-82,-45,-66,-65,-47,27,None,GB,Armagh City and Banbridge And Craigavon
+8,-91,-48,-54,-75,-66,30,None,GB,Bath and North East Somerset
+9,-86,-47,-51,-72,-49,28,None,GB,Bedford
+10,-85,-42,-47,-76,-59,17,None,GB,Belfast
+11,-85,-42,None,-71,-50,25,None,GB,Blackburn with Darwen
+12,-88,-43,-64,-65,-54,22,None,GB,Blackpool
+13,-75,-46,None,-57,-46,12,None,GB,Blaenau Gwent
+14,-78,-43,-46,-60,-48,25,None,GB,Borough of Halton
+15,-83,-41,-56,-69,-58,31,None,GB,Bracknell Forest
+16,-85,-43,-48,-59,-50,25,None,GB,Bridgend County Borough
+17,-89,-48,-59,-77,-64,30,None,GB,Brighton and Hove
+18,-85,-45,-43,-74,-57,16,None,GB,Buckinghamshire
+19,-78,-41,-52,-54,-47,25,None,GB,Caerphilly County Borough
+20,-87,-48,-51,-79,-54,16,None,GB,Cambridgeshire
+21,-86,-45,-48,-79,-59,17,None,GB,Cardiff
+22,-81,-46,-57,-60,-49,24,None,GB,Carmarthenshire
+23,-87,-41,-66,-64,-55,26,None,GB,Causeway Coast and Glens
+24,-82,-45,-41,-74,-54,20,None,GB,Central Bedfordshire
+25,-84,-54,-60,-69,-57,6,None,GB,Ceredigion
+26,-84,-47,-63,-75,-53,15,None,GB,Cheshire East
+27,-88,-47,-58,-77,-55,15,None,GB,Cheshire West and Chester
+28,-87,-47,-25,-81,-57,18,None,GB,City of Bristol
+29,-89,-39,None,-53,-49,6,None,GB,Clackmannanshire
+30,-86,-48,-70,-63,-58,22,None,GB,Conwy Principal Area
+31,-85,-53,-54,-66,-56,14,None,GB,Cornwall
+32,-83,-42,-56,-68,-55,14,None,GB,County Durham
+33,-84,-50,-54,-73,-58,15,None,GB,Cumbria
+34,-86,-47,-57,-75,-51,26,None,GB,Darlington
+35,-84,-43,-59,-70,-52,14,None,GB,Denbighshire
+36,-85,-46,-55,-81,-55,19,None,GB,Derby
+37,-86,-43,-55,-66,-55,15,None,GB,Derbyshire
+38,-80,-39,-63,-60,-54,25,None,GB,Derry And Strabane
+39,-87,-51,-54,-73,-54,15,None,GB,Devon
+40,-87,-47,-57,-70,-57,15,None,GB,Dorset
+41,-80,-42,-48,-75,-49,22,None,GB,Dumfries and Galloway
+42,-83,-52,-10,-71,-56,26,None,GB,Dundee City Council
+43,-83,-39,None,-55,-51,26,None,GB,East Ayrshire Council
+44,-75,-35,None,-54,-56,19,None,GB,East Dunbartonshire Council
+45,-81,-37,-34,-57,-56,17,None,GB,East Lothian Council
+46,-63,-29,-54,-51,-56,19,None,GB,East Renfrewshire Council
+47,-85,-45,-61,-51,-52,14,None,GB,East Riding of Yorkshire
+48,-87,-46,-60,-68,-57,14,None,GB,East Sussex
+49,-86,-44,-42,-83,-67,18,None,GB,Edinburgh
+50,-84,-49,-58,-85,-56,16,None,GB,Essex
+51,-78,-38,-26,-56,-47,27,None,GB,Falkirk
+52,-86,-47,-55,-54,-52,27,None,GB,Fermanagh And Omagh
+53,-79,-38,-32,-56,-51,14,None,GB,Fife
+54,-80,-44,-48,-60,-54,26,None,GB,Flintshire
+55,-84,-44,-37,-81,-60,16,None,GB,Glasgow City
+56,-86,-48,-49,-73,-55,15,None,GB,Gloucestershire
+57,-87,-48,-59,-80,-62,19,None,GB,Greater London
+58,-84,-46,-44,-80,-54,16,None,GB,Greater Manchester
+59,-87,-55,-62,-65,-56,18,None,GB,Gwynedd
+60,-85,-45,-48,-74,-54,15,None,GB,Hampshire
+61,-86,-44,-64,-70,-51,19,None,GB,Hartlepool
+62,-86,-50,-42,-64,-46,24,None,GB,Herefordshire
+63,-85,-47,-46,-73,-56,16,None,GB,Hertfordshire
+64,-83,-47,-48,-70,-53,24,None,GB,Highland Council
+65,-83,-37,None,-58,-52,15,None,GB,Inverclyde
+66,-84,-48,-65,-63,-46,7,None,GB,Isle of Anglesey
+67,-88,-47,-57,-76,-54,22,None,GB,Isle of Wight
+68,-86,-49,-62,-68,-53,15,None,GB,Kent
+69,-82,-45,-49,-71,-51,14,None,GB,Kingston upon Hull
+70,-84,-44,-39,-71,-52,14,None,GB,Lancashire
+71,-84,-47,-45,-80,-51,15,None,GB,Leicester
+72,-83,-45,-54,-72,-55,15,None,GB,Leicestershire
+73,-84,-45,-63,-67,-47,13,None,GB,Lincolnshire
+74,-87,-45,-79,-61,-56,30,None,GB,Lisburn and Castlereagh
+75,-79,-39,-41,-90,-49,19,None,GB,Luton
+76,-85,-40,-67,-71,-51,15,None,GB,Medway
+77,-83,-42,-53,-74,-54,15,None,GB,Merseyside
+78,-89,-50,None,-54,-52,8,None,GB,Merthyr Tydfil County Borough
+79,-81,-37,-52,-56,-56,27,None,GB,Mid And East Antrim
+80,-81,-43,None,-51,-42,28,None,GB,Mid Ulster
+81,-84,-43,-63,-73,-51,24,None,GB,Middlesbrough
+82,-90,-43,-20,-50,-53,25,None,GB,Midlothian
+83,-85,-49,-53,-79,-55,19,None,GB,Milton Keynes
+84,-85,-56,-61,-58,-47,16,None,GB,Monmouthshire
+85,-88,-45,-42,-63,-54,12,None,GB,Moray
+86,-77,-31,None,-54,-51,None,None,GB,Na h-Eileanan an Iar
+87,-74,-38,-46,-60,-46,23,None,GB,Neath Port Talbot Principle Area
+88,-83,-47,-49,-66,-52,26,None,GB,Newport
+89,-87,-45,-65,-55,-52,29,None,GB,Newry and Mourne And Down
+90,-87,-52,-69,-68,-53,14,None,GB,Norfolk
+91,-79,-37,-12,-59,-51,25,None,GB,North Ayrshire Council
+92,-85,-46,-72,-68,-46,22,None,GB,North East Lincolnshire
+93,-78,-37,None,-56,-50,13,None,GB,North Lanarkshire
+94,-79,-41,-56,-58,-46,23,None,GB,North Lincolnshire
+95,-84,-50,-52,-88,-54,27,None,GB,North Somerset
+96,-88,-48,-65,-74,-55,15,None,GB,North Yorkshire
+97,-84,-42,-59,-71,-47,14,None,GB,Northamptonshire
+98,-84,-42,-66,-61,-54,14,None,GB,Northumberland
+99,-90,-45,-58,-80,-56,15,None,GB,Nottinghamshire
+100,-85,-40,None,None,-61,None,None,GB,Orkney
+101,-87,-45,-48,-79,-58,17,None,GB,Oxfordshire
+102,-87,-49,-62,-61,-47,18,None,GB,Pembrokeshire
+103,-86,-46,-39,-65,-54,27,None,GB,Perth and Kinross
+104,-80,-45,-36,-77,-43,17,None,GB,Peterborough
+105,-87,-50,-43,-70,-54,18,None,GB,Plymouth
+106,-88,-43,-46,-71,-54,19,None,GB,Portsmouth
+107,-88,-50,-56,-63,-51,23,None,GB,Powys
+108,-89,-50,-41,-84,-55,32,None,GB,Reading
+109,-88,-44,-63,-62,-50,23,None,GB,Redcar and Cleveland
+110,-86,-39,14,-84,-58,29,None,GB,Renfrewshire
+111,-80,-41,-47,-52,-50,19,None,GB,Rhondda Cynon Taff
+112,-100,-37,-70,None,-57,None,None,GB,Rutland
+113,-88,-46,-39,-44,-51,20,None,GB,Scottish Borders
+114,-85,-49,None,-54,-60,None,None,GB,Shetland Islands
+115,-85,-49,-56,-70,-50,14,None,GB,Shropshire
+116,-80,-45,-45,-78,-54,29,None,GB,Slough
+117,-86,-48,-56,-73,-49,14,None,GB,Somerset
+118,-88,-42,-35,-62,-56,20,None,GB,South Ayrshire Council
+119,-81,-45,-30,-64,-52,20,None,GB,South Gloucestershire
+120,-78,-38,-6,-57,-54,14,None,GB,South Lanarkshire
+121,-86,-43,-47,-71,-53,15,None,GB,South Yorkshire
+122,-87,-41,-57,-71,-54,19,None,GB,Southampton
+123,-89,-39,-63,-79,-57,28,None,GB,Southend-on-Sea
+124,-85,-44,-54,-73,-54,14,None,GB,Staffordshire
+125,-85,-49,-49,-76,-62,11,None,GB,Stirling
+126,-84,-47,-60,-69,-52,25,None,GB,Stockton-on-Tees
+127,-84,-44,-41,-70,-49,14,None,GB,Stoke-on-Trent
+128,-87,-51,-67,-69,-54,15,None,GB,Suffolk
+129,-85,-44,-57,-74,-59,17,None,GB,Surrey
+130,-84,-50,-51,-67,-54,19,None,GB,Swansea
+131,-83,-44,-30,-69,-52,28,None,GB,Swindon
+132,-88,-53,-51,-59,-50,29,None,GB,Thurrock
+133,-86,-44,-58,-68,-55,24,None,GB,Torbay
+134,-82,-37,None,-54,-53,24,None,GB,Torfaen Principal Area
+135,-85,-47,-58,-74,-57,15,None,GB,Tyne and Wear
+136,-84,-49,-59,-70,-54,27,None,GB,Vale of Glamorgan
+137,-86,-42,-29,-68,-52,27,None,GB,Warrington
+138,-86,-44,-56,-72,-54,15,None,GB,Warwickshire
+139,-88,-49,-41,-82,-58,29,None,GB,West Berkshire
+140,-75,-43,None,-54,-51,23,None,GB,West Dunbartonshire Council
+141,-74,-29,-29,-52,-50,27,None,GB,West Lothian
+142,-84,-45,-45,-78,-57,15,None,GB,West Midlands
+143,-85,-46,-53,-85,-56,15,None,GB,West Sussex
+144,-84,-44,-49,-74,-55,15,None,GB,West Yorkshire
+145,-84,-45,-56,-70,-54,15,None,GB,Wiltshire
+146,-88,-42,-74,-79,-63,31,None,GB,Windsor and Maidenhead
+147,-81,-52,-26,-66,-61,32,None,GB,Wokingham
+148,-86,-47,-44,-71,-55,14,None,GB,Worcestershire
+149,-83,-43,-45,-64,-48,24,None,GB,Wrexham Principal Area
+150,-90,-50,-64,-84,-65,29,None,GB,York
+0,-47,-22,-19,-51,-38,12,None,US,None
+1,-41,-13,19,-30,-32,9,None,US,Alabama
+2,-48,-27,18,-55,-33,10,None,US,Alaska
+3,-40,-17,-7,-41,-33,10,None,US,Arizona
+4,-29,-7,81,-22,-27,7,None,US,Arkansas
+5,-50,-24,-38,-54,-39,15,None,US,California
+6,-51,-27,-12,-60,-40,13,None,US,Colorado
+7,-56,-32,-52,-64,-38,15,None,US,Connecticut
+8,-47,-28,-6,-57,-37,12,None,US,Delaware
+9,-64,-30,-41,-68,-47,14,None,US,District of Columbia
+10,-50,-26,-48,-63,-41,13,None,US,Florida
+11,-42,-17,-2,-52,-37,11,None,US,Georgia
+12,-56,-36,-65,-72,-45,16,None,US,Hawaii
+13,-42,-18,25,-34,-38,10,None,US,Idaho
+14,-53,-24,-29,-55,-39,13,None,US,Illinois
+15,-48,-25,24,-34,-36,11,None,US,Indiana
+16,-43,-10,41,-28,-29,10,None,US,Iowa
+17,-36,-14,72,-20,-30,9,None,US,Kansas
+18,-37,-11,68,-34,-34,9,None,US,Kentucky
+19,-45,-16,-18,-49,-35,11,None,US,Louisiana
+20,-50,-22,-24,-56,-31,10,None,US,Maine
+21,-45,-25,29,-51,-39,13,None,US,Maryland
+22,-59,-36,-56,-73,-42,16,None,US,Massachusetts
+23,-58,-28,15,-55,-43,12,None,US,Michigan
+24,-58,-35,-16,-64,-38,14,None,US,Minnesota
+25,-32,-7,27,-29,-30,9,None,US,Mississippi
+26,-38,-12,73,-34,-32,9,None,US,Missouri
+27,-51,-25,28,-37,-37,10,None,US,Montana
+28,-34,-9,109,-18,-24,8,None,US,Nebraska
+29,-47,-23,-38,-62,-52,14,None,US,Nevada
+30,-58,-35,-63,-63,-38,13,None,US,New Hampshire
+31,-59,-33,-36,-70,-44,16,None,US,New Jersey
+32,-44,-18,-12,-31,-34,11,None,US,New Mexico
+33,-62,-32,-47,-68,-46,16,None,US,New York
+34,-40,-15,13,-51,-35,10,None,US,North Carolina
+35,-44,-13,73,-36,-24,9,None,US,North Dakota
+36,-43,-19,117,-33,-35,10,None,US,Ohio
+37,-36,-12,29,-23,-32,9,None,US,Oklahoma
+38,-51,-25,-22,-47,-38,12,None,US,Oregon
+39,-50,-27,7,-52,-38,12,None,US,Pennsylvania
+40,-55,-30,-50,-67,-37,14,None,US,Rhode Island
+41,-38,-11,-4,-34,-34,9,None,US,South Carolina
+42,-35,-3,126,-31,-25,8,None,US,South Dakota
+43,-35,-9,35,-35,-34,8,None,US,Tennessee
+44,-45,-23,-27,-47,-36,13,None,US,Texas
+45,-41,-14,26,-44,-40,10,None,US,Utah
+46,-62,-42,-55,-71,-43,13,None,US,Vermont
+47,-39,-16,46,-50,-36,11,None,US,Virginia
+48,-48,-26,-11,-56,-41,13,None,US,Washington
+49,-38,-16,52,-31,-33,8,None,US,West Virginia
+50,-55,-30,-12,-50,-34,13,None,US,Wisconsin
+51,-37,-13,29,-14,-29,8,None,US,Wyoming
+0,-75,-45,-79,-71,-35,22,None,UY,None
+1,-60,-45,-71,-77,-24,-3,None,UY,Artigas Department
+2,-74,-49,-77,-75,-31,20,None,UY,Canelones Department
+3,-74,-43,-76,-73,-28,13,None,UY,Cerro Largo Department
+4,-78,-51,-84,-90,-38,21,None,UY,Colonia Department
+5,-68,-39,-68,-79,-21,-2,None,UY,Durazno Department
+6,-83,-38,-72,None,-20,None,None,UY,Flores Department
+7,-63,-37,-78,-70,-23,13,None,UY,Florida Department
+8,-53,-35,-76,-69,-22,-2,None,UY,Lavalleja Department
+9,-87,-65,-88,-86,-56,24,None,UY,Maldonado Department
+10,-73,-37,-72,-58,-37,23,None,UY,Montevideo Department
+11,-68,-22,-75,-78,-23,18,None,UY,Paysandú Department
+12,-71,-33,-76,-67,-33,12,None,UY,Rivera Department
+13,-89,-75,-89,-90,-41,9,None,UY,Rocha Department
+14,-72,-49,-82,-64,-27,-3,None,UY,Río Negro Department
+15,-71,-49,-74,-68,-30,17,None,UY,Salto Department
+16,-60,-40,-78,-61,-23,19,None,UY,San José Department
+17,-67,-52,-78,None,-28,13,None,UY,Soriano Department
+18,-67,-43,-77,-76,-25,15,None,UY,Tacuarembó Department
+19,-60,-24,-75,-55,-20,None,None,UY,Treinta y Tres Department
+0,-62,-44,-57,-62,-25,16,None,VE,None
+0,-52,-29,-33,-49,-20,16,None,VN,None
+0,-8,-1,-9,-9,-5,5,None,YE,None
+0,-21,-8,-6,-24,0,10,None,ZM,None
+0,-2,24,-4,-6,14,13,None,ZW,None
