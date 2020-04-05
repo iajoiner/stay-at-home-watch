@@ -1,962 +1,962 @@
-,retail_recreation,grocery_pharmacy,parks,transit_stations,workplace,residential,second_level_subdivision,country_code,first_level_subdivision
-0,-38.0,-21.0,-13.0,-34.0,-33,10.0,None,AF,None
-0,-61.0,-40.0,-39.0,-57.0,-11,22.0,None,AO,None
-0,-46.0,-21.0,-30.0,-67.0,-48,17.0,None,AG,None
-0,-86.0,-61.0,-89.0,-80.0,-57,27.0,None,AR,None
-1,-90.0,-48.0,-91.0,-82.0,-69,31.0,None,AR,Buenos Aires
-2,-88.0,-60.0,-91.0,-79.0,-60,26.0,None,AR,Buenos Aires Province
-3,-71.0,-46.0,-78.0,-81.0,-35,29.0,None,AR,Catamarca Province
-4,-79.0,-63.0,-83.0,-92.0,-48,24.0,None,AR,Chaco Province
-5,-92.0,-91.0,-94.0,-93.0,-62,28.0,None,AR,Chubut Province
-6,-88.0,-66.0,-90.0,-91.0,-57,30.0,None,AR,Cordoba
-7,-80.0,-63.0,-88.0,-89.0,-47,25.0,None,AR,Corrientes
-8,-87.0,-65.0,-93.0,-90.0,-54,29.0,None,AR,Entre Rios
-9,-76.0,-53.0,-82.0,-71.0,-37,21.0,None,AR,Formosa Province
-10,-80.0,-55.0,-83.0,-92.0,-44,27.0,None,AR,Jujuy
-11,-88.0,-72.0,-88.0,-87.0,-56,28.0,None,AR,La Pampa
-12,-70.0,-46.0,-84.0,-86.0,-40,26.0,None,AR,La Rioja Province
-13,-81.0,-56.0,-84.0,-72.0,-49,29.0,None,AR,Mendoza Province
-14,-83.0,-66.0,-85.0,-92.0,-51,27.0,None,AR,Misiones Province
-15,-96.0,-95.0,-95.0,-92.0,-72,33.0,None,AR,Neuquen
-16,-90.0,-72.0,-92.0,-96.0,-55,29.0,None,AR,Río Negro
-17,-82.0,-55.0,-84.0,-76.0,-47,26.0,None,AR,Salta Province
-18,-76.0,-50.0,-80.0,-87.0,-46,28.0,None,AR,San Juan Province
-19,-85.0,-60.0,-89.0,-91.0,-56,29.0,None,AR,San Luis Province
-20,-83.0,-62.0,-88.0,-91.0,-56,24.0,None,AR,Santa Cruz Province
-21,-87.0,-63.0,-89.0,-77.0,-57,29.0,None,AR,Santa Fe Province
-22,-75.0,-49.0,-75.0,-90.0,-46,25.0,None,AR,Santiago del Estero Province
-23,-87.0,-63.0,-89.0,-92.0,-59,24.0,None,AR,Tierra del Fuego Province
-24,-81.0,-53.0,-78.0,-90.0,-51,28.0,None,AR,Tucumán
-0,-88.0,-66.0,-80.0,-88.0,-72,20.0,None,AW,None
-0,-45.0,-19.0,-35.0,-58.0,-33,13.0,None,AU,None
-1,-40.0,-3.0,38.0,-52.0,-31,11.0,None,AU,Australian Capital Territory
-2,-44.0,-13.0,-27.0,-57.0,-35,14.0,None,AU,New South Wales
-3,-35.0,-13.0,-20.0,-55.0,-23,12.0,None,AU,Northern Territory
-4,-40.0,-19.0,-33.0,-57.0,-30,12.0,None,AU,Queensland
-5,-43.0,-15.0,-33.0,-55.0,-28,12.0,None,AU,South Australia
-6,-50.0,-30.0,-70.0,-62.0,-28,13.0,None,AU,Tasmania
-7,-51.0,-26.0,-55.0,-68.0,-37,16.0,None,AU,Victoria
-8,-40.0,-16.0,-37.0,-55.0,-26,13.0,None,AU,Western Australia
-0,-87.0,-64.0,-43.0,-71.0,-51,14.0,None,AT,None
-1,-83.0,-36.0,19.0,-43.0,-49,16.0,None,AT,Burgenland
-2,-85.0,-62.0,-45.0,-59.0,-48,13.0,None,AT,Carinthia
-3,-82.0,-36.0,8.0,-74.0,-45,13.0,None,AT,Lower Austria
-4,-93.0,-86.0,-73.0,-81.0,-59,15.0,None,AT,Salzburg
-5,-86.0,-61.0,-42.0,-71.0,-47,13.0,None,AT,Styria
-6,-95.0,-86.0,-82.0,-85.0,-65,16.0,None,AT,Tyrol
-7,-86.0,-44.0,-19.0,-67.0,-47,13.0,None,AT,Upper Austria
-8,-85.0,-52.0,-44.0,-71.0,-52,15.0,None,AT,Vienna
-9,-90.0,-70.0,-68.0,-79.0,-54,14.0,None,AT,Vorarlberg
-0,-67.0,-34.0,-48.0,-87.0,-52,19.0,None,BS,None
-0,-45.0,-22.0,-40.0,-38.0,-25,16.0,None,BH,None
-0,-68.0,-46.0,-26.0,-66.0,-60,24.0,None,BD,None
-0,-70.0,-47.0,-60.0,-77.0,-52,15.0,None,BB,None
-1,-81.0,-57.0,,-83.0,-51,17.0,None,BB,Christ Church
-2,-35.0,,-53.0,,-29,,None,BB,Saint George
-3,-76.0,-50.0,,,-56,,None,BB,Saint James
-4,,,,,-36,,None,BB,Saint John
-5,-70.0,-48.0,-70.0,-73.0,-55,14.0,None,BB,Saint Michael
-6,-74.0,-18.0,,,-31,,None,BB,Saint Peter
-7,-72.0,-49.0,,,-49,,None,BB,Saint Philip
-8,-13.0,,,,-29,,None,BB,Saint Thomas
-0,-14.0,5.0,41.0,-7.0,3,-2.0,None,BY,None
-0,-84.0,-53.0,-66.0,-76.0,-52,17.0,None,BE,None
-1,-89.0,-65.0,-64.0,-82.0,-62,19.0,None,BE,Brussels
-2,-82.0,-46.0,-65.0,-74.0,-50,17.0,None,BE,Flanders
-3,-84.0,-62.0,-72.0,-77.0,-52,16.0,None,BE,Wallonia
-0,-63.0,-49.0,-38.0,-68.0,-42,13.0,None,BZ,None
-0,-16.0,0.0,10.0,-14.0,2,5.0,None,BJ,None
-0,-93.0,-94.0,-89.0,-92.0,-72,35.0,None,BO,None
-0,-76.0,-50.0,-22.0,-59.0,-50,13.0,None,BA,None
-0,-12.0,-2.0,7.0,-20.0,-3,13.0,None,BW,None
-0,-71.0,-35.0,-70.0,-62.0,-34,17.0,None,BR,None
-1,-68.0,-28.0,-63.0,-56.0,-36,20.0,None,BR,Federal District
-2,-68.0,-20.0,-56.0,-75.0,-22,11.0,None,BR,State of Acre
-3,-77.0,-43.0,-79.0,-76.0,-35,17.0,None,BR,State of Alagoas
-4,-71.0,-27.0,-51.0,-73.0,-28,11.0,None,BR,State of Amapá
-5,-64.0,-28.0,-62.0,-46.0,-26,13.0,None,BR,State of Amazonas
-6,-73.0,-42.0,-71.0,-73.0,-33,17.0,None,BR,State of Bahia
-7,-76.0,-34.0,-71.0,-68.0,-33,16.0,None,BR,State of Ceará
-8,-68.0,-35.0,-69.0,-69.0,-31,16.0,None,BR,State of Espírito Santo
-9,-67.0,-27.0,-44.0,-50.0,-28,15.0,None,BR,State of Goiás
-10,-63.0,-27.0,-48.0,-66.0,-20,11.0,None,BR,State of Maranhão
-11,-63.0,-30.0,-44.0,-59.0,-22,11.0,None,BR,State of Mato Grosso
-12,-68.0,-33.0,-56.0,-68.0,-26,14.0,None,BR,State of Mato Grosso do Sul
-13,-66.0,-29.0,-46.0,-57.0,-30,15.0,None,BR,State of Minas Gerais
-14,-75.0,-42.0,-70.0,-64.0,-34,17.0,None,BR,State of Paraná
-15,-76.0,-36.0,-73.0,-64.0,-33,17.0,None,BR,State of Paraíba
-16,-61.0,-25.0,-53.0,-64.0,-19,12.0,None,BR,State of Pará
-17,-74.0,-35.0,-72.0,-59.0,-35,17.0,None,BR,State of Pernambuco
-18,-71.0,-39.0,-49.0,-76.0,-27,18.0,None,BR,State of Piauí
-19,-74.0,-36.0,-74.0,-66.0,-33,19.0,None,BR,State of Rio Grande do Norte
-20,-75.0,-39.0,-73.0,-67.0,-36,20.0,None,BR,State of Rio Grande do Sul
-21,-72.0,-32.0,-74.0,-61.0,-37,17.0,None,BR,State of Rio de Janeiro
-22,-63.0,-27.0,-42.0,-71.0,-23,12.0,None,BR,State of Rondônia
-23,-68.0,-25.0,-51.0,-72.0,-24,12.0,None,BR,State of Roraima
-24,-80.0,-49.0,-84.0,-76.0,-40,20.0,None,BR,State of Santa Catarina
-25,-78.0,-46.0,-77.0,-83.0,-36,18.0,None,BR,State of Sergipe
-26,-72.0,-36.0,-71.0,-62.0,-37,17.0,None,BR,State of São Paulo
-27,-61.0,-31.0,-35.0,-71.0,-19,11.0,None,BR,State of Tocantins
-0,-66.0,-36.0,-32.0,-58.0,-29,11.0,None,BG,None
-1,-74.0,-47.0,-32.0,-55.0,-43,10.0,None,BG,Blagoevgrad Province
-2,-65.0,-38.0,-40.0,-51.0,-35,11.0,None,BG,Burgas
-3,-61.0,-33.0,-38.0,,-19,18.0,None,BG,Dobrich Province
-4,-61.0,-34.0,-16.0,,-17,17.0,None,BG,Gabrovo
-5,-66.0,-43.0,-14.0,-67.0,-27,13.0,None,BG,Haskovo Province
-6,-58.0,-44.0,-42.0,,-20,14.0,None,BG,Jambol
-7,-71.0,-48.0,-27.0,-76.0,-39,12.0,None,BG,Kardzhali Province
-8,-57.0,-39.0,-35.0,-46.0,-24,19.0,None,BG,Kyustendil Province
-9,-64.0,-32.0,-16.0,,-21,18.0,None,BG,Lovec
-10,-41.0,-37.0,-18.0,-58.0,-13,11.0,None,BG,Montana Province
-11,-68.0,-38.0,-29.0,-69.0,-32,13.0,None,BG,Pazardzhik
-12,-58.0,-31.0,-37.0,,-21,21.0,None,BG,Pernik
-13,-64.0,-37.0,-16.0,,-22,14.0,None,BG,Pleven Province
-14,-68.0,-38.0,-33.0,-54.0,-29,12.0,None,BG,Plovdiv Province
-15,-48.0,-66.0,,,-10,11.0,None,BG,Razgrad
-16,-58.0,-36.0,-14.0,-43.0,-25,11.0,None,BG,Ruse
-17,-63.0,-29.0,-26.0,-70.0,-20,20.0,None,BG,Shumen Province
-18,-37.0,-23.0,,,-12,-3.0,None,BG,Silistra
-19,-61.0,-36.0,-40.0,-51.0,-25,19.0,None,BG,Sliven Province
-20,-66.0,-59.0,-42.0,,-41,2.0,None,BG,Smoljan
-21,-70.0,-35.0,-42.0,-62.0,-34,15.0,None,BG,Sofia City Province
-22,-60.0,-35.0,-28.0,,-31,14.0,None,BG,Sofia Province
-23,-63.0,-38.0,-27.0,-10.0,-29,10.0,None,BG,Stara Zagora
-24,-63.0,-31.0,,,-19,2.0,None,BG,Targovishte Province
-25,-72.0,-36.0,-54.0,-76.0,-34,12.0,None,BG,Varna
-26,-68.0,-37.0,-24.0,-56.0,-28,13.0,None,BG,Veliko Tarnovo Province
-27,-59.0,-29.0,,,-25,,None,BG,Vidin
-28,-53.0,-31.0,-3.0,-49.0,-18,21.0,None,BG,Vraca
-0,-34.0,-25.0,-22.0,-53.0,-3,15.0,None,BF,None
-0,-43.0,-29.0,-31.0,-57.0,-15,12.0,None,KH,None
-0,-26.0,-20.0,-19.0,-23.0,-3,9.0,None,CM,None
-0,-59.0,-35.0,-16.0,-66.0,-44,14.0,None,CA,None
-1,-55.0,-29.0,-23.0,-63.0,-41,13.0,None,CA,Alberta
-2,-54.0,-28.0,27.0,-59.0,-47,13.0,None,CA,British Columbia
-3,-49.0,-21.0,-9.0,-56.0,-36,11.0,None,CA,Manitoba
-4,-42.0,-20.0,101.0,-47.0,-35,8.0,None,CA,New Brunswick
-5,-54.0,-38.0,-18.0,-60.0,-35,9.0,None,CA,Newfoundland and Labrador
-6,-59.0,-44.0,,-59.0,-32,,None,CA,Northwest Territories
-7,-33.0,-7.0,95.0,-45.0,-32,5.0,None,CA,Nova Scotia
-8,-47.0,,,,-32,,None,CA,Nunavut
-9,-59.0,-33.0,-14.0,-66.0,-46,14.0,None,CA,Ontario
-10,-43.0,-19.0,-51.0,,-34,25.0,None,CA,Prince Edward Island
-11,-70.0,-44.0,-68.0,-75.0,-45,15.0,None,CA,Quebec
-12,-53.0,-24.0,45.0,-52.0,-37,11.0,None,CA,Saskatchewan
-13,-43.0,-28.0,,,-31,,None,CA,Yukon
-0,-60.0,-48.0,-57.0,-88.0,-40,19.0,None,CV,None
-0,-73.0,-55.0,-72.0,-64.0,-42,24.0,None,CL,None
-0,-86.0,-68.0,-80.0,-82.0,-58,26.0,None,CO,None
-0,-68.0,-41.0,-71.0,-68.0,-39,21.0,None,CR,None
-0,-35.0,-21.0,-21.0,-33.0,-9,14.0,None,CI,None
-0,-82.0,-57.0,-45.0,-74.0,-50,15.0,None,HR,None
-1,-85.0,-58.0,-23.0,-70.0,-46,20.0,None,HR,Bjelovar-Bilogora County
-2,-81.0,-59.0,,-83.0,-51,23.0,None,HR,Brod-Posavina County
-3,-85.0,-61.0,-51.0,-76.0,-51,16.0,None,HR,City of Zagreb
-4,-78.0,-54.0,-29.0,-66.0,-52,22.0,None,HR,Dubrovnik-Neretva County
-5,-74.0,-55.0,-35.0,-76.0,-45,15.0,None,HR,Istria County
-6,-83.0,-56.0,-16.0,-66.0,-48,30.0,None,HR,Karlovac County
-7,-81.0,-58.0,,,-44,25.0,None,HR,Koprivnica-Križevci County
-8,-87.0,-63.0,,-72.0,-48,34.0,None,HR,Krapina-Zagorje County
-9,-73.0,-44.0,-58.0,-83.0,-46,,None,HR,Lika-Senj County
-10,-86.0,-64.0,,-84.0,-54,27.0,None,HR,Međimurje County
-11,-83.0,-54.0,-14.0,-73.0,-47,17.0,None,HR,Osijek-Baranja County
-12,-83.0,-58.0,,-75.0,-49,0.0,None,HR,Požega-Slavonia County
-13,-82.0,-58.0,-47.0,-81.0,-48,15.0,None,HR,Primorje-Gorski Kotar County
-14,-76.0,-61.0,-51.0,-71.0,-43,27.0,None,HR,Sisak-Moslavina County
-15,-83.0,-52.0,-33.0,-76.0,-55,17.0,None,HR,Split-Dalmatia County
-16,-86.0,-61.0,-62.0,-83.0,-50,30.0,None,HR,Varaždin County
-17,-80.0,-53.0,,-79.0,-46,1.0,None,HR,Virovitica-Podravina County
-18,-81.0,-52.0,,-70.0,-48,24.0,None,HR,Vukovar-Srijem County
-19,-77.0,-51.0,-19.0,-75.0,-47,25.0,None,HR,Zadar County
-20,-85.0,-59.0,-64.0,-72.0,-53,15.0,None,HR,Zagreb County
-21,-78.0,-47.0,-12.0,-67.0,-48,15.0,None,HR,Šibenik-Knin County
-0,-73.0,-26.0,-24.0,-61.0,-31,11.0,None,CZ,None
-1,-67.0,-20.0,9.0,-37.0,-29,11.0,None,CZ,Central Bohemian Region
-2,-78.0,-30.0,-33.0,-69.0,-32,11.0,None,CZ,Hradec Králové Region
-3,-75.0,-38.0,-53.0,-70.0,-36,10.0,None,CZ,Karlovy Vary Region
-4,-75.0,-24.0,-45.0,-66.0,-36,10.0,None,CZ,Liberec Region
-5,-72.0,-21.0,-14.0,-63.0,-27,10.0,None,CZ,Moravian-Silesian Region
-6,-72.0,-27.0,-15.0,-74.0,-27,10.0,None,CZ,Olomouc Region
-7,-74.0,-27.0,-1.0,-73.0,-28,10.0,None,CZ,Pardubice Region
-8,-74.0,-29.0,-8.0,-55.0,-30,10.0,None,CZ,Plzeň Region
-9,-77.0,-30.0,-58.0,-71.0,-38,15.0,None,CZ,Prague
-10,-72.0,-27.0,-17.0,-60.0,-29,9.0,None,CZ,South Bohemian Region
-11,-70.0,-24.0,5.0,-50.0,-28,11.0,None,CZ,South Moravian Region
-12,-74.0,-21.0,27.0,-55.0,-28,10.0,None,CZ,Vysocina Region
-13,-71.0,-25.0,1.0,-65.0,-29,9.0,None,CZ,Zlin Region
-14,-71.0,-25.0,-28.0,-56.0,-26,9.0,None,CZ,Ústí nad Labem Region
-0,-37.0,-22.0,35.0,-60.0,-28,9.0,None,DK,None
-1,-48.0,-24.0,13.0,-67.0,-33,10.0,None,DK,Capital Region of Denmark
-2,-34.0,-23.0,71.0,-55.0,-26,9.0,None,DK,Central Denmark Region
-3,-34.0,-16.0,32.0,-54.0,-26,8.0,None,DK,North Denmark Region
-4,-28.0,-17.0,54.0,-55.0,-25,8.0,None,DK,Region Zealand
-5,-30.0,-22.0,23.0,-59.0,-28,9.0,None,DK,Region of Southern Denmark
-0,-80.0,-63.0,-73.0,-84.0,-56,23.0,None,DO,None
-0,-84.0,-66.0,-80.0,-80.0,-61,26.0,None,EC,None
-0,-50.0,-24.0,-40.0,-52.0,-35,15.0,None,EG,None
-0,-81.0,-62.0,-72.0,-73.0,-50,23.0,None,SV,None
-0,-60.0,-28.0,4.0,-51.0,-32,10.0,None,EE,None
-1,-61.0,-29.0,2.0,-57.0,-34,11.0,None,EE,Harju County
-2,,,,,-68,,None,EE,Hiiu County
-3,-50.0,-22.0,-23.0,-35.0,-28,12.0,None,EE,Ida-Viru County
-4,-41.0,-23.0,,,-39,,None,EE,Järva County
-5,-45.0,-24.0,,,-42,,None,EE,Jõgeva County
-6,-53.0,-32.0,,,-47,,None,EE,Lääne County
-7,-55.0,-20.0,,-41.0,-20,5.0,None,EE,Lääne-Viru County
-8,-67.0,-31.0,-17.0,-53.0,-36,20.0,None,EE,Pärnu County
-9,-77.0,-24.0,,,-48,,None,EE,Põlva County
-10,-72.0,-23.0,,,-47,,None,EE,Rapla County
-11,-80.0,-40.0,,-80.0,-57,,None,EE,Saare County
-12,-65.0,-30.0,-13.0,-54.0,-35,23.0,None,EE,Tartu County
-13,-58.0,-30.0,,,-40,,None,EE,Valga County
-14,-58.0,-26.0,,-42.0,-13,,None,EE,Viljandi County
-15,-82.0,-20.0,,,-46,,None,EE,Võru County
-0,-39.0,-25.0,-13.0,-59.0,-6,12.0,None,FJ,None
-0,-52.0,-21.0,48.0,-59.0,-25,9.0,None,FI,None
-1,-48.0,-22.0,60.0,-70.0,-23,8.0,None,FI,Central Finland
-2,-44.0,-13.0,,-63.0,-21,15.0,None,FI,Central Ostrobothnia
-3,-54.0,-24.0,44.0,-64.0,-21,13.0,None,FI,Kainuu
-4,-52.0,-21.0,65.0,-64.0,-17,8.0,None,FI,Kymenlaakso
-5,-62.0,-30.0,40.0,-71.0,-31,7.0,None,FI,Lapland
-6,-54.0,-20.0,61.0,-54.0,-24,14.0,None,FI,North Karelia
-7,-51.0,-24.0,73.0,-55.0,-24,8.0,None,FI,Northern Ostrobothnia
-8,-56.0,-20.0,47.0,-53.0,-22,7.0,None,FI,Northern Savonia
-9,-44.0,-16.0,70.0,-50.0,-21,8.0,None,FI,Ostrobothnia
-10,-53.0,-21.0,42.0,-53.0,-26,9.0,None,FI,Pirkanmaa
-11,-56.0,-22.0,84.0,-54.0,-25,8.0,None,FI,Päijänne Tavastia
-12,-49.0,-22.0,34.0,-48.0,-19,8.0,None,FI,Satakunta
-13,-55.0,-26.0,46.0,-64.0,-25,15.0,None,FI,South Karelia
-14,-49.0,-20.0,50.0,-51.0,-20,9.0,None,FI,Southern Ostrobothnia
-15,-55.0,-18.0,59.0,-66.0,-23,14.0,None,FI,Southern Savonia
-16,-54.0,-22.0,15.0,-51.0,-25,9.0,None,FI,Southwest Finland
-17,-53.0,-24.0,43.0,-62.0,-22,9.0,None,FI,Tavastia Proper
-18,-50.0,-20.0,39.0,-64.0,-28,10.0,None,FI,Uusimaa
-0,-88.0,-72.0,-82.0,-87.0,-56,18.0,None,FR,None
-1,-87.0,-74.0,-80.0,-89.0,-56,19.0,None,FR,Auvergne-Rhône-Alpes
-2,-87.0,-77.0,-77.0,-88.0,-54,18.0,None,FR,Bourgogne-Franche-Comté
-3,-87.0,-76.0,-83.0,-88.0,-53,18.0,None,FR,Brittany
-4,-86.0,-75.0,-79.0,-88.0,-53,17.0,None,FR,Centre-Val de Loire
-5,-84.0,-67.0,-74.0,-83.0,-54,21.0,None,FR,Corsica
-6,-89.0,-77.0,-81.0,-89.0,-59,17.0,None,FR,Grand Est
-7,-88.0,-72.0,-84.0,-87.0,-56,17.0,None,FR,Hauts-de-France
-8,-86.0,-73.0,-78.0,-88.0,-53,17.0,None,FR,Normandy
-9,-86.0,-76.0,-80.0,-86.0,-53,18.0,None,FR,Nouvelle-Aquitaine
-10,-86.0,-72.0,-73.0,-86.0,-53,18.0,None,FR,Occitanie
-11,-88.0,-78.0,-80.0,-90.0,-54,18.0,None,FR,Pays de la Loire
-12,-87.0,-68.0,-83.0,-85.0,-55,18.0,None,FR,Provence-Alpes-Côte d'Azur
-13,-91.0,-69.0,-89.0,-87.0,-63,20.0,None,FR,Île-de-France
-0,-39.0,-24.0,-25.0,-47.0,-15,15.0,None,GA,None
-0,-67.0,-36.0,-24.0,-53.0,-38,12.0,None,GE,None
-0,-77.0,-51.0,-49.0,-68.0,-39,11.0,None,DE,None
-1,-79.0,-49.0,-55.0,-71.0,-43,12.0,None,DE,Baden-Württemberg
-2,-80.0,-49.0,-50.0,-73.0,-43,12.0,None,DE,Bavaria
-3,-83.0,-55.0,-63.0,-70.0,-44,12.0,None,DE,Berlin
-4,-75.0,-52.0,-53.0,-63.0,-31,9.0,None,DE,Brandenburg
-5,-79.0,-54.0,-22.0,-74.0,-40,10.0,None,DE,Bremen
-6,-80.0,-50.0,-34.0,-72.0,-42,12.0,None,DE,Hamburg
-7,-74.0,-40.0,-26.0,-72.0,-41,10.0,None,DE,Hesse
-8,-76.0,-52.0,-42.0,-64.0,-36,10.0,None,DE,Lower Saxony
-9,-74.0,-48.0,-50.0,-64.0,-32,8.0,None,DE,Mecklenburg-Vorpommern
-10,-77.0,-51.0,-50.0,-70.0,-38,11.0,None,DE,North Rhine-Westphalia
-11,-74.0,-40.0,-38.0,-71.0,-39,10.0,None,DE,Rhineland-Palatinate
-12,-77.0,-56.0,-29.0,-71.0,-39,10.0,None,DE,Saarland
-13,-78.0,-51.0,-50.0,-66.0,-34,10.0,None,DE,Saxony
-14,-74.0,-48.0,-56.0,-65.0,-27,8.0,None,DE,Saxony-Anhalt
-15,-70.0,-53.0,-27.0,-58.0,-36,10.0,None,DE,Schleswig-Holstein
-16,-75.0,-44.0,-50.0,-63.0,-32,8.0,None,DE,Thuringia
-0,-15.0,8.0,-15.0,-15.0,3,9.0,None,GH,None
-0,-80.0,-41.0,-55.0,-76.0,-53,20.0,None,GR,None
-0,-67.0,-39.0,-53.0,-69.0,-39,19.0,None,GT,None
-0,-50.0,-11.0,-25.0,,-27,,None,GW,None
-0,-34.0,-31.0,-19.0,-48.0,-14,7.0,None,HT,None
-0,-81.0,-64.0,-59.0,-74.0,-46,20.0,None,HN,None
-0,-35.0,-7.0,-43.0,-45.0,-24,16.0,None,HK,None
-0,-66.0,-43.0,-7.0,-53.0,-32,10.0,None,HU,None
-1,-70.0,-45.0,27.0,-45.0,-30,9.0,None,HU,Baranya
-2,-59.0,-47.0,19.0,-38.0,-28,8.0,None,HU,Borsod-Abaúj-Zemplén
-3,-74.0,-40.0,-38.0,-67.0,-39,12.0,None,HU,Budapest
-4,-62.0,-42.0,10.0,-47.0,-27,9.0,None,HU,Bács-Kiskun
-5,-54.0,-39.0,15.0,-43.0,-23,7.0,None,HU,Békés County
-6,-66.0,-40.0,-12.0,-39.0,-28,10.0,None,HU,Csongrád
-7,-58.0,-43.0,24.0,-48.0,-30,9.0,None,HU,Fejér
-8,-71.0,-48.0,-6.0,-51.0,-42,11.0,None,HU,Gyor-Moson-Sopron
-9,-63.0,-46.0,34.0,-52.0,-28,9.0,None,HU,Hajdú-Bihar
-10,-62.0,-48.0,-35.0,-48.0,-34,12.0,None,HU,Heves County
-11,-52.0,-38.0,32.0,-49.0,-25,8.0,None,HU,Jász-Nagykun-Szolnok
-12,-57.0,-40.0,51.0,-46.0,-28,9.0,None,HU,Komárom-Esztergom
-13,-51.0,-40.0,-29.0,-30.0,-24,15.0,None,HU,Nógrád County
-14,-56.0,-42.0,57.0,-34.0,-31,10.0,None,HU,Pest County
-15,-58.0,-44.0,1.0,-44.0,-30,10.0,None,HU,Somogy County
-16,-57.0,-52.0,4.0,-43.0,-25,7.0,None,HU,Szabolcs-Szatmár-Bereg
-17,-50.0,-44.0,,-44.0,-28,18.0,None,HU,Tolna County
-18,-68.0,-50.0,19.0,-55.0,-38,13.0,None,HU,Vas County
-19,-57.0,-44.0,5.0,-43.0,-33,9.0,None,HU,Veszprém
-20,-66.0,-52.0,-25.0,-48.0,-35,11.0,None,HU,Zala County
-0,-77.0,-65.0,-57.0,-71.0,-47,22.0,None,IN,None
-0,-47.0,-27.0,-52.0,-54.0,-15,15.0,None,ID,None
-0,-64.0,-42.0,-48.0,-61.0,-55,21.0,None,IQ,None
-0,-83.0,-37.0,-59.0,-78.0,-52,19.0,None,IE,None
-1,-83.0,-35.0,-52.0,-64.0,-48,9.0,None,IE,County Carlow
-2,-81.0,-39.0,-41.0,-57.0,-45,21.0,None,IE,County Cavan
-3,-78.0,-30.0,-54.0,-74.0,-49,25.0,None,IE,County Clare
-4,-81.0,-40.0,-54.0,-73.0,-51,19.0,None,IE,County Cork
-5,-81.0,-39.0,-49.0,-56.0,-47,21.0,None,IE,County Donegal
-6,-85.0,-35.0,-64.0,-82.0,-58,21.0,None,IE,County Dublin
-7,-82.0,-36.0,-60.0,-68.0,-51,21.0,None,IE,County Galway
-8,-83.0,-44.0,-54.0,-76.0,-53,22.0,None,IE,County Kerry
-9,-84.0,-36.0,-66.0,-71.0,-51,21.0,None,IE,County Kildare
-10,-82.0,-37.0,-65.0,-77.0,-47,23.0,None,IE,County Kilkenny
-11,-79.0,-40.0,,-77.0,-48,22.0,None,IE,County Laois
-12,-93.0,-41.0,,,-50,,None,IE,County Leitrim
-13,-82.0,-35.0,-57.0,-74.0,-46,21.0,None,IE,County Limerick
-14,-77.0,-40.0,,,-45,,None,IE,County Longford
-15,-84.0,-39.0,-67.0,-84.0,-49,24.0,None,IE,County Louth
-16,-85.0,-44.0,-31.0,-78.0,-47,22.0,None,IE,County Mayo
-17,-80.0,-33.0,-54.0,-59.0,-49,21.0,None,IE,County Meath
-18,-80.0,-43.0,,-58.0,-49,18.0,None,IE,County Monaghan
-19,-79.0,-38.0,-40.0,-65.0,-47,22.0,None,IE,County Offaly
-20,-86.0,-38.0,,,-43,18.0,None,IE,County Roscommon
-21,-89.0,-44.0,-48.0,-69.0,-44,9.0,None,IE,County Sligo
-22,-80.0,-36.0,-61.0,-73.0,-46,21.0,None,IE,County Tipperary
-23,-87.0,-45.0,-75.0,-77.0,-46,20.0,None,IE,County Waterford
-24,-85.0,-48.0,-45.0,-75.0,-52,24.0,None,IE,County Westmeath
-25,-83.0,-42.0,-70.0,-71.0,-52,22.0,None,IE,County Wexford
-26,-89.0,-40.0,-79.0,-76.0,-53,27.0,None,IE,County Wicklow
-0,-67.0,-13.0,-56.0,-61.0,-59,30.0,None,IL,None
-0,-94.0,-85.0,-90.0,-87.0,-63,24.0,None,IT,None
-1,-94.0,-84.0,-89.0,-90.0,-63,24.0,None,IT,Abruzzo
-2,-95.0,-88.0,-91.0,-86.0,-67,36.0,None,IT,Aosta
-3,-94.0,-85.0,-88.0,-88.0,-64,25.0,None,IT,Apulia
-4,-91.0,-84.0,-77.0,-86.0,-58,22.0,None,IT,Basilicata
-5,-94.0,-92.0,-85.0,-90.0,-63,22.0,None,IT,Calabria
-6,-94.0,-78.0,-91.0,-89.0,-67,23.0,None,IT,Campania
-7,-96.0,-94.0,-88.0,-88.0,-65,24.0,None,IT,Emilia-Romagna
-8,-95.0,-94.0,-90.0,-83.0,-59,24.0,None,IT,Friuli-Venezia Giulia
-9,-94.0,-76.0,-90.0,-88.0,-62,24.0,None,IT,Lazio
-10,-94.0,-80.0,-91.0,-85.0,-60,23.0,None,IT,Liguria
-11,-95.0,-81.0,-91.0,-89.0,-65,24.0,None,IT,Lombardy
-12,-95.0,-88.0,-91.0,-86.0,-64,26.0,None,IT,Marche
-13,-91.0,-82.0,-84.0,-80.0,-60,29.0,None,IT,Molise
-14,-94.0,-82.0,-89.0,-85.0,-59,23.0,None,IT,Piedmont
-15,-94.0,-92.0,-87.0,-81.0,-56,22.0,None,IT,Sardinia
-16,-95.0,-93.0,-91.0,-89.0,-68,25.0,None,IT,Sicily
-17,-96.0,-94.0,-93.0,-86.0,-65,25.0,None,IT,Trentino-South Tyrol
-18,-94.0,-84.0,-91.0,-85.0,-62,25.0,None,IT,Tuscany
-19,-95.0,-89.0,-86.0,-81.0,-61,25.0,None,IT,Umbria
-20,-96.0,-95.0,-91.0,-89.0,-62,25.0,None,IT,Veneto
-0,-53.0,-36.0,-50.0,-50.0,-29,12.0,None,JM,None
-0,-26.0,-7.0,-25.0,-41.0,-9,7.0,None,JP,None
-1,-14.0,1.0,-11.0,-35.0,-5,6.0,None,JP,Aichi
-2,-1.0,5.0,19.0,-20.0,0,3.0,None,JP,Akita
-3,-11.0,1.0,11.0,-20.0,0,3.0,None,JP,Aomori
-4,-43.0,-21.0,-61.0,-53.0,-15,11.0,None,JP,Chiba
-5,-5.0,5.0,29.0,-12.0,0,3.0,None,JP,Ehime
-6,-13.0,5.0,-18.0,-19.0,-2,6.0,None,JP,Fukui
-7,-13.0,6.0,34.0,-34.0,-3,4.0,None,JP,Fukuoka
-8,-21.0,-7.0,-51.0,-35.0,-4,7.0,None,JP,Fukushima
-9,-14.0,3.0,-25.0,-32.0,-4,6.0,None,JP,Gifu
-10,-33.0,-15.0,-55.0,-49.0,-8,9.0,None,JP,Gunma
-11,-7.0,7.0,15.0,-24.0,-1,3.0,None,JP,Hiroshima
-12,-7.0,3.0,-2.0,-27.0,-5,3.0,None,JP,Hokkaido
-13,-12.0,5.0,-10.0,-31.0,-4,5.0,None,JP,Hyogo
-14,-31.0,-16.0,-60.0,-51.0,-10,10.0,None,JP,Ibaraki
-15,-8.0,8.0,-23.0,-30.0,-1,4.0,None,JP,Ishikawa
-16,-5.0,5.0,6.0,-19.0,1,3.0,None,JP,Iwate
-17,-7.0,4.0,19.0,-22.0,-1,3.0,None,JP,Kagawa
-18,-5.0,4.0,16.0,-15.0,4,2.0,None,JP,Kagoshima
-19,-55.0,-31.0,-66.0,-55.0,-23,13.0,None,JP,Kanagawa
-20,-3.0,3.0,23.0,-7.0,0,2.0,None,JP,Kochi
-21,-13.0,4.0,36.0,-14.0,-1,4.0,None,JP,Kumamoto
-22,-10.0,7.0,12.0,-32.0,-3,4.0,None,JP,Kyoto
-23,-9.0,4.0,-20.0,-33.0,-1,5.0,None,JP,Mie
-24,-14.0,0.0,-37.0,-35.0,-2,5.0,None,JP,Miyagi
-25,-7.0,7.0,4.0,-15.0,2,3.0,None,JP,Miyazaki
-26,-31.0,-11.0,-56.0,-44.0,-4,8.0,None,JP,Nagano
-27,-3.0,8.0,30.0,-12.0,3,2.0,None,JP,Nagasaki
-28,-7.0,11.0,10.0,-27.0,-5,4.0,None,JP,Nara
-29,-11.0,3.0,-22.0,-35.0,-3,5.0,None,JP,Niigata
-30,-8.0,5.0,22.0,-17.0,-1,3.0,None,JP,Oita
-31,-7.0,7.0,17.0,-18.0,0,3.0,None,JP,Okayama
-32,-9.0,0.0,-14.0,-27.0,1,3.0,None,JP,Okinawa
-33,-21.0,3.0,-8.0,-39.0,-7,6.0,None,JP,Osaka
-34,-4.0,6.0,48.0,-19.0,0,3.0,None,JP,Saga
-35,-51.0,-28.0,-61.0,-53.0,-20,12.0,None,JP,Saitama
-36,-6.0,7.0,-8.0,-25.0,-2,4.0,None,JP,Shiga
-37,1.0,6.0,45.0,4.0,5,1.0,None,JP,Shimane
-38,-17.0,-4.0,-47.0,-38.0,-6,7.0,None,JP,Shizuoka
-39,-33.0,-16.0,-61.0,-46.0,-9,10.0,None,JP,Tochigi
-40,-4.0,3.0,27.0,-13.0,0,3.0,None,JP,Tokushima
-41,-63.0,-32.0,-66.0,-59.0,-27,14.0,None,JP,Tokyo
-42,1.0,9.0,15.0,-13.0,2,2.0,None,JP,Tottori
-43,-6.0,7.0,-19.0,-26.0,0,4.0,None,JP,Toyama
-44,-6.0,8.0,16.0,-21.0,-2,4.0,None,JP,Wakayama
-45,-3.0,6.0,-12.0,-27.0,-1,3.0,None,JP,Yamagata
-46,-4.0,9.0,49.0,-6.0,1,3.0,None,JP,Yamaguchi
-47,-29.0,-13.0,-56.0,-51.0,-9,8.0,None,JP,Yamanashi
-0,-74.0,-52.0,-59.0,-89.0,-73,27.0,None,JO,None
-0,-45.0,-24.0,-20.0,-32.0,-17,9.0,None,KZ,None
-0,-45.0,-33.0,-20.0,-39.0,-22,17.0,None,KE,None
-0,-19.0,11.0,51.0,-17.0,-12,6.0,None,KR,None
-0,-56.0,-30.0,-48.0,-49.0,-42,23.0,None,KW,None
-1,-52.0,-28.0,-40.0,-37.0,-34,20.0,None,KW,Al Ahmadi Governorate
-2,-65.0,-34.0,-56.0,-53.0,-50,21.0,None,KW,Al Asimah Governate
-3,-50.0,-31.0,-47.0,-55.0,-37,24.0,None,KW,Al Farwaniyah Governorate
-4,-46.0,-30.0,-38.0,-18.0,-32,19.0,None,KW,Al Jahra Governorate
-5,-61.0,-28.0,-53.0,-40.0,-52,26.0,None,KW,Hawalli Governorate
-6,-56.0,-34.0,-51.0,-42.0,-52,21.0,None,KW,Mubarak Al-Kabeer Governorate
-0,-74.0,-64.0,-32.0,-70.0,-43,15.0,None,KG,None
-0,-45.0,-23.0,-18.0,-47.0,-9,11.0,None,LA,None
-0,-50.0,-22.0,-18.0,-48.0,-25,7.0,None,LV,None
-0,-73.0,-48.0,-59.0,-84.0,-41,15.0,None,LB,None
-0,-49.0,-28.0,-32.0,-52.0,-36,21.0,None,LY,None
-0,-90.0,-22.0,,,-37,,None,LI,None
-0,-72.0,-38.0,-28.0,-63.0,-33,11.0,None,LT,None
-1,-71.0,-36.0,0.0,-70.0,-32,17.0,None,LT,Alytus County
-2,-74.0,-40.0,-48.0,-68.0,-33,11.0,None,LT,Kaunas County
-3,-73.0,-31.0,-43.0,-59.0,-36,11.0,None,LT,Klaipėda County
-4,-64.0,-39.0,-35.0,-41.0,-27,18.0,None,LT,Marijampolė County
-5,-70.0,-36.0,-32.0,-63.0,-26,7.0,None,LT,Panevėžys County
-6,-60.0,-31.0,,-46.0,-23,15.0,None,LT,Tauragė County
-7,-67.0,-40.0,-18.0,-44.0,-24,17.0,None,LT,Telšiai County
-8,-63.0,-22.0,1.0,-35.0,-23,16.0,None,LT,Utena County
-9,-74.0,-41.0,-22.0,-67.0,-40,12.0,None,LT,Vilnius County
-10,-73.0,-39.0,-41.0,-38.0,-30,7.0,None,LT,Šiauliai County
-0,-90.0,-70.0,-66.0,-78.0,-60,23.0,None,LU,None
-0,-74.0,-41.0,-44.0,-69.0,-51,18.0,None,MK,None
-0,-81.0,-58.0,-68.0,-83.0,-52,31.0,None,MY,None
-0,-25.0,-18.0,-12.0,-36.0,0,9.0,None,ML,None
-0,-76.0,-38.0,-45.0,-57.0,-49,19.0,None,MT,None
-0,-89.0,-86.0,-88.0,-89.0,-69,24.0,None,MU,None
-1,-92.0,-89.0,-88.0,,-72,8.0,None,MU,Flacq District
-2,-94.0,-90.0,-90.0,-94.0,-70,8.0,None,MU,Grand Port District
-3,-97.0,-76.0,,-74.0,-65,8.0,None,MU,Moka District
-4,-81.0,-82.0,-91.0,-81.0,-67,7.0,None,MU,Pamplemousses District
-5,-91.0,-88.0,,-92.0,-71,37.0,None,MU,Plaines Wilhems District
-6,-88.0,-89.0,-85.0,-87.0,-65,6.0,None,MU,Port Louis District
-7,-92.0,-88.0,-91.0,-82.0,-73,8.0,None,MU,Rivière Noire District
-8,-93.0,-93.0,-100.0,,-67,8.0,None,MU,Rivière du Rempart District
-9,,,-55.0,,-62,,None,MU,Rodrigues District
-10,-91.0,-83.0,-28.0,,-69,,None,MU,Savanne District
-0,-45.0,-19.0,-46.0,-47.0,-20,11.0,None,MX,None
-0,-67.0,-44.0,-43.0,-68.0,-37,12.0,None,MD,None
-0,-16.0,5.0,5.0,-16.0,-2,2.0,None,MN,None
-0,-26.0,-13.0,-22.0,-29.0,1,10.0,None,MZ,None
-0,-46.0,-29.0,-19.0,-35.0,-10,12.0,None,MM,None
-0,-56.0,-42.0,-39.0,-74.0,-28,16.0,None,NA,None
-0,-78.0,-69.0,-55.0,-74.0,-72,28.0,None,NP,None
-0,-65.0,-29.0,-30.0,-68.0,-35,11.0,None,NL,None
-1,-61.0,-30.0,-27.0,-58.0,-29,9.0,None,NL,Drenthe
-2,-56.0,-25.0,-5.0,-63.0,-34,10.0,None,NL,Flevoland
-3,-57.0,-28.0,-11.0,-51.0,-28,9.0,None,NL,Friesland
-4,-66.0,-28.0,-29.0,-62.0,-33,10.0,None,NL,Gelderland
-5,-65.0,-31.0,2.0,-63.0,-33,10.0,None,NL,Groningen
-6,-76.0,-34.0,-59.0,-65.0,-38,12.0,None,NL,Limburg
-7,-68.0,-28.0,-33.0,-71.0,-34,12.0,None,NL,North Brabant
-8,-66.0,-31.0,-35.0,-78.0,-40,12.0,None,NL,North Holland
-9,-67.0,-29.0,-25.0,-66.0,-34,11.0,None,NL,Overijssel
-10,-60.0,-26.0,-22.0,-64.0,-35,11.0,None,NL,South Holland
-11,-60.0,-32.0,-17.0,-70.0,-36,11.0,None,NL,Utrecht
-12,-69.0,-40.0,-46.0,-57.0,-31,10.0,None,NL,Zeeland
-0,-91.0,-54.0,-78.0,-84.0,-59,22.0,None,NZ,None
-1,-89.0,-55.0,-70.0,-83.0,-64,25.0,None,NZ,Auckland
-2,-92.0,-51.0,-86.0,-83.0,-52,22.0,None,NZ,Bay Of Plenty
-3,-90.0,-56.0,-83.0,-90.0,-60,22.0,None,NZ,Canterbury
-4,-100.0,-48.0,-88.0,,-47,,None,NZ,Gisborne
-5,-94.0,-53.0,-78.0,-84.0,-51,31.0,None,NZ,Hawke's Bay
-6,-93.0,-50.0,-76.0,-84.0,-54,33.0,None,NZ,Manawatu-Wanganui
-7,-92.0,-60.0,-83.0,-91.0,-25,0.0,None,NZ,Marlborough
-8,-100.0,-60.0,-81.0,,-61,4.0,None,NZ,Nelson
-9,-93.0,-55.0,-86.0,-86.0,-52,32.0,None,NZ,Northland
-10,-95.0,-62.0,-82.0,-91.0,-64,39.0,None,NZ,Otago
-11,-96.0,-53.0,-83.0,,-48,17.0,None,NZ,Southland
-12,-95.0,-52.0,-86.0,,-51,17.0,None,NZ,Taranaki
-13,-90.0,-67.0,-89.0,,-54,,None,NZ,Tasman
-14,-94.0,-55.0,-84.0,-82.0,-57,23.0,None,NZ,Waikato
-15,-93.0,-54.0,-63.0,-84.0,-62,20.0,None,NZ,Wellington
-16,-100.0,-61.0,-87.0,,-54,,None,NZ,West Coast
-0,-45.0,-25.0,-31.0,-38.0,-17,11.0,None,NI,None
-0,-23.0,-15.0,-19.0,-25.0,-1,9.0,None,NE,None
-0,-39.0,-25.0,-24.0,-34.0,-11,15.0,None,NG,None
-0,-65.0,-32.0,-5.0,-57.0,-34,11.0,None,NO,None
-1,-59.0,-21.0,-1.0,-39.0,-31,9.0,None,NO,Agder
-2,-66.0,-37.0,-8.0,-54.0,-32,10.0,None,NO,Innlandet
-3,-73.0,-38.0,-40.0,-67.0,-29,10.0,None,NO,Møre og Romsdal
-4,-61.0,-18.0,24.0,-71.0,-24,8.0,None,NO,Nordland
-5,-68.0,-26.0,-7.0,-64.0,-45,14.0,None,NO,Oslo
-6,-61.0,-38.0,4.0,-58.0,-35,11.0,None,NO,Rogaland
-7,-74.0,-46.0,-24.0,-71.0,-32,10.0,None,NO,Troms Og Finnmark
-8,-74.0,-41.0,-15.0,-68.0,-37,13.0,None,NO,Trondelag
-9,-59.0,-23.0,13.0,-52.0,-30,10.0,None,NO,Vestfold Og Telemark
-10,-71.0,-47.0,-31.0,-66.0,-36,12.0,None,NO,Vestland
-11,-56.0,-21.0,24.0,-59.0,-33,11.0,None,NO,Viken
-0,-52.0,-35.0,-41.0,-64.0,-34,17.0,None,OM,None
-0,-70.0,-55.0,-45.0,-62.0,-41,18.0,None,PK,None
-0,-84.0,-61.0,-78.0,-77.0,-59,31.0,None,PA,None
-0,-20.0,-9.0,-12.0,-46.0,11,12.0,None,PG,None
-0,-68.0,-52.0,-71.0,-76.0,-30,23.0,None,PY,None
-0,-82.0,-57.0,-76.0,-83.0,-55,29.0,None,PE,None
-0,-81.0,-59.0,-59.0,-82.0,-54,26.0,None,PH,None
-0,-78.0,-59.0,-59.0,-71.0,-36,13.0,None,PL,None
-1,-80.0,-61.0,-62.0,-73.0,-37,13.0,None,PL,Greater Poland Voivodeship
-2,-79.0,-63.0,-73.0,-78.0,-33,12.0,None,PL,Kuyavian-Pomeranian Voivodeship
-3,-84.0,-65.0,-69.0,-78.0,-41,14.0,None,PL,Lesser Poland Voivodeship
-4,-82.0,-65.0,-71.0,-77.0,-38,13.0,None,PL,Lower Silesian Voivodeship
-5,-71.0,-44.0,-25.0,-71.0,-32,12.0,None,PL,Lublin Voivodeship
-6,-77.0,-65.0,-55.0,-72.0,-37,12.0,None,PL,Lubusz Voivodeship
-7,-77.0,-54.0,-60.0,-70.0,-35,13.0,None,PL,Masovian Voivodeship
-8,-79.0,-62.0,-55.0,-72.0,-37,12.0,None,PL,Opole Voivodeship
-9,-71.0,-46.0,-11.0,-71.0,-36,13.0,None,PL,Podkarpackie Voivodeship
-10,-75.0,-47.0,-17.0,-60.0,-32,11.0,None,PL,Podlaskie Voivodeship
-11,-82.0,-64.0,-78.0,-78.0,-38,14.0,None,PL,Pomeranian Voivodeship
-12,-77.0,-58.0,-50.0,-65.0,-35,13.0,None,PL,Silesian Voivodeship
-13,-74.0,-44.0,-26.0,-67.0,-34,12.0,None,PL,Swietokrzyskie
-14,-77.0,-60.0,-63.0,-73.0,-35,11.0,None,PL,Warmian-Masurian Voivodeship
-15,-80.0,-66.0,-76.0,-69.0,-39,12.0,None,PL,West Pomeranian Voivodeship
-16,-74.0,-55.0,-49.0,-66.0,-29,13.0,None,PL,Łódź Voivodeship
-0,-83.0,-59.0,-80.0,-78.0,-53,22.0,None,PT,None
-1,-83.0,-61.0,-84.0,-83.0,-53,24.0,None,PT,Aveiro District
-2,-83.0,-56.0,-66.0,-87.0,-47,18.0,None,PT,Azores
-3,-83.0,-59.0,-60.0,,-40,24.0,None,PT,Beja District
-4,-83.0,-60.0,-82.0,-76.0,-52,24.0,None,PT,Braga
-5,-85.0,-66.0,-57.0,-78.0,-52,18.0,None,PT,Bragança District
-6,-81.0,-61.0,-65.0,-76.0,-48,31.0,None,PT,Castelo Branco District
-7,-83.0,-61.0,-80.0,-77.0,-48,23.0,None,PT,Coimbra District
-8,-83.0,-60.0,-78.0,-82.0,-54,21.0,None,PT,Faro District
-9,-86.0,-64.0,-75.0,-68.0,-46,28.0,None,PT,Guarda District
-10,-85.0,-62.0,-85.0,-81.0,-50,23.0,None,PT,Leiria District
-11,-84.0,-58.0,-82.0,-79.0,-56,22.0,None,PT,Lisbon
-12,-89.0,-63.0,-86.0,-77.0,-60,27.0,None,PT,Madeira
-13,-85.0,-63.0,-70.0,,-42,24.0,None,PT,Portalegre District
-14,-84.0,-59.0,-82.0,-79.0,-54,23.0,None,PT,Porto District
-15,-83.0,-59.0,-77.0,-81.0,-46,20.0,None,PT,Santarém District
-16,-82.0,-56.0,-78.0,-74.0,-54,20.0,None,PT,Setubal
-17,-85.0,-68.0,-76.0,-76.0,-51,26.0,None,PT,Viana do Castelo District
-18,-86.0,-64.0,-71.0,-72.0,-52,33.0,None,PT,Vila Real District
-19,-82.0,-60.0,-65.0,-61.0,-48,22.0,None,PT,Viseu District
-20,-83.0,-59.0,-78.0,-77.0,-48,29.0,None,PT,Évora District
-0,-77.0,-51.0,-75.0,-79.0,-48,21.0,None,PR,None
-0,-51.0,-25.0,-34.0,-52.0,-31,22.0,None,QA,None
-0,-96.0,-88.0,-92.0,-82.0,-53,,None,RE,None
-0,-81.0,-53.0,-60.0,-72.0,-39,15.0,None,RO,None
-1,-83.0,-58.0,-49.0,-62.0,-45,12.0,None,RO,Alba County
-2,-81.0,-55.0,-45.0,-69.0,-38,15.0,None,RO,Arad County
-3,-79.0,-54.0,-45.0,-73.0,-36,15.0,None,RO,Argeș County
-4,-80.0,-55.0,-47.0,-77.0,-38,15.0,None,RO,Bacău County
-5,-80.0,-59.0,-39.0,-64.0,-38,14.0,None,RO,Bihor County
-6,-82.0,-64.0,-64.0,-64.0,-43,17.0,None,RO,Bistrița-Năsăud County
-7,-77.0,-51.0,-6.0,-67.0,-38,14.0,None,RO,Botoșani County
-8,-85.0,-61.0,-79.0,-79.0,-43,17.0,None,RO,Brașov County
-9,-78.0,-47.0,-71.0,-70.0,-31,15.0,None,RO,Brăila County
-10,-85.0,-50.0,-86.0,-74.0,-45,18.0,None,RO,Bucharest
-11,-76.0,-56.0,-50.0,-59.0,-29,15.0,None,RO,Buzău County
-12,-77.0,-56.0,-53.0,-69.0,-41,19.0,None,RO,Caraș-Severin County
-13,-85.0,-62.0,-66.0,-77.0,-45,17.0,None,RO,Cluj County
-14,-80.0,-49.0,-72.0,-69.0,-37,16.0,None,RO,Constanța County
-15,-85.0,-61.0,-60.0,-61.0,-36,20.0,None,RO,Covasna County
-16,-65.0,-50.0,-53.0,-60.0,-24,14.0,None,RO,Călărași County
-17,-78.0,-53.0,-58.0,-67.0,-32,14.0,None,RO,Dolj County
-18,-76.0,-52.0,-50.0,-61.0,-32,14.0,None,RO,Dâmbovița County
-19,-80.0,-51.0,-66.0,-71.0,-38,16.0,None,RO,Galați
-20,-63.0,-38.0,-37.0,-45.0,-19,14.0,None,RO,Giurgiu County
-21,-73.0,-48.0,-50.0,-67.0,-36,15.0,None,RO,Gorj County
-22,-79.0,-65.0,-60.0,-60.0,-40,18.0,None,RO,Harghita County
-23,-82.0,-53.0,-66.0,-67.0,-44,14.0,None,RO,Hunedoara County
-24,-62.0,-49.0,-47.0,-63.0,-28,17.0,None,RO,Ialomița County
-25,-82.0,-53.0,-57.0,-73.0,-39,17.0,None,RO,Iași County
-26,-78.0,-47.0,-61.0,-78.0,-39,16.0,None,RO,Ilfov County
-27,-81.0,-58.0,-44.0,-67.0,-44,13.0,None,RO,Maramureș County
-28,-78.0,-48.0,-51.0,-64.0,-33,20.0,None,RO,Mehedinți County
-29,-81.0,-58.0,-61.0,-68.0,-37,14.0,None,RO,Mureș County
-30,-80.0,-55.0,-62.0,-79.0,-39,16.0,None,RO,Neamț County
-31,-70.0,-46.0,-53.0,-66.0,-35,13.0,None,RO,Olt County
-32,-81.0,-56.0,-72.0,-73.0,-36,14.0,None,RO,Prahova
-33,-82.0,-58.0,-39.0,-72.0,-40,13.0,None,RO,Satu Mare County
-34,-83.0,-63.0,-70.0,-73.0,-42,15.0,None,RO,Sibiu
-35,-85.0,-65.0,-49.0,-78.0,-48,17.0,None,RO,Suceava County
-36,-82.0,-50.0,-55.0,-64.0,-36,16.0,None,RO,Sălaj
-37,-56.0,-47.0,-21.0,-55.0,-24,13.0,None,RO,Teleorman County
-38,-83.0,-54.0,-71.0,-74.0,-42,16.0,None,RO,Timiș County
-39,-79.0,-53.0,-60.0,-71.0,-33,16.0,None,RO,Tulcea County
-40,-76.0,-53.0,-28.0,-68.0,-37,13.0,None,RO,Vaslui County
-41,-81.0,-56.0,-36.0,-74.0,-37,17.0,None,RO,Vrancea County
-42,-78.0,-52.0,-50.0,-66.0,-36,14.0,None,RO,Vâlcea County
-0,-56.0,-57.0,-18.0,-75.0,-31,22.0,None,RW,None
-0,-54.0,-24.0,-49.0,-75.0,-45,23.0,None,SA,None
-0,-44.0,-31.0,-28.0,-50.0,-10,12.0,None,SN,None
-0,-28.0,-6.0,-12.0,-40.0,-15,15.0,None,SG,None
-0,-82.0,-89.0,-9.0,-61.0,-38,10.0,None,SK,None
-1,-81.0,-88.0,5.0,-59.0,-36,9.0,None,SK,Banská Bystrica Region
-2,-83.0,-91.0,-3.0,-64.0,-40,12.0,None,SK,Bratislava Region
-3,-81.0,-90.0,67.0,-60.0,-34,9.0,None,SK,Košice Region
-4,-81.0,-90.0,29.0,-58.0,-36,9.0,None,SK,Nitra Region
-5,-82.0,-90.0,-55.0,-71.0,-41,10.0,None,SK,Prešov Region
-6,-78.0,-88.0,3.0,-57.0,-40,9.0,None,SK,Trenčín Region
-7,-81.0,-89.0,45.0,-62.0,-38,10.0,None,SK,Trnava Region
-8,-83.0,-88.0,-25.0,-68.0,-41,10.0,None,SK,Žilina Region
-0,-88.0,-92.0,-43.0,-54.0,-45,13.0,None,SI,None
-1,-90.0,-95.0,-53.0,-69.0,-45,27.0,None,SI,Administrative unit Maribor
-2,-86.0,-41.0,,-65.0,-56,,None,SI,Ajdovščina
-3,-91.0,-55.0,,,-57,,None,SI,Brežice
-4,-88.0,-94.0,-58.0,-52.0,-39,11.0,None,SI,Celje
-5,-83.0,,,,-53,,None,SI,Cerknica
-6,-89.0,-89.0,,-55.0,-39,22.0,None,SI,Domžale
-7,-70.0,,,,-45,,None,SI,Dravograd
-8,-88.0,-33.0,,,-48,,None,SI,Gornja Radgona
-9,-90.0,-43.0,,,-38,2.0,None,SI,Grosuplje
-10,-66.0,-45.0,,,-55,,None,SI,Idrija
-11,-80.0,,,,-55,,None,SI,Ilirska Bistrica
-12,-84.0,-33.0,,,-63,,None,SI,Izola
-13,-90.0,-53.0,-67.0,-61.0,-53,,None,SI,Jesenice
-14,-95.0,-47.0,,,-39,2.0,None,SI,Kamnik
-15,-92.0,-85.0,-63.0,-73.0,-47,13.0,None,SI,Koper
-16,-73.0,-51.0,,,-52,,None,SI,Kočevje
-17,-90.0,-91.0,,-75.0,-52,30.0,None,SI,Kranj
-18,-71.0,-54.0,,,-36,,None,SI,Krško
-19,-80.0,-51.0,,,-53,,None,SI,Laško
-20,-89.0,-41.0,,,-51,,None,SI,Lenart
-21,-78.0,-55.0,,,-48,,None,SI,Lendava
-22,-77.0,-35.0,,,-53,,None,SI,Litija
-23,-87.0,-91.0,-51.0,-58.0,-44,15.0,None,SI,Ljubljana
-24,-88.0,-48.0,,,-52,,None,SI,Ljutomer
-25,-88.0,-47.0,,-81.0,-53,,None,SI,Logatec
-26,,,,,-58,,None,SI,Metlika
-27,-80.0,-45.0,,,-53,,None,SI,Mozirje
-28,,,,,-53,,None,SI,Municipality of Hrastnik
-29,-90.0,-39.0,,-44.0,-50,1.0,None,SI,Murska Sobota
-30,-89.0,-49.0,,-60.0,-52,2.0,None,SI,Nova Gorica
-31,-90.0,-45.0,,,-37,19.0,None,SI,Novo Mesto
-32,-61.0,-50.0,,,-59,,None,SI,Ormož
-33,-83.0,,,,-55,,None,SI,Pesnica
-34,-90.0,-81.0,-53.0,,-61,,None,SI,Piran
-35,-73.0,-46.0,,-51.0,-51,,None,SI,Postojna
-36,-95.0,-92.0,,-61.0,-37,18.0,None,SI,Ptuj
-37,-81.0,-45.0,,,-49,,None,SI,Radlje ob Dravi
-38,-94.0,-50.0,-62.0,-61.0,-61,,None,SI,Radovljica
-39,-76.0,-41.0,,,-30,,None,SI,Ravne na Koroškem
-40,,,,,-52,,None,SI,Ribnica
-41,-78.0,,,,-52,,None,SI,Ruše
-42,-85.0,-40.0,,,-51,,None,SI,Sevnica
-43,-95.0,-57.0,,,-44,,None,SI,Sežana
-44,-86.0,-57.0,,,-58,,None,SI,Slovenj Gradec
-45,-100.0,-49.0,,,-36,,None,SI,Slovenska Bistrica
-46,-91.0,-36.0,,,-48,,None,SI,Slovenske Konjice
-47,-68.0,-49.0,,,-54,,None,SI,Tolmin
-48,-86.0,-41.0,,,-50,,None,SI,Trbovlje
-49,-92.0,-49.0,,,-57,,None,SI,Trebnje
-50,-84.0,-44.0,,,-54,,None,SI,Tržič
-51,-93.0,-58.0,,-59.0,-47,0.0,None,SI,Velenje
-52,-88.0,-42.0,,,-50,,None,SI,Vrhnika
-53,-76.0,-45.0,,,-59,,None,SI,Zagorje ob Savi
-54,-70.0,-47.0,,,-47,,None,SI,Črnomelj
-55,-74.0,-44.0,,,-54,,None,SI,Šentjur
-56,-90.0,-43.0,,-63.0,-64,1.0,None,SI,Škofja Loka
-57,-82.0,-60.0,2.0,,-58,,None,SI,Šmarje pri Jelšah
-58,-100.0,-42.0,,,-41,0.0,None,SI,Žalec
-0,-79.0,-60.0,-55.0,-80.0,-49,24.0,None,ZA,None
-0,-94.0,-76.0,-89.0,-88.0,-64,22.0,None,ES,None
-1,-94.0,-81.0,-88.0,-90.0,-65,21.0,None,ES,Andalusia
-2,-92.0,-75.0,-87.0,-90.0,-64,20.0,None,ES,Aragon
-3,-94.0,-78.0,-88.0,-80.0,-63,23.0,None,ES,Asturias
-4,-92.0,-68.0,-90.0,-88.0,-61,22.0,None,ES,Balearic Islands
-5,-94.0,-77.0,-93.0,-88.0,-63,22.0,None,ES,Basque Country
-6,-94.0,-75.0,-92.0,-87.0,-66,20.0,None,ES,Canary Islands
-7,-94.0,-76.0,-92.0,-89.0,-61,23.0,None,ES,Cantabria
-8,-94.0,-78.0,-84.0,-89.0,-62,22.0,None,ES,Castile and León
-9,-93.0,-77.0,-84.0,-89.0,-63,21.0,None,ES,Castile-La Mancha
-10,-94.0,-75.0,-90.0,-88.0,-64,21.0,None,ES,Catalonia
-11,-89.0,-78.0,-91.0,,-64,4.0,None,ES,Ceuta
-12,-94.0,-72.0,-92.0,-89.0,-65,22.0,None,ES,Community of Madrid
-13,-93.0,-75.0,-79.0,-87.0,-60,22.0,None,ES,Extremadura
-14,-92.0,-77.0,-84.0,-88.0,-59,24.0,None,ES,Galicia
-15,-94.0,-75.0,-90.0,-90.0,-65,23.0,None,ES,La Rioja
-16,-92.0,-86.0,-90.0,-87.0,-59,-2.0,None,ES,Melilla
-17,-93.0,-77.0,-88.0,-90.0,-61,23.0,None,ES,Navarre
-18,-94.0,-85.0,-90.0,-86.0,-63,24.0,None,ES,Region of Murcia
-19,-95.0,-84.0,-92.0,-90.0,-66,22.0,None,ES,Valencian Community
-0,-86.0,-87.0,-57.0,-78.0,-50,32.0,None,LK,None
-0,-24.0,-10.0,43.0,-36.0,-18,5.0,None,SE,None
-1,-6.0,-5.0,26.0,-23.0,-18,9.0,None,SE,Blekinge County
-2,-34.0,-15.0,1.0,-30.0,-17,5.0,None,SE,Dalarna County
-3,-27.0,-10.0,10.0,-27.0,-14,5.0,None,SE,Gavleborg County
-4,-12.0,-6.0,,-45.0,-10,7.0,None,SE,Gotland County
-5,-13.0,-7.0,74.0,-25.0,-14,5.0,None,SE,Halland County
-6,-41.0,-25.0,3.0,-46.0,-16,8.0,None,SE,Jamtland County
-7,-24.0,-7.0,30.0,-29.0,-23,6.0,None,SE,Jonkoping County
-8,-11.0,-5.0,21.0,-27.0,-13,5.0,None,SE,Kalmar County
-9,-19.0,-6.0,-51.0,-35.0,-17,8.0,None,SE,Kronoberg County
-10,-30.0,-14.0,60.0,-38.0,-15,2.0,None,SE,Norrbotten County
-11,-23.0,-8.0,23.0,-43.0,-16,6.0,None,SE,Skåne County
-12,-31.0,-14.0,24.0,-45.0,-21,7.0,None,SE,Stockholm County
-13,-18.0,-7.0,46.0,-41.0,-19,5.0,None,SE,Södermanland County
-14,-27.0,-9.0,35.0,-36.0,-18,7.0,None,SE,Uppsala County
-15,-28.0,-11.0,0.0,-25.0,-13,5.0,None,SE,Varmland County
-16,-27.0,-10.0,34.0,-32.0,-18,3.0,None,SE,Västerbotten County
-17,-26.0,-9.0,-14.0,-26.0,-17,4.0,None,SE,Västernorrland County
-18,-18.0,-7.0,-25.0,-32.0,-17,5.0,None,SE,Västmanland County
-19,-24.0,-9.0,38.0,-34.0,-18,6.0,None,SE,Västra Götaland County
-20,-18.0,-7.0,59.0,-28.0,-18,5.0,None,SE,Örebro County
-21,-18.0,-12.0,60.0,-33.0,-17,5.0,None,SE,Östergötland County
-0,-81.0,-51.0,-41.0,-68.0,-46,15.0,None,CH,None
-1,-75.0,-35.0,-14.0,-56.0,-41,13.0,None,CH,Aargau
-2,-77.0,3.0,,-60.0,-29,,None,CH,Appenzell Ausserrhoden
-3,-57.0,,,,-29,,None,CH,Appenzell Innerrhoden
-4,-89.0,-41.0,-65.0,-76.0,-48,25.0,None,CH,Basel City
-5,-77.0,-21.0,-25.0,-61.0,-40,23.0,None,CH,Basel-Landschaft
-6,-80.0,-53.0,-36.0,-68.0,-43,14.0,None,CH,Canton of Bern
-7,-75.0,-2.0,,-67.0,-45,27.0,None,CH,Canton of Zug
-8,-82.0,-44.0,-41.0,-62.0,-42,20.0,None,CH,Fribourg
-9,-82.0,-60.0,-40.0,-84.0,-54,21.0,None,CH,Geneva
-10,-92.0,-19.0,,-48.0,-33,,None,CH,Glarus
-11,-89.0,-78.0,-59.0,-78.0,-57,20.0,None,CH,Grisons
-12,-91.0,-32.0,,-64.0,-43,14.0,None,CH,Jura
-13,-82.0,-38.0,-50.0,-66.0,-40,16.0,None,CH,Lucerne
-14,-78.0,-48.0,-18.0,-58.0,-46,28.0,None,CH,Neuchâtel
-15,-74.0,-2.0,-73.0,-78.0,-46,,None,CH,Nidwalden
-16,-63.0,-16.0,-49.0,-79.0,-40,,None,CH,Obwalden
-17,-90.0,-50.0,,-61.0,-41,2.0,None,CH,Schaffhausen
-18,-72.0,-55.0,-45.0,-66.0,-44,23.0,None,CH,Schwyz
-19,-77.0,-35.0,-13.0,-63.0,-38,15.0,None,CH,Solothurn
-20,-80.0,-44.0,-29.0,-58.0,-42,14.0,None,CH,St. Gallen
-21,-79.0,-30.0,-44.0,-61.0,-40,15.0,None,CH,Thurgau
-22,-85.0,-69.0,-51.0,-64.0,-49,21.0,None,CH,Ticino
-23,-89.0,-13.0,,-78.0,-44,,None,CH,Uri
-24,-87.0,-67.0,-61.0,-75.0,-57,17.0,None,CH,Valais
-25,-79.0,-49.0,-42.0,-68.0,-50,17.0,None,CH,Vaud
-26,-82.0,-44.0,-53.0,-73.0,-47,16.0,None,CH,Zurich
-0,-9.0,3.0,17.0,-24.0,-1,4.0,None,TW,None
-0,-8.0,-8.0,4.0,-17.0,10,-3.0,None,TJ,None
-0,-16.0,-8.0,-7.0,-11.0,-9,3.0,None,TZ,None
-0,-55.0,-27.0,-54.0,-61.0,-21,16.0,None,TH,None
-0,-37.0,-25.0,-21.0,-41.0,-9,16.0,None,TG,None
-0,-29.0,10.0,-40.0,-70.0,-17,9.0,None,TT,None
-0,-75.0,-39.0,-58.0,-71.0,-45,17.0,None,TR,None
-0,-50.0,-36.0,-16.0,-59.0,-23,19.0,None,UG,None
-0,-55.0,-26.0,-53.0,-69.0,-45,26.0,None,AE,None
-0,-85.0,-46.0,-52.0,-75.0,-55,15.0,None,GB,None
-1,-86.0,-41.0,-46.0,-73.0,-58,30.0,None,GB,Aberdeen City
-2,-80.0,-46.0,-45.0,-58.0,-52,27.0,None,GB,Aberdeenshire
-3,-80.0,-44.0,-28.0,-51.0,-48,20.0,None,GB,Angus council
-4,-81.0,-46.0,-61.0,-89.0,-52,29.0,None,GB,Antrim And Newtownabbey
-5,-78.0,-39.0,-57.0,-57.0,-56,28.0,None,GB,Ards And North Down
-6,-88.0,-45.0,-34.0,-57.0,-52,8.0,None,GB,Argyll and Bute Council
-7,-82.0,-45.0,-66.0,-65.0,-47,27.0,None,GB,Armagh City and Banbridge And Craigavon
-8,-91.0,-48.0,-54.0,-75.0,-66,30.0,None,GB,Bath and North East Somerset
-9,-86.0,-47.0,-51.0,-72.0,-49,28.0,None,GB,Bedford
-10,-85.0,-42.0,-47.0,-76.0,-59,17.0,None,GB,Belfast
-11,-85.0,-42.0,,-71.0,-50,25.0,None,GB,Blackburn with Darwen
-12,-88.0,-43.0,-64.0,-65.0,-54,22.0,None,GB,Blackpool
-13,-75.0,-46.0,,-57.0,-46,12.0,None,GB,Blaenau Gwent
-14,-78.0,-43.0,-46.0,-60.0,-48,25.0,None,GB,Borough of Halton
-15,-83.0,-41.0,-56.0,-69.0,-58,31.0,None,GB,Bracknell Forest
-16,-85.0,-43.0,-48.0,-59.0,-50,25.0,None,GB,Bridgend County Borough
-17,-89.0,-48.0,-59.0,-77.0,-64,30.0,None,GB,Brighton and Hove
-18,-85.0,-45.0,-43.0,-74.0,-57,16.0,None,GB,Buckinghamshire
-19,-78.0,-41.0,-52.0,-54.0,-47,25.0,None,GB,Caerphilly County Borough
-20,-87.0,-48.0,-51.0,-79.0,-54,16.0,None,GB,Cambridgeshire
-21,-86.0,-45.0,-48.0,-79.0,-59,17.0,None,GB,Cardiff
-22,-81.0,-46.0,-57.0,-60.0,-49,24.0,None,GB,Carmarthenshire
-23,-87.0,-41.0,-66.0,-64.0,-55,26.0,None,GB,Causeway Coast and Glens
-24,-82.0,-45.0,-41.0,-74.0,-54,20.0,None,GB,Central Bedfordshire
-25,-84.0,-54.0,-60.0,-69.0,-57,6.0,None,GB,Ceredigion
-26,-84.0,-47.0,-63.0,-75.0,-53,15.0,None,GB,Cheshire East
-27,-88.0,-47.0,-58.0,-77.0,-55,15.0,None,GB,Cheshire West and Chester
-28,-87.0,-47.0,-25.0,-81.0,-57,18.0,None,GB,City of Bristol
-29,-89.0,-39.0,,-53.0,-49,6.0,None,GB,Clackmannanshire
-30,-86.0,-48.0,-70.0,-63.0,-58,22.0,None,GB,Conwy Principal Area
-31,-85.0,-53.0,-54.0,-66.0,-56,14.0,None,GB,Cornwall
-32,-83.0,-42.0,-56.0,-68.0,-55,14.0,None,GB,County Durham
-33,-84.0,-50.0,-54.0,-73.0,-58,15.0,None,GB,Cumbria
-34,-86.0,-47.0,-57.0,-75.0,-51,26.0,None,GB,Darlington
-35,-84.0,-43.0,-59.0,-70.0,-52,14.0,None,GB,Denbighshire
-36,-85.0,-46.0,-55.0,-81.0,-55,19.0,None,GB,Derby
-37,-86.0,-43.0,-55.0,-66.0,-55,15.0,None,GB,Derbyshire
-38,-80.0,-39.0,-63.0,-60.0,-54,25.0,None,GB,Derry And Strabane
-39,-87.0,-51.0,-54.0,-73.0,-54,15.0,None,GB,Devon
-40,-87.0,-47.0,-57.0,-70.0,-57,15.0,None,GB,Dorset
-41,-80.0,-42.0,-48.0,-75.0,-49,22.0,None,GB,Dumfries and Galloway
-42,-83.0,-52.0,-10.0,-71.0,-56,26.0,None,GB,Dundee City Council
-43,-83.0,-39.0,,-55.0,-51,26.0,None,GB,East Ayrshire Council
-44,-75.0,-35.0,,-54.0,-56,19.0,None,GB,East Dunbartonshire Council
-45,-81.0,-37.0,-34.0,-57.0,-56,17.0,None,GB,East Lothian Council
-46,-63.0,-29.0,-54.0,-51.0,-56,19.0,None,GB,East Renfrewshire Council
-47,-85.0,-45.0,-61.0,-51.0,-52,14.0,None,GB,East Riding of Yorkshire
-48,-87.0,-46.0,-60.0,-68.0,-57,14.0,None,GB,East Sussex
-49,-86.0,-44.0,-42.0,-83.0,-67,18.0,None,GB,Edinburgh
-50,-84.0,-49.0,-58.0,-85.0,-56,16.0,None,GB,Essex
-51,-78.0,-38.0,-26.0,-56.0,-47,27.0,None,GB,Falkirk
-52,-86.0,-47.0,-55.0,-54.0,-52,27.0,None,GB,Fermanagh And Omagh
-53,-79.0,-38.0,-32.0,-56.0,-51,14.0,None,GB,Fife
-54,-80.0,-44.0,-48.0,-60.0,-54,26.0,None,GB,Flintshire
-55,-84.0,-44.0,-37.0,-81.0,-60,16.0,None,GB,Glasgow City
-56,-86.0,-48.0,-49.0,-73.0,-55,15.0,None,GB,Gloucestershire
-57,-87.0,-48.0,-59.0,-80.0,-62,19.0,None,GB,Greater London
-58,-84.0,-46.0,-44.0,-80.0,-54,16.0,None,GB,Greater Manchester
-59,-87.0,-55.0,-62.0,-65.0,-56,18.0,None,GB,Gwynedd
-60,-85.0,-45.0,-48.0,-74.0,-54,15.0,None,GB,Hampshire
-61,-86.0,-44.0,-64.0,-70.0,-51,19.0,None,GB,Hartlepool
-62,-86.0,-50.0,-42.0,-64.0,-46,24.0,None,GB,Herefordshire
-63,-85.0,-47.0,-46.0,-73.0,-56,16.0,None,GB,Hertfordshire
-64,-83.0,-47.0,-48.0,-70.0,-53,24.0,None,GB,Highland Council
-65,-83.0,-37.0,,-58.0,-52,15.0,None,GB,Inverclyde
-66,-84.0,-48.0,-65.0,-63.0,-46,7.0,None,GB,Isle of Anglesey
-67,-88.0,-47.0,-57.0,-76.0,-54,22.0,None,GB,Isle of Wight
-68,-86.0,-49.0,-62.0,-68.0,-53,15.0,None,GB,Kent
-69,-82.0,-45.0,-49.0,-71.0,-51,14.0,None,GB,Kingston upon Hull
-70,-84.0,-44.0,-39.0,-71.0,-52,14.0,None,GB,Lancashire
-71,-84.0,-47.0,-45.0,-80.0,-51,15.0,None,GB,Leicester
-72,-83.0,-45.0,-54.0,-72.0,-55,15.0,None,GB,Leicestershire
-73,-84.0,-45.0,-63.0,-67.0,-47,13.0,None,GB,Lincolnshire
-74,-87.0,-45.0,-79.0,-61.0,-56,30.0,None,GB,Lisburn and Castlereagh
-75,-79.0,-39.0,-41.0,-90.0,-49,19.0,None,GB,Luton
-76,-85.0,-40.0,-67.0,-71.0,-51,15.0,None,GB,Medway
-77,-83.0,-42.0,-53.0,-74.0,-54,15.0,None,GB,Merseyside
-78,-89.0,-50.0,,-54.0,-52,8.0,None,GB,Merthyr Tydfil County Borough
-79,-81.0,-37.0,-52.0,-56.0,-56,27.0,None,GB,Mid And East Antrim
-80,-81.0,-43.0,,-51.0,-42,28.0,None,GB,Mid Ulster
-81,-84.0,-43.0,-63.0,-73.0,-51,24.0,None,GB,Middlesbrough
-82,-90.0,-43.0,-20.0,-50.0,-53,25.0,None,GB,Midlothian
-83,-85.0,-49.0,-53.0,-79.0,-55,19.0,None,GB,Milton Keynes
-84,-85.0,-56.0,-61.0,-58.0,-47,16.0,None,GB,Monmouthshire
-85,-88.0,-45.0,-42.0,-63.0,-54,12.0,None,GB,Moray
-86,-77.0,-31.0,,-54.0,-51,,None,GB,Na h-Eileanan an Iar
-87,-74.0,-38.0,-46.0,-60.0,-46,23.0,None,GB,Neath Port Talbot Principle Area
-88,-83.0,-47.0,-49.0,-66.0,-52,26.0,None,GB,Newport
-89,-87.0,-45.0,-65.0,-55.0,-52,29.0,None,GB,Newry and Mourne And Down
-90,-87.0,-52.0,-69.0,-68.0,-53,14.0,None,GB,Norfolk
-91,-79.0,-37.0,-12.0,-59.0,-51,25.0,None,GB,North Ayrshire Council
-92,-85.0,-46.0,-72.0,-68.0,-46,22.0,None,GB,North East Lincolnshire
-93,-78.0,-37.0,,-56.0,-50,13.0,None,GB,North Lanarkshire
-94,-79.0,-41.0,-56.0,-58.0,-46,23.0,None,GB,North Lincolnshire
-95,-84.0,-50.0,-52.0,-88.0,-54,27.0,None,GB,North Somerset
-96,-88.0,-48.0,-65.0,-74.0,-55,15.0,None,GB,North Yorkshire
-97,-84.0,-42.0,-59.0,-71.0,-47,14.0,None,GB,Northamptonshire
-98,-84.0,-42.0,-66.0,-61.0,-54,14.0,None,GB,Northumberland
-99,-90.0,-45.0,-58.0,-80.0,-56,15.0,None,GB,Nottinghamshire
-100,-85.0,-40.0,,,-61,,None,GB,Orkney
-101,-87.0,-45.0,-48.0,-79.0,-58,17.0,None,GB,Oxfordshire
-102,-87.0,-49.0,-62.0,-61.0,-47,18.0,None,GB,Pembrokeshire
-103,-86.0,-46.0,-39.0,-65.0,-54,27.0,None,GB,Perth and Kinross
-104,-80.0,-45.0,-36.0,-77.0,-43,17.0,None,GB,Peterborough
-105,-87.0,-50.0,-43.0,-70.0,-54,18.0,None,GB,Plymouth
-106,-88.0,-43.0,-46.0,-71.0,-54,19.0,None,GB,Portsmouth
-107,-88.0,-50.0,-56.0,-63.0,-51,23.0,None,GB,Powys
-108,-89.0,-50.0,-41.0,-84.0,-55,32.0,None,GB,Reading
-109,-88.0,-44.0,-63.0,-62.0,-50,23.0,None,GB,Redcar and Cleveland
-110,-86.0,-39.0,14.0,-84.0,-58,29.0,None,GB,Renfrewshire
-111,-80.0,-41.0,-47.0,-52.0,-50,19.0,None,GB,Rhondda Cynon Taff
-112,-100.0,-37.0,-70.0,,-57,,None,GB,Rutland
-113,-88.0,-46.0,-39.0,-44.0,-51,20.0,None,GB,Scottish Borders
-114,-85.0,-49.0,,-54.0,-60,,None,GB,Shetland Islands
-115,-85.0,-49.0,-56.0,-70.0,-50,14.0,None,GB,Shropshire
-116,-80.0,-45.0,-45.0,-78.0,-54,29.0,None,GB,Slough
-117,-86.0,-48.0,-56.0,-73.0,-49,14.0,None,GB,Somerset
-118,-88.0,-42.0,-35.0,-62.0,-56,20.0,None,GB,South Ayrshire Council
-119,-81.0,-45.0,-30.0,-64.0,-52,20.0,None,GB,South Gloucestershire
-120,-78.0,-38.0,-6.0,-57.0,-54,14.0,None,GB,South Lanarkshire
-121,-86.0,-43.0,-47.0,-71.0,-53,15.0,None,GB,South Yorkshire
-122,-87.0,-41.0,-57.0,-71.0,-54,19.0,None,GB,Southampton
-123,-89.0,-39.0,-63.0,-79.0,-57,28.0,None,GB,Southend-on-Sea
-124,-85.0,-44.0,-54.0,-73.0,-54,14.0,None,GB,Staffordshire
-125,-85.0,-49.0,-49.0,-76.0,-62,11.0,None,GB,Stirling
-126,-84.0,-47.0,-60.0,-69.0,-52,25.0,None,GB,Stockton-on-Tees
-127,-84.0,-44.0,-41.0,-70.0,-49,14.0,None,GB,Stoke-on-Trent
-128,-87.0,-51.0,-67.0,-69.0,-54,15.0,None,GB,Suffolk
-129,-85.0,-44.0,-57.0,-74.0,-59,17.0,None,GB,Surrey
-130,-84.0,-50.0,-51.0,-67.0,-54,19.0,None,GB,Swansea
-131,-83.0,-44.0,-30.0,-69.0,-52,28.0,None,GB,Swindon
-132,-88.0,-53.0,-51.0,-59.0,-50,29.0,None,GB,Thurrock
-133,-86.0,-44.0,-58.0,-68.0,-55,24.0,None,GB,Torbay
-134,-82.0,-37.0,,-54.0,-53,24.0,None,GB,Torfaen Principal Area
-135,-85.0,-47.0,-58.0,-74.0,-57,15.0,None,GB,Tyne and Wear
-136,-84.0,-49.0,-59.0,-70.0,-54,27.0,None,GB,Vale of Glamorgan
-137,-86.0,-42.0,-29.0,-68.0,-52,27.0,None,GB,Warrington
-138,-86.0,-44.0,-56.0,-72.0,-54,15.0,None,GB,Warwickshire
-139,-88.0,-49.0,-41.0,-82.0,-58,29.0,None,GB,West Berkshire
-140,-75.0,-43.0,,-54.0,-51,23.0,None,GB,West Dunbartonshire Council
-141,-74.0,-29.0,-29.0,-52.0,-50,27.0,None,GB,West Lothian
-142,-84.0,-45.0,-45.0,-78.0,-57,15.0,None,GB,West Midlands
-143,-85.0,-46.0,-53.0,-85.0,-56,15.0,None,GB,West Sussex
-144,-84.0,-44.0,-49.0,-74.0,-55,15.0,None,GB,West Yorkshire
-145,-84.0,-45.0,-56.0,-70.0,-54,15.0,None,GB,Wiltshire
-146,-88.0,-42.0,-74.0,-79.0,-63,31.0,None,GB,Windsor and Maidenhead
-147,-81.0,-52.0,-26.0,-66.0,-61,32.0,None,GB,Wokingham
-148,-86.0,-47.0,-44.0,-71.0,-55,14.0,None,GB,Worcestershire
-149,-83.0,-43.0,-45.0,-64.0,-48,24.0,None,GB,Wrexham Principal Area
-150,-90.0,-50.0,-64.0,-84.0,-65,29.0,None,GB,York
-0,-47.0,-22.0,-19.0,-51.0,-38,12.0,None,US,None
-1,-41.0,-13.0,19.0,-30.0,-32,9.0,None,US,Alabama
-2,-48.0,-27.0,18.0,-55.0,-33,10.0,None,US,Alaska
-3,-40.0,-17.0,-7.0,-41.0,-33,10.0,None,US,Arizona
-4,-29.0,-7.0,81.0,-22.0,-27,7.0,None,US,Arkansas
-5,-50.0,-24.0,-38.0,-54.0,-39,15.0,None,US,California
-6,-51.0,-27.0,-12.0,-60.0,-40,13.0,None,US,Colorado
-7,-56.0,-32.0,-52.0,-64.0,-38,15.0,None,US,Connecticut
-8,-47.0,-28.0,-6.0,-57.0,-37,12.0,None,US,Delaware
-9,-64.0,-30.0,-41.0,-68.0,-47,14.0,None,US,District of Columbia
-10,-50.0,-26.0,-48.0,-63.0,-41,13.0,None,US,Florida
-11,-42.0,-17.0,-2.0,-52.0,-37,11.0,None,US,Georgia
-12,-56.0,-36.0,-65.0,-72.0,-45,16.0,None,US,Hawaii
-13,-42.0,-18.0,25.0,-34.0,-38,10.0,None,US,Idaho
-14,-53.0,-24.0,-29.0,-55.0,-39,13.0,None,US,Illinois
-15,-48.0,-25.0,24.0,-34.0,-36,11.0,None,US,Indiana
-16,-43.0,-10.0,41.0,-28.0,-29,10.0,None,US,Iowa
-17,-36.0,-14.0,72.0,-20.0,-30,9.0,None,US,Kansas
-18,-37.0,-11.0,68.0,-34.0,-34,9.0,None,US,Kentucky
-19,-45.0,-16.0,-18.0,-49.0,-35,11.0,None,US,Louisiana
-20,-50.0,-22.0,-24.0,-56.0,-31,10.0,None,US,Maine
-21,-45.0,-25.0,29.0,-51.0,-39,13.0,None,US,Maryland
-22,-59.0,-36.0,-56.0,-73.0,-42,16.0,None,US,Massachusetts
-23,-58.0,-28.0,15.0,-55.0,-43,12.0,None,US,Michigan
-24,-58.0,-35.0,-16.0,-64.0,-38,14.0,None,US,Minnesota
-25,-32.0,-7.0,27.0,-29.0,-30,9.0,None,US,Mississippi
-26,-38.0,-12.0,73.0,-34.0,-32,9.0,None,US,Missouri
-27,-51.0,-25.0,28.0,-37.0,-37,10.0,None,US,Montana
-28,-34.0,-9.0,109.0,-18.0,-24,8.0,None,US,Nebraska
-29,-47.0,-23.0,-38.0,-62.0,-52,14.0,None,US,Nevada
-30,-58.0,-35.0,-63.0,-63.0,-38,13.0,None,US,New Hampshire
-31,-59.0,-33.0,-36.0,-70.0,-44,16.0,None,US,New Jersey
-32,-44.0,-18.0,-12.0,-31.0,-34,11.0,None,US,New Mexico
-33,-62.0,-32.0,-47.0,-68.0,-46,16.0,None,US,New York
-34,-40.0,-15.0,13.0,-51.0,-35,10.0,None,US,North Carolina
-35,-44.0,-13.0,73.0,-36.0,-24,9.0,None,US,North Dakota
-36,-43.0,-19.0,117.0,-33.0,-35,10.0,None,US,Ohio
-37,-36.0,-12.0,29.0,-23.0,-32,9.0,None,US,Oklahoma
-38,-51.0,-25.0,-22.0,-47.0,-38,12.0,None,US,Oregon
-39,-50.0,-27.0,7.0,-52.0,-38,12.0,None,US,Pennsylvania
-40,-55.0,-30.0,-50.0,-67.0,-37,14.0,None,US,Rhode Island
-41,-38.0,-11.0,-4.0,-34.0,-34,9.0,None,US,South Carolina
-42,-35.0,-3.0,126.0,-31.0,-25,8.0,None,US,South Dakota
-43,-35.0,-9.0,35.0,-35.0,-34,8.0,None,US,Tennessee
-44,-45.0,-23.0,-27.0,-47.0,-36,13.0,None,US,Texas
-45,-41.0,-14.0,26.0,-44.0,-40,10.0,None,US,Utah
-46,-62.0,-42.0,-55.0,-71.0,-43,13.0,None,US,Vermont
-47,-39.0,-16.0,46.0,-50.0,-36,11.0,None,US,Virginia
-48,-48.0,-26.0,-11.0,-56.0,-41,13.0,None,US,Washington
-49,-38.0,-16.0,52.0,-31.0,-33,8.0,None,US,West Virginia
-50,-55.0,-30.0,-12.0,-50.0,-34,13.0,None,US,Wisconsin
-51,-37.0,-13.0,29.0,-14.0,-29,8.0,None,US,Wyoming
-0,-75.0,-45.0,-79.0,-71.0,-35,22.0,None,UY,None
-1,-60.0,-45.0,-71.0,-77.0,-24,-3.0,None,UY,Artigas Department
-2,-74.0,-49.0,-77.0,-75.0,-31,20.0,None,UY,Canelones Department
-3,-74.0,-43.0,-76.0,-73.0,-28,13.0,None,UY,Cerro Largo Department
-4,-78.0,-51.0,-84.0,-90.0,-38,21.0,None,UY,Colonia Department
-5,-68.0,-39.0,-68.0,-79.0,-21,-2.0,None,UY,Durazno Department
-6,-83.0,-38.0,-72.0,,-20,,None,UY,Flores Department
-7,-63.0,-37.0,-78.0,-70.0,-23,13.0,None,UY,Florida Department
-8,-53.0,-35.0,-76.0,-69.0,-22,-2.0,None,UY,Lavalleja Department
-9,-87.0,-65.0,-88.0,-86.0,-56,24.0,None,UY,Maldonado Department
-10,-73.0,-37.0,-72.0,-58.0,-37,23.0,None,UY,Montevideo Department
-11,-68.0,-22.0,-75.0,-78.0,-23,18.0,None,UY,Paysandú Department
-12,-71.0,-33.0,-76.0,-67.0,-33,12.0,None,UY,Rivera Department
-13,-89.0,-75.0,-89.0,-90.0,-41,9.0,None,UY,Rocha Department
-14,-72.0,-49.0,-82.0,-64.0,-27,-3.0,None,UY,Río Negro Department
-15,-71.0,-49.0,-74.0,-68.0,-30,17.0,None,UY,Salto Department
-16,-60.0,-40.0,-78.0,-61.0,-23,19.0,None,UY,San José Department
-17,-67.0,-52.0,-78.0,,-28,13.0,None,UY,Soriano Department
-18,-67.0,-43.0,-77.0,-76.0,-25,15.0,None,UY,Tacuarembó Department
-19,-60.0,-24.0,-75.0,-55.0,-20,,None,UY,Treinta y Tres Department
-0,-62.0,-44.0,-57.0,-62.0,-25,16.0,None,VE,None
-0,-52.0,-29.0,-33.0,-49.0,-20,16.0,None,VN,None
-0,-8.0,-1.0,-9.0,-9.0,-5,5.0,None,YE,None
-0,-21.0,-8.0,-6.0,-24.0,0,10.0,None,ZM,None
-0,-2.0,24.0,-4.0,-6.0,14,13.0,None,ZW,None
+,retail_recreation,grocery_pharmacy,parks,transit_stations,workplace,residential,second_level_subdivision,country_code,nation,first_level_subdivision,jurisdiction
+0,-38.0,-21.0,-13.0,-34.0,-33,10.0,None,AF,Afghanistan,None,Afghanistan
+0,-61.0,-40.0,-39.0,-57.0,-11,22.0,None,AO,Angola,None,Angola
+0,-46.0,-21.0,-30.0,-67.0,-48,17.0,None,AG,Antigua and Barbuda,None,Antigua and Barbuda
+0,-86.0,-61.0,-89.0,-80.0,-57,27.0,None,AR,Argentina,None,Argentina
+1,-90.0,-48.0,-91.0,-82.0,-69,31.0,None,AR,Argentina,Buenos Aires,"Buenos Aires,Argentina"
+2,-88.0,-60.0,-91.0,-79.0,-60,26.0,None,AR,Argentina,Buenos Aires Province,"Buenos Aires Province,Argentina"
+3,-71.0,-46.0,-78.0,-81.0,-35,29.0,None,AR,Argentina,Catamarca Province,"Catamarca Province,Argentina"
+4,-79.0,-63.0,-83.0,-92.0,-48,24.0,None,AR,Argentina,Chaco Province,"Chaco Province,Argentina"
+5,-92.0,-91.0,-94.0,-93.0,-62,28.0,None,AR,Argentina,Chubut Province,"Chubut Province,Argentina"
+6,-88.0,-66.0,-90.0,-91.0,-57,30.0,None,AR,Argentina,Cordoba,"Cordoba,Argentina"
+7,-80.0,-63.0,-88.0,-89.0,-47,25.0,None,AR,Argentina,Corrientes,"Corrientes,Argentina"
+8,-87.0,-65.0,-93.0,-90.0,-54,29.0,None,AR,Argentina,Entre Rios,"Entre Rios,Argentina"
+9,-76.0,-53.0,-82.0,-71.0,-37,21.0,None,AR,Argentina,Formosa Province,"Formosa Province,Argentina"
+10,-80.0,-55.0,-83.0,-92.0,-44,27.0,None,AR,Argentina,Jujuy,"Jujuy,Argentina"
+11,-88.0,-72.0,-88.0,-87.0,-56,28.0,None,AR,Argentina,La Pampa,"La Pampa,Argentina"
+12,-70.0,-46.0,-84.0,-86.0,-40,26.0,None,AR,Argentina,La Rioja Province,"La Rioja Province,Argentina"
+13,-81.0,-56.0,-84.0,-72.0,-49,29.0,None,AR,Argentina,Mendoza Province,"Mendoza Province,Argentina"
+14,-83.0,-66.0,-85.0,-92.0,-51,27.0,None,AR,Argentina,Misiones Province,"Misiones Province,Argentina"
+15,-96.0,-95.0,-95.0,-92.0,-72,33.0,None,AR,Argentina,Neuquen,"Neuquen,Argentina"
+16,-90.0,-72.0,-92.0,-96.0,-55,29.0,None,AR,Argentina,Río Negro,"Río Negro,Argentina"
+17,-82.0,-55.0,-84.0,-76.0,-47,26.0,None,AR,Argentina,Salta Province,"Salta Province,Argentina"
+18,-76.0,-50.0,-80.0,-87.0,-46,28.0,None,AR,Argentina,San Juan Province,"San Juan Province,Argentina"
+19,-85.0,-60.0,-89.0,-91.0,-56,29.0,None,AR,Argentina,San Luis Province,"San Luis Province,Argentina"
+20,-83.0,-62.0,-88.0,-91.0,-56,24.0,None,AR,Argentina,Santa Cruz Province,"Santa Cruz Province,Argentina"
+21,-87.0,-63.0,-89.0,-77.0,-57,29.0,None,AR,Argentina,Santa Fe Province,"Santa Fe Province,Argentina"
+22,-75.0,-49.0,-75.0,-90.0,-46,25.0,None,AR,Argentina,Santiago del Estero Province,"Santiago del Estero Province,Argentina"
+23,-87.0,-63.0,-89.0,-92.0,-59,24.0,None,AR,Argentina,Tierra del Fuego Province,"Tierra del Fuego Province,Argentina"
+24,-81.0,-53.0,-78.0,-90.0,-51,28.0,None,AR,Argentina,Tucumán,"Tucumán,Argentina"
+0,-88.0,-66.0,-80.0,-88.0,-72,20.0,None,AW,Aruba,None,Aruba
+0,-45.0,-19.0,-35.0,-58.0,-33,13.0,None,AU,Australia,None,Australia
+1,-40.0,-3.0,38.0,-52.0,-31,11.0,None,AU,Australia,Australian Capital Territory,"Australian Capital Territory,Australia"
+2,-44.0,-13.0,-27.0,-57.0,-35,14.0,None,AU,Australia,New South Wales,"New South Wales,Australia"
+3,-35.0,-13.0,-20.0,-55.0,-23,12.0,None,AU,Australia,Northern Territory,"Northern Territory,Australia"
+4,-40.0,-19.0,-33.0,-57.0,-30,12.0,None,AU,Australia,Queensland,"Queensland,Australia"
+5,-43.0,-15.0,-33.0,-55.0,-28,12.0,None,AU,Australia,South Australia,"South Australia,Australia"
+6,-50.0,-30.0,-70.0,-62.0,-28,13.0,None,AU,Australia,Tasmania,"Tasmania,Australia"
+7,-51.0,-26.0,-55.0,-68.0,-37,16.0,None,AU,Australia,Victoria,"Victoria,Australia"
+8,-40.0,-16.0,-37.0,-55.0,-26,13.0,None,AU,Australia,Western Australia,"Western Australia,Australia"
+0,-87.0,-64.0,-43.0,-71.0,-51,14.0,None,AT,Austria,None,Austria
+1,-83.0,-36.0,19.0,-43.0,-49,16.0,None,AT,Austria,Burgenland,"Burgenland,Austria"
+2,-85.0,-62.0,-45.0,-59.0,-48,13.0,None,AT,Austria,Carinthia,"Carinthia,Austria"
+3,-82.0,-36.0,8.0,-74.0,-45,13.0,None,AT,Austria,Lower Austria,"Lower Austria,Austria"
+4,-93.0,-86.0,-73.0,-81.0,-59,15.0,None,AT,Austria,Salzburg,"Salzburg,Austria"
+5,-86.0,-61.0,-42.0,-71.0,-47,13.0,None,AT,Austria,Styria,"Styria,Austria"
+6,-95.0,-86.0,-82.0,-85.0,-65,16.0,None,AT,Austria,Tyrol,"Tyrol,Austria"
+7,-86.0,-44.0,-19.0,-67.0,-47,13.0,None,AT,Austria,Upper Austria,"Upper Austria,Austria"
+8,-85.0,-52.0,-44.0,-71.0,-52,15.0,None,AT,Austria,Vienna,"Vienna,Austria"
+9,-90.0,-70.0,-68.0,-79.0,-54,14.0,None,AT,Austria,Vorarlberg,"Vorarlberg,Austria"
+0,-67.0,-34.0,-48.0,-87.0,-52,19.0,None,BS,The Bahamas,None,The Bahamas
+0,-45.0,-22.0,-40.0,-38.0,-25,16.0,None,BH,Bahrain,None,Bahrain
+0,-68.0,-46.0,-26.0,-66.0,-60,24.0,None,BD,Bangladesh,None,Bangladesh
+0,-70.0,-47.0,-60.0,-77.0,-52,15.0,None,BB,Barbados,None,Barbados
+1,-81.0,-57.0,,-83.0,-51,17.0,None,BB,Barbados,Christ Church,"Christ Church,Barbados"
+2,-35.0,,-53.0,,-29,,None,BB,Barbados,Saint George,"Saint George,Barbados"
+3,-76.0,-50.0,,,-56,,None,BB,Barbados,Saint James,"Saint James,Barbados"
+4,,,,,-36,,None,BB,Barbados,Saint John,"Saint John,Barbados"
+5,-70.0,-48.0,-70.0,-73.0,-55,14.0,None,BB,Barbados,Saint Michael,"Saint Michael,Barbados"
+6,-74.0,-18.0,,,-31,,None,BB,Barbados,Saint Peter,"Saint Peter,Barbados"
+7,-72.0,-49.0,,,-49,,None,BB,Barbados,Saint Philip,"Saint Philip,Barbados"
+8,-13.0,,,,-29,,None,BB,Barbados,Saint Thomas,"Saint Thomas,Barbados"
+0,-14.0,5.0,41.0,-7.0,3,-2.0,None,BY,Belarus,None,Belarus
+0,-84.0,-53.0,-66.0,-76.0,-52,17.0,None,BE,Belgium,None,Belgium
+1,-89.0,-65.0,-64.0,-82.0,-62,19.0,None,BE,Belgium,Brussels,"Brussels,Belgium"
+2,-82.0,-46.0,-65.0,-74.0,-50,17.0,None,BE,Belgium,Flanders,"Flanders,Belgium"
+3,-84.0,-62.0,-72.0,-77.0,-52,16.0,None,BE,Belgium,Wallonia,"Wallonia,Belgium"
+0,-63.0,-49.0,-38.0,-68.0,-42,13.0,None,BZ,Belize,None,Belize
+0,-16.0,0.0,10.0,-14.0,2,5.0,None,BJ,Benin,None,Benin
+0,-93.0,-94.0,-89.0,-92.0,-72,35.0,None,BO,Bolivia,None,Bolivia
+0,-76.0,-50.0,-22.0,-59.0,-50,13.0,None,BA,Bosnia and Herzegovina,None,Bosnia and Herzegovina
+0,-12.0,-2.0,7.0,-20.0,-3,13.0,None,BW,Botswana,None,Botswana
+0,-71.0,-35.0,-70.0,-62.0,-34,17.0,None,BR,Brazil,None,Brazil
+1,-68.0,-28.0,-63.0,-56.0,-36,20.0,None,BR,Brazil,Federal District,"Federal District,Brazil"
+2,-68.0,-20.0,-56.0,-75.0,-22,11.0,None,BR,Brazil,State of Acre,"State of Acre,Brazil"
+3,-77.0,-43.0,-79.0,-76.0,-35,17.0,None,BR,Brazil,State of Alagoas,"State of Alagoas,Brazil"
+4,-71.0,-27.0,-51.0,-73.0,-28,11.0,None,BR,Brazil,State of Amapá,"State of Amapá,Brazil"
+5,-64.0,-28.0,-62.0,-46.0,-26,13.0,None,BR,Brazil,State of Amazonas,"State of Amazonas,Brazil"
+6,-73.0,-42.0,-71.0,-73.0,-33,17.0,None,BR,Brazil,State of Bahia,"State of Bahia,Brazil"
+7,-76.0,-34.0,-71.0,-68.0,-33,16.0,None,BR,Brazil,State of Ceará,"State of Ceará,Brazil"
+8,-68.0,-35.0,-69.0,-69.0,-31,16.0,None,BR,Brazil,State of Espírito Santo,"State of Espírito Santo,Brazil"
+9,-67.0,-27.0,-44.0,-50.0,-28,15.0,None,BR,Brazil,State of Goiás,"State of Goiás,Brazil"
+10,-63.0,-27.0,-48.0,-66.0,-20,11.0,None,BR,Brazil,State of Maranhão,"State of Maranhão,Brazil"
+11,-63.0,-30.0,-44.0,-59.0,-22,11.0,None,BR,Brazil,State of Mato Grosso,"State of Mato Grosso,Brazil"
+12,-68.0,-33.0,-56.0,-68.0,-26,14.0,None,BR,Brazil,State of Mato Grosso do Sul,"State of Mato Grosso do Sul,Brazil"
+13,-66.0,-29.0,-46.0,-57.0,-30,15.0,None,BR,Brazil,State of Minas Gerais,"State of Minas Gerais,Brazil"
+14,-75.0,-42.0,-70.0,-64.0,-34,17.0,None,BR,Brazil,State of Paraná,"State of Paraná,Brazil"
+15,-76.0,-36.0,-73.0,-64.0,-33,17.0,None,BR,Brazil,State of Paraíba,"State of Paraíba,Brazil"
+16,-61.0,-25.0,-53.0,-64.0,-19,12.0,None,BR,Brazil,State of Pará,"State of Pará,Brazil"
+17,-74.0,-35.0,-72.0,-59.0,-35,17.0,None,BR,Brazil,State of Pernambuco,"State of Pernambuco,Brazil"
+18,-71.0,-39.0,-49.0,-76.0,-27,18.0,None,BR,Brazil,State of Piauí,"State of Piauí,Brazil"
+19,-74.0,-36.0,-74.0,-66.0,-33,19.0,None,BR,Brazil,State of Rio Grande do Norte,"State of Rio Grande do Norte,Brazil"
+20,-75.0,-39.0,-73.0,-67.0,-36,20.0,None,BR,Brazil,State of Rio Grande do Sul,"State of Rio Grande do Sul,Brazil"
+21,-72.0,-32.0,-74.0,-61.0,-37,17.0,None,BR,Brazil,State of Rio de Janeiro,"State of Rio de Janeiro,Brazil"
+22,-63.0,-27.0,-42.0,-71.0,-23,12.0,None,BR,Brazil,State of Rondônia,"State of Rondônia,Brazil"
+23,-68.0,-25.0,-51.0,-72.0,-24,12.0,None,BR,Brazil,State of Roraima,"State of Roraima,Brazil"
+24,-80.0,-49.0,-84.0,-76.0,-40,20.0,None,BR,Brazil,State of Santa Catarina,"State of Santa Catarina,Brazil"
+25,-78.0,-46.0,-77.0,-83.0,-36,18.0,None,BR,Brazil,State of Sergipe,"State of Sergipe,Brazil"
+26,-72.0,-36.0,-71.0,-62.0,-37,17.0,None,BR,Brazil,State of São Paulo,"State of São Paulo,Brazil"
+27,-61.0,-31.0,-35.0,-71.0,-19,11.0,None,BR,Brazil,State of Tocantins,"State of Tocantins,Brazil"
+0,-66.0,-36.0,-32.0,-58.0,-29,11.0,None,BG,Bulgaria,None,Bulgaria
+1,-74.0,-47.0,-32.0,-55.0,-43,10.0,None,BG,Bulgaria,Blagoevgrad Province,"Blagoevgrad Province,Bulgaria"
+2,-65.0,-38.0,-40.0,-51.0,-35,11.0,None,BG,Bulgaria,Burgas,"Burgas,Bulgaria"
+3,-61.0,-33.0,-38.0,,-19,18.0,None,BG,Bulgaria,Dobrich Province,"Dobrich Province,Bulgaria"
+4,-61.0,-34.0,-16.0,,-17,17.0,None,BG,Bulgaria,Gabrovo,"Gabrovo,Bulgaria"
+5,-66.0,-43.0,-14.0,-67.0,-27,13.0,None,BG,Bulgaria,Haskovo Province,"Haskovo Province,Bulgaria"
+6,-58.0,-44.0,-42.0,,-20,14.0,None,BG,Bulgaria,Jambol,"Jambol,Bulgaria"
+7,-71.0,-48.0,-27.0,-76.0,-39,12.0,None,BG,Bulgaria,Kardzhali Province,"Kardzhali Province,Bulgaria"
+8,-57.0,-39.0,-35.0,-46.0,-24,19.0,None,BG,Bulgaria,Kyustendil Province,"Kyustendil Province,Bulgaria"
+9,-64.0,-32.0,-16.0,,-21,18.0,None,BG,Bulgaria,Lovec,"Lovec,Bulgaria"
+10,-41.0,-37.0,-18.0,-58.0,-13,11.0,None,BG,Bulgaria,Montana Province,"Montana Province,Bulgaria"
+11,-68.0,-38.0,-29.0,-69.0,-32,13.0,None,BG,Bulgaria,Pazardzhik,"Pazardzhik,Bulgaria"
+12,-58.0,-31.0,-37.0,,-21,21.0,None,BG,Bulgaria,Pernik,"Pernik,Bulgaria"
+13,-64.0,-37.0,-16.0,,-22,14.0,None,BG,Bulgaria,Pleven Province,"Pleven Province,Bulgaria"
+14,-68.0,-38.0,-33.0,-54.0,-29,12.0,None,BG,Bulgaria,Plovdiv Province,"Plovdiv Province,Bulgaria"
+15,-48.0,-66.0,,,-10,11.0,None,BG,Bulgaria,Razgrad,"Razgrad,Bulgaria"
+16,-58.0,-36.0,-14.0,-43.0,-25,11.0,None,BG,Bulgaria,Ruse,"Ruse,Bulgaria"
+17,-63.0,-29.0,-26.0,-70.0,-20,20.0,None,BG,Bulgaria,Shumen Province,"Shumen Province,Bulgaria"
+18,-37.0,-23.0,,,-12,-3.0,None,BG,Bulgaria,Silistra,"Silistra,Bulgaria"
+19,-61.0,-36.0,-40.0,-51.0,-25,19.0,None,BG,Bulgaria,Sliven Province,"Sliven Province,Bulgaria"
+20,-66.0,-59.0,-42.0,,-41,2.0,None,BG,Bulgaria,Smoljan,"Smoljan,Bulgaria"
+21,-70.0,-35.0,-42.0,-62.0,-34,15.0,None,BG,Bulgaria,Sofia City Province,"Sofia City Province,Bulgaria"
+22,-60.0,-35.0,-28.0,,-31,14.0,None,BG,Bulgaria,Sofia Province,"Sofia Province,Bulgaria"
+23,-63.0,-38.0,-27.0,-10.0,-29,10.0,None,BG,Bulgaria,Stara Zagora,"Stara Zagora,Bulgaria"
+24,-63.0,-31.0,,,-19,2.0,None,BG,Bulgaria,Targovishte Province,"Targovishte Province,Bulgaria"
+25,-72.0,-36.0,-54.0,-76.0,-34,12.0,None,BG,Bulgaria,Varna,"Varna,Bulgaria"
+26,-68.0,-37.0,-24.0,-56.0,-28,13.0,None,BG,Bulgaria,Veliko Tarnovo Province,"Veliko Tarnovo Province,Bulgaria"
+27,-59.0,-29.0,,,-25,,None,BG,Bulgaria,Vidin,"Vidin,Bulgaria"
+28,-53.0,-31.0,-3.0,-49.0,-18,21.0,None,BG,Bulgaria,Vraca,"Vraca,Bulgaria"
+0,-34.0,-25.0,-22.0,-53.0,-3,15.0,None,BF,Burkina Faso,None,Burkina Faso
+0,-43.0,-29.0,-31.0,-57.0,-15,12.0,None,KH,Cambodia,None,Cambodia
+0,-26.0,-20.0,-19.0,-23.0,-3,9.0,None,CM,Cameroon,None,Cameroon
+0,-59.0,-35.0,-16.0,-66.0,-44,14.0,None,CA,Canada,None,Canada
+1,-55.0,-29.0,-23.0,-63.0,-41,13.0,None,CA,Canada,Alberta,"Alberta,Canada"
+2,-54.0,-28.0,27.0,-59.0,-47,13.0,None,CA,Canada,British Columbia,"British Columbia,Canada"
+3,-49.0,-21.0,-9.0,-56.0,-36,11.0,None,CA,Canada,Manitoba,"Manitoba,Canada"
+4,-42.0,-20.0,101.0,-47.0,-35,8.0,None,CA,Canada,New Brunswick,"New Brunswick,Canada"
+5,-54.0,-38.0,-18.0,-60.0,-35,9.0,None,CA,Canada,Newfoundland and Labrador,"Newfoundland and Labrador,Canada"
+6,-59.0,-44.0,,-59.0,-32,,None,CA,Canada,Northwest Territories,"Northwest Territories,Canada"
+7,-33.0,-7.0,95.0,-45.0,-32,5.0,None,CA,Canada,Nova Scotia,"Nova Scotia,Canada"
+8,-47.0,,,,-32,,None,CA,Canada,Nunavut,"Nunavut,Canada"
+9,-59.0,-33.0,-14.0,-66.0,-46,14.0,None,CA,Canada,Ontario,"Ontario,Canada"
+10,-43.0,-19.0,-51.0,,-34,25.0,None,CA,Canada,Prince Edward Island,"Prince Edward Island,Canada"
+11,-70.0,-44.0,-68.0,-75.0,-45,15.0,None,CA,Canada,Quebec,"Quebec,Canada"
+12,-53.0,-24.0,45.0,-52.0,-37,11.0,None,CA,Canada,Saskatchewan,"Saskatchewan,Canada"
+13,-43.0,-28.0,,,-31,,None,CA,Canada,Yukon,"Yukon,Canada"
+0,-60.0,-48.0,-57.0,-88.0,-40,19.0,None,CV,Cape Verde,None,Cape Verde
+0,-73.0,-55.0,-72.0,-64.0,-42,24.0,None,CL,Chile,None,Chile
+0,-86.0,-68.0,-80.0,-82.0,-58,26.0,None,CO,Colombia,None,Colombia
+0,-68.0,-41.0,-71.0,-68.0,-39,21.0,None,CR,Costa Rica,None,Costa Rica
+0,-35.0,-21.0,-21.0,-33.0,-9,14.0,None,CI,Côte d'Ivoire,None,Côte d'Ivoire
+0,-82.0,-57.0,-45.0,-74.0,-50,15.0,None,HR,Croatia,None,Croatia
+1,-85.0,-58.0,-23.0,-70.0,-46,20.0,None,HR,Croatia,Bjelovar-Bilogora County,"Bjelovar-Bilogora County,Croatia"
+2,-81.0,-59.0,,-83.0,-51,23.0,None,HR,Croatia,Brod-Posavina County,"Brod-Posavina County,Croatia"
+3,-85.0,-61.0,-51.0,-76.0,-51,16.0,None,HR,Croatia,City of Zagreb,"City of Zagreb,Croatia"
+4,-78.0,-54.0,-29.0,-66.0,-52,22.0,None,HR,Croatia,Dubrovnik-Neretva County,"Dubrovnik-Neretva County,Croatia"
+5,-74.0,-55.0,-35.0,-76.0,-45,15.0,None,HR,Croatia,Istria County,"Istria County,Croatia"
+6,-83.0,-56.0,-16.0,-66.0,-48,30.0,None,HR,Croatia,Karlovac County,"Karlovac County,Croatia"
+7,-81.0,-58.0,,,-44,25.0,None,HR,Croatia,Koprivnica-Križevci County,"Koprivnica-Križevci County,Croatia"
+8,-87.0,-63.0,,-72.0,-48,34.0,None,HR,Croatia,Krapina-Zagorje County,"Krapina-Zagorje County,Croatia"
+9,-73.0,-44.0,-58.0,-83.0,-46,,None,HR,Croatia,Lika-Senj County,"Lika-Senj County,Croatia"
+10,-86.0,-64.0,,-84.0,-54,27.0,None,HR,Croatia,Međimurje County,"Međimurje County,Croatia"
+11,-83.0,-54.0,-14.0,-73.0,-47,17.0,None,HR,Croatia,Osijek-Baranja County,"Osijek-Baranja County,Croatia"
+12,-83.0,-58.0,,-75.0,-49,0.0,None,HR,Croatia,Požega-Slavonia County,"Požega-Slavonia County,Croatia"
+13,-82.0,-58.0,-47.0,-81.0,-48,15.0,None,HR,Croatia,Primorje-Gorski Kotar County,"Primorje-Gorski Kotar County,Croatia"
+14,-76.0,-61.0,-51.0,-71.0,-43,27.0,None,HR,Croatia,Sisak-Moslavina County,"Sisak-Moslavina County,Croatia"
+15,-83.0,-52.0,-33.0,-76.0,-55,17.0,None,HR,Croatia,Split-Dalmatia County,"Split-Dalmatia County,Croatia"
+16,-86.0,-61.0,-62.0,-83.0,-50,30.0,None,HR,Croatia,Varaždin County,"Varaždin County,Croatia"
+17,-80.0,-53.0,,-79.0,-46,1.0,None,HR,Croatia,Virovitica-Podravina County,"Virovitica-Podravina County,Croatia"
+18,-81.0,-52.0,,-70.0,-48,24.0,None,HR,Croatia,Vukovar-Srijem County,"Vukovar-Srijem County,Croatia"
+19,-77.0,-51.0,-19.0,-75.0,-47,25.0,None,HR,Croatia,Zadar County,"Zadar County,Croatia"
+20,-85.0,-59.0,-64.0,-72.0,-53,15.0,None,HR,Croatia,Zagreb County,"Zagreb County,Croatia"
+21,-78.0,-47.0,-12.0,-67.0,-48,15.0,None,HR,Croatia,Šibenik-Knin County,"Šibenik-Knin County,Croatia"
+0,-73.0,-26.0,-24.0,-61.0,-31,11.0,None,CZ,Czechia,None,Czechia
+1,-67.0,-20.0,9.0,-37.0,-29,11.0,None,CZ,Czechia,Central Bohemian Region,"Central Bohemian Region,Czechia"
+2,-78.0,-30.0,-33.0,-69.0,-32,11.0,None,CZ,Czechia,Hradec Králové Region,"Hradec Králové Region,Czechia"
+3,-75.0,-38.0,-53.0,-70.0,-36,10.0,None,CZ,Czechia,Karlovy Vary Region,"Karlovy Vary Region,Czechia"
+4,-75.0,-24.0,-45.0,-66.0,-36,10.0,None,CZ,Czechia,Liberec Region,"Liberec Region,Czechia"
+5,-72.0,-21.0,-14.0,-63.0,-27,10.0,None,CZ,Czechia,Moravian-Silesian Region,"Moravian-Silesian Region,Czechia"
+6,-72.0,-27.0,-15.0,-74.0,-27,10.0,None,CZ,Czechia,Olomouc Region,"Olomouc Region,Czechia"
+7,-74.0,-27.0,-1.0,-73.0,-28,10.0,None,CZ,Czechia,Pardubice Region,"Pardubice Region,Czechia"
+8,-74.0,-29.0,-8.0,-55.0,-30,10.0,None,CZ,Czechia,Plzeň Region,"Plzeň Region,Czechia"
+9,-77.0,-30.0,-58.0,-71.0,-38,15.0,None,CZ,Czechia,Prague,"Prague,Czechia"
+10,-72.0,-27.0,-17.0,-60.0,-29,9.0,None,CZ,Czechia,South Bohemian Region,"South Bohemian Region,Czechia"
+11,-70.0,-24.0,5.0,-50.0,-28,11.0,None,CZ,Czechia,South Moravian Region,"South Moravian Region,Czechia"
+12,-74.0,-21.0,27.0,-55.0,-28,10.0,None,CZ,Czechia,Vysocina Region,"Vysocina Region,Czechia"
+13,-71.0,-25.0,1.0,-65.0,-29,9.0,None,CZ,Czechia,Zlin Region,"Zlin Region,Czechia"
+14,-71.0,-25.0,-28.0,-56.0,-26,9.0,None,CZ,Czechia,Ústí nad Labem Region,"Ústí nad Labem Region,Czechia"
+0,-37.0,-22.0,35.0,-60.0,-28,9.0,None,DK,Denmark,None,Denmark
+1,-48.0,-24.0,13.0,-67.0,-33,10.0,None,DK,Denmark,Capital Region of Denmark,"Capital Region of Denmark,Denmark"
+2,-34.0,-23.0,71.0,-55.0,-26,9.0,None,DK,Denmark,Central Denmark Region,"Central Denmark Region,Denmark"
+3,-34.0,-16.0,32.0,-54.0,-26,8.0,None,DK,Denmark,North Denmark Region,"North Denmark Region,Denmark"
+4,-28.0,-17.0,54.0,-55.0,-25,8.0,None,DK,Denmark,Region Zealand,"Region Zealand,Denmark"
+5,-30.0,-22.0,23.0,-59.0,-28,9.0,None,DK,Denmark,Region of Southern Denmark,"Region of Southern Denmark,Denmark"
+0,-80.0,-63.0,-73.0,-84.0,-56,23.0,None,DO,Dominican Republic,None,Dominican Republic
+0,-84.0,-66.0,-80.0,-80.0,-61,26.0,None,EC,Ecuador,None,Ecuador
+0,-50.0,-24.0,-40.0,-52.0,-35,15.0,None,EG,Egypt,None,Egypt
+0,-81.0,-62.0,-72.0,-73.0,-50,23.0,None,SV,El Salvador,None,El Salvador
+0,-60.0,-28.0,4.0,-51.0,-32,10.0,None,EE,Estonia,None,Estonia
+1,-61.0,-29.0,2.0,-57.0,-34,11.0,None,EE,Estonia,Harju County,"Harju County,Estonia"
+2,,,,,-68,,None,EE,Estonia,Hiiu County,"Hiiu County,Estonia"
+3,-50.0,-22.0,-23.0,-35.0,-28,12.0,None,EE,Estonia,Ida-Viru County,"Ida-Viru County,Estonia"
+4,-41.0,-23.0,,,-39,,None,EE,Estonia,Järva County,"Järva County,Estonia"
+5,-45.0,-24.0,,,-42,,None,EE,Estonia,Jõgeva County,"Jõgeva County,Estonia"
+6,-53.0,-32.0,,,-47,,None,EE,Estonia,Lääne County,"Lääne County,Estonia"
+7,-55.0,-20.0,,-41.0,-20,5.0,None,EE,Estonia,Lääne-Viru County,"Lääne-Viru County,Estonia"
+8,-67.0,-31.0,-17.0,-53.0,-36,20.0,None,EE,Estonia,Pärnu County,"Pärnu County,Estonia"
+9,-77.0,-24.0,,,-48,,None,EE,Estonia,Põlva County,"Põlva County,Estonia"
+10,-72.0,-23.0,,,-47,,None,EE,Estonia,Rapla County,"Rapla County,Estonia"
+11,-80.0,-40.0,,-80.0,-57,,None,EE,Estonia,Saare County,"Saare County,Estonia"
+12,-65.0,-30.0,-13.0,-54.0,-35,23.0,None,EE,Estonia,Tartu County,"Tartu County,Estonia"
+13,-58.0,-30.0,,,-40,,None,EE,Estonia,Valga County,"Valga County,Estonia"
+14,-58.0,-26.0,,-42.0,-13,,None,EE,Estonia,Viljandi County,"Viljandi County,Estonia"
+15,-82.0,-20.0,,,-46,,None,EE,Estonia,Võru County,"Võru County,Estonia"
+0,-39.0,-25.0,-13.0,-59.0,-6,12.0,None,FJ,Fiji,None,Fiji
+0,-52.0,-21.0,48.0,-59.0,-25,9.0,None,FI,Finland,None,Finland
+1,-48.0,-22.0,60.0,-70.0,-23,8.0,None,FI,Finland,Central Finland,"Central Finland,Finland"
+2,-44.0,-13.0,,-63.0,-21,15.0,None,FI,Finland,Central Ostrobothnia,"Central Ostrobothnia,Finland"
+3,-54.0,-24.0,44.0,-64.0,-21,13.0,None,FI,Finland,Kainuu,"Kainuu,Finland"
+4,-52.0,-21.0,65.0,-64.0,-17,8.0,None,FI,Finland,Kymenlaakso,"Kymenlaakso,Finland"
+5,-62.0,-30.0,40.0,-71.0,-31,7.0,None,FI,Finland,Lapland,"Lapland,Finland"
+6,-54.0,-20.0,61.0,-54.0,-24,14.0,None,FI,Finland,North Karelia,"North Karelia,Finland"
+7,-51.0,-24.0,73.0,-55.0,-24,8.0,None,FI,Finland,Northern Ostrobothnia,"Northern Ostrobothnia,Finland"
+8,-56.0,-20.0,47.0,-53.0,-22,7.0,None,FI,Finland,Northern Savonia,"Northern Savonia,Finland"
+9,-44.0,-16.0,70.0,-50.0,-21,8.0,None,FI,Finland,Ostrobothnia,"Ostrobothnia,Finland"
+10,-53.0,-21.0,42.0,-53.0,-26,9.0,None,FI,Finland,Pirkanmaa,"Pirkanmaa,Finland"
+11,-56.0,-22.0,84.0,-54.0,-25,8.0,None,FI,Finland,Päijänne Tavastia,"Päijänne Tavastia,Finland"
+12,-49.0,-22.0,34.0,-48.0,-19,8.0,None,FI,Finland,Satakunta,"Satakunta,Finland"
+13,-55.0,-26.0,46.0,-64.0,-25,15.0,None,FI,Finland,South Karelia,"South Karelia,Finland"
+14,-49.0,-20.0,50.0,-51.0,-20,9.0,None,FI,Finland,Southern Ostrobothnia,"Southern Ostrobothnia,Finland"
+15,-55.0,-18.0,59.0,-66.0,-23,14.0,None,FI,Finland,Southern Savonia,"Southern Savonia,Finland"
+16,-54.0,-22.0,15.0,-51.0,-25,9.0,None,FI,Finland,Southwest Finland,"Southwest Finland,Finland"
+17,-53.0,-24.0,43.0,-62.0,-22,9.0,None,FI,Finland,Tavastia Proper,"Tavastia Proper,Finland"
+18,-50.0,-20.0,39.0,-64.0,-28,10.0,None,FI,Finland,Uusimaa,"Uusimaa,Finland"
+0,-88.0,-72.0,-82.0,-87.0,-56,18.0,None,FR,France,None,France
+1,-87.0,-74.0,-80.0,-89.0,-56,19.0,None,FR,France,Auvergne-Rhône-Alpes,"Auvergne-Rhône-Alpes,France"
+2,-87.0,-77.0,-77.0,-88.0,-54,18.0,None,FR,France,Bourgogne-Franche-Comté,"Bourgogne-Franche-Comté,France"
+3,-87.0,-76.0,-83.0,-88.0,-53,18.0,None,FR,France,Brittany,"Brittany,France"
+4,-86.0,-75.0,-79.0,-88.0,-53,17.0,None,FR,France,Centre-Val de Loire,"Centre-Val de Loire,France"
+5,-84.0,-67.0,-74.0,-83.0,-54,21.0,None,FR,France,Corsica,"Corsica,France"
+6,-89.0,-77.0,-81.0,-89.0,-59,17.0,None,FR,France,Grand Est,"Grand Est,France"
+7,-88.0,-72.0,-84.0,-87.0,-56,17.0,None,FR,France,Hauts-de-France,"Hauts-de-France,France"
+8,-86.0,-73.0,-78.0,-88.0,-53,17.0,None,FR,France,Normandy,"Normandy,France"
+9,-86.0,-76.0,-80.0,-86.0,-53,18.0,None,FR,France,Nouvelle-Aquitaine,"Nouvelle-Aquitaine,France"
+10,-86.0,-72.0,-73.0,-86.0,-53,18.0,None,FR,France,Occitanie,"Occitanie,France"
+11,-88.0,-78.0,-80.0,-90.0,-54,18.0,None,FR,France,Pays de la Loire,"Pays de la Loire,France"
+12,-87.0,-68.0,-83.0,-85.0,-55,18.0,None,FR,France,Provence-Alpes-Côte d'Azur,"Provence-Alpes-Côte d'Azur,France"
+13,-91.0,-69.0,-89.0,-87.0,-63,20.0,None,FR,France,Île-de-France,"Île-de-France,France"
+0,-39.0,-24.0,-25.0,-47.0,-15,15.0,None,GA,Gabon,None,Gabon
+0,-67.0,-36.0,-24.0,-53.0,-38,12.0,None,GE,Georgia,None,Georgia
+0,-77.0,-51.0,-49.0,-68.0,-39,11.0,None,DE,Germany,None,Germany
+1,-79.0,-49.0,-55.0,-71.0,-43,12.0,None,DE,Germany,Baden-Württemberg,"Baden-Württemberg,Germany"
+2,-80.0,-49.0,-50.0,-73.0,-43,12.0,None,DE,Germany,Bavaria,"Bavaria,Germany"
+3,-83.0,-55.0,-63.0,-70.0,-44,12.0,None,DE,Germany,Berlin,"Berlin,Germany"
+4,-75.0,-52.0,-53.0,-63.0,-31,9.0,None,DE,Germany,Brandenburg,"Brandenburg,Germany"
+5,-79.0,-54.0,-22.0,-74.0,-40,10.0,None,DE,Germany,Bremen,"Bremen,Germany"
+6,-80.0,-50.0,-34.0,-72.0,-42,12.0,None,DE,Germany,Hamburg,"Hamburg,Germany"
+7,-74.0,-40.0,-26.0,-72.0,-41,10.0,None,DE,Germany,Hesse,"Hesse,Germany"
+8,-76.0,-52.0,-42.0,-64.0,-36,10.0,None,DE,Germany,Lower Saxony,"Lower Saxony,Germany"
+9,-74.0,-48.0,-50.0,-64.0,-32,8.0,None,DE,Germany,Mecklenburg-Vorpommern,"Mecklenburg-Vorpommern,Germany"
+10,-77.0,-51.0,-50.0,-70.0,-38,11.0,None,DE,Germany,North Rhine-Westphalia,"North Rhine-Westphalia,Germany"
+11,-74.0,-40.0,-38.0,-71.0,-39,10.0,None,DE,Germany,Rhineland-Palatinate,"Rhineland-Palatinate,Germany"
+12,-77.0,-56.0,-29.0,-71.0,-39,10.0,None,DE,Germany,Saarland,"Saarland,Germany"
+13,-78.0,-51.0,-50.0,-66.0,-34,10.0,None,DE,Germany,Saxony,"Saxony,Germany"
+14,-74.0,-48.0,-56.0,-65.0,-27,8.0,None,DE,Germany,Saxony-Anhalt,"Saxony-Anhalt,Germany"
+15,-70.0,-53.0,-27.0,-58.0,-36,10.0,None,DE,Germany,Schleswig-Holstein,"Schleswig-Holstein,Germany"
+16,-75.0,-44.0,-50.0,-63.0,-32,8.0,None,DE,Germany,Thuringia,"Thuringia,Germany"
+0,-15.0,8.0,-15.0,-15.0,3,9.0,None,GH,Ghana,None,Ghana
+0,-80.0,-41.0,-55.0,-76.0,-53,20.0,None,GR,Greece,None,Greece
+0,-67.0,-39.0,-53.0,-69.0,-39,19.0,None,GT,Guatemala,None,Guatemala
+0,-50.0,-11.0,-25.0,,-27,,None,GW,Guinea-Bissau,None,Guinea-Bissau
+0,-34.0,-31.0,-19.0,-48.0,-14,7.0,None,HT,Haiti,None,Haiti
+0,-81.0,-64.0,-59.0,-74.0,-46,20.0,None,HN,Honduras,None,Honduras
+0,-35.0,-7.0,-43.0,-45.0,-24,16.0,None,HK,Hong Kong,None,Hong Kong
+0,-66.0,-43.0,-7.0,-53.0,-32,10.0,None,HU,Hungary,None,Hungary
+1,-70.0,-45.0,27.0,-45.0,-30,9.0,None,HU,Hungary,Baranya,"Baranya,Hungary"
+2,-59.0,-47.0,19.0,-38.0,-28,8.0,None,HU,Hungary,Borsod-Abaúj-Zemplén,"Borsod-Abaúj-Zemplén,Hungary"
+3,-74.0,-40.0,-38.0,-67.0,-39,12.0,None,HU,Hungary,Budapest,"Budapest,Hungary"
+4,-62.0,-42.0,10.0,-47.0,-27,9.0,None,HU,Hungary,Bács-Kiskun,"Bács-Kiskun,Hungary"
+5,-54.0,-39.0,15.0,-43.0,-23,7.0,None,HU,Hungary,Békés County,"Békés County,Hungary"
+6,-66.0,-40.0,-12.0,-39.0,-28,10.0,None,HU,Hungary,Csongrád,"Csongrád,Hungary"
+7,-58.0,-43.0,24.0,-48.0,-30,9.0,None,HU,Hungary,Fejér,"Fejér,Hungary"
+8,-71.0,-48.0,-6.0,-51.0,-42,11.0,None,HU,Hungary,Gyor-Moson-Sopron,"Gyor-Moson-Sopron,Hungary"
+9,-63.0,-46.0,34.0,-52.0,-28,9.0,None,HU,Hungary,Hajdú-Bihar,"Hajdú-Bihar,Hungary"
+10,-62.0,-48.0,-35.0,-48.0,-34,12.0,None,HU,Hungary,Heves County,"Heves County,Hungary"
+11,-52.0,-38.0,32.0,-49.0,-25,8.0,None,HU,Hungary,Jász-Nagykun-Szolnok,"Jász-Nagykun-Szolnok,Hungary"
+12,-57.0,-40.0,51.0,-46.0,-28,9.0,None,HU,Hungary,Komárom-Esztergom,"Komárom-Esztergom,Hungary"
+13,-51.0,-40.0,-29.0,-30.0,-24,15.0,None,HU,Hungary,Nógrád County,"Nógrád County,Hungary"
+14,-56.0,-42.0,57.0,-34.0,-31,10.0,None,HU,Hungary,Pest County,"Pest County,Hungary"
+15,-58.0,-44.0,1.0,-44.0,-30,10.0,None,HU,Hungary,Somogy County,"Somogy County,Hungary"
+16,-57.0,-52.0,4.0,-43.0,-25,7.0,None,HU,Hungary,Szabolcs-Szatmár-Bereg,"Szabolcs-Szatmár-Bereg,Hungary"
+17,-50.0,-44.0,,-44.0,-28,18.0,None,HU,Hungary,Tolna County,"Tolna County,Hungary"
+18,-68.0,-50.0,19.0,-55.0,-38,13.0,None,HU,Hungary,Vas County,"Vas County,Hungary"
+19,-57.0,-44.0,5.0,-43.0,-33,9.0,None,HU,Hungary,Veszprém,"Veszprém,Hungary"
+20,-66.0,-52.0,-25.0,-48.0,-35,11.0,None,HU,Hungary,Zala County,"Zala County,Hungary"
+0,-77.0,-65.0,-57.0,-71.0,-47,22.0,None,IN,India,None,India
+0,-47.0,-27.0,-52.0,-54.0,-15,15.0,None,ID,Indonesia,None,Indonesia
+0,-64.0,-42.0,-48.0,-61.0,-55,21.0,None,IQ,Iraq,None,Iraq
+0,-83.0,-37.0,-59.0,-78.0,-52,19.0,None,IE,Ireland,None,Ireland
+1,-83.0,-35.0,-52.0,-64.0,-48,9.0,None,IE,Ireland,County Carlow,"County Carlow,Ireland"
+2,-81.0,-39.0,-41.0,-57.0,-45,21.0,None,IE,Ireland,County Cavan,"County Cavan,Ireland"
+3,-78.0,-30.0,-54.0,-74.0,-49,25.0,None,IE,Ireland,County Clare,"County Clare,Ireland"
+4,-81.0,-40.0,-54.0,-73.0,-51,19.0,None,IE,Ireland,County Cork,"County Cork,Ireland"
+5,-81.0,-39.0,-49.0,-56.0,-47,21.0,None,IE,Ireland,County Donegal,"County Donegal,Ireland"
+6,-85.0,-35.0,-64.0,-82.0,-58,21.0,None,IE,Ireland,County Dublin,"County Dublin,Ireland"
+7,-82.0,-36.0,-60.0,-68.0,-51,21.0,None,IE,Ireland,County Galway,"County Galway,Ireland"
+8,-83.0,-44.0,-54.0,-76.0,-53,22.0,None,IE,Ireland,County Kerry,"County Kerry,Ireland"
+9,-84.0,-36.0,-66.0,-71.0,-51,21.0,None,IE,Ireland,County Kildare,"County Kildare,Ireland"
+10,-82.0,-37.0,-65.0,-77.0,-47,23.0,None,IE,Ireland,County Kilkenny,"County Kilkenny,Ireland"
+11,-79.0,-40.0,,-77.0,-48,22.0,None,IE,Ireland,County Laois,"County Laois,Ireland"
+12,-93.0,-41.0,,,-50,,None,IE,Ireland,County Leitrim,"County Leitrim,Ireland"
+13,-82.0,-35.0,-57.0,-74.0,-46,21.0,None,IE,Ireland,County Limerick,"County Limerick,Ireland"
+14,-77.0,-40.0,,,-45,,None,IE,Ireland,County Longford,"County Longford,Ireland"
+15,-84.0,-39.0,-67.0,-84.0,-49,24.0,None,IE,Ireland,County Louth,"County Louth,Ireland"
+16,-85.0,-44.0,-31.0,-78.0,-47,22.0,None,IE,Ireland,County Mayo,"County Mayo,Ireland"
+17,-80.0,-33.0,-54.0,-59.0,-49,21.0,None,IE,Ireland,County Meath,"County Meath,Ireland"
+18,-80.0,-43.0,,-58.0,-49,18.0,None,IE,Ireland,County Monaghan,"County Monaghan,Ireland"
+19,-79.0,-38.0,-40.0,-65.0,-47,22.0,None,IE,Ireland,County Offaly,"County Offaly,Ireland"
+20,-86.0,-38.0,,,-43,18.0,None,IE,Ireland,County Roscommon,"County Roscommon,Ireland"
+21,-89.0,-44.0,-48.0,-69.0,-44,9.0,None,IE,Ireland,County Sligo,"County Sligo,Ireland"
+22,-80.0,-36.0,-61.0,-73.0,-46,21.0,None,IE,Ireland,County Tipperary,"County Tipperary,Ireland"
+23,-87.0,-45.0,-75.0,-77.0,-46,20.0,None,IE,Ireland,County Waterford,"County Waterford,Ireland"
+24,-85.0,-48.0,-45.0,-75.0,-52,24.0,None,IE,Ireland,County Westmeath,"County Westmeath,Ireland"
+25,-83.0,-42.0,-70.0,-71.0,-52,22.0,None,IE,Ireland,County Wexford,"County Wexford,Ireland"
+26,-89.0,-40.0,-79.0,-76.0,-53,27.0,None,IE,Ireland,County Wicklow,"County Wicklow,Ireland"
+0,-67.0,-13.0,-56.0,-61.0,-59,30.0,None,IL,Israel,None,Israel
+0,-94.0,-85.0,-90.0,-87.0,-63,24.0,None,IT,Italy,None,Italy
+1,-94.0,-84.0,-89.0,-90.0,-63,24.0,None,IT,Italy,Abruzzo,"Abruzzo,Italy"
+2,-95.0,-88.0,-91.0,-86.0,-67,36.0,None,IT,Italy,Aosta,"Aosta,Italy"
+3,-94.0,-85.0,-88.0,-88.0,-64,25.0,None,IT,Italy,Apulia,"Apulia,Italy"
+4,-91.0,-84.0,-77.0,-86.0,-58,22.0,None,IT,Italy,Basilicata,"Basilicata,Italy"
+5,-94.0,-92.0,-85.0,-90.0,-63,22.0,None,IT,Italy,Calabria,"Calabria,Italy"
+6,-94.0,-78.0,-91.0,-89.0,-67,23.0,None,IT,Italy,Campania,"Campania,Italy"
+7,-96.0,-94.0,-88.0,-88.0,-65,24.0,None,IT,Italy,Emilia-Romagna,"Emilia-Romagna,Italy"
+8,-95.0,-94.0,-90.0,-83.0,-59,24.0,None,IT,Italy,Friuli-Venezia Giulia,"Friuli-Venezia Giulia,Italy"
+9,-94.0,-76.0,-90.0,-88.0,-62,24.0,None,IT,Italy,Lazio,"Lazio,Italy"
+10,-94.0,-80.0,-91.0,-85.0,-60,23.0,None,IT,Italy,Liguria,"Liguria,Italy"
+11,-95.0,-81.0,-91.0,-89.0,-65,24.0,None,IT,Italy,Lombardy,"Lombardy,Italy"
+12,-95.0,-88.0,-91.0,-86.0,-64,26.0,None,IT,Italy,Marche,"Marche,Italy"
+13,-91.0,-82.0,-84.0,-80.0,-60,29.0,None,IT,Italy,Molise,"Molise,Italy"
+14,-94.0,-82.0,-89.0,-85.0,-59,23.0,None,IT,Italy,Piedmont,"Piedmont,Italy"
+15,-94.0,-92.0,-87.0,-81.0,-56,22.0,None,IT,Italy,Sardinia,"Sardinia,Italy"
+16,-95.0,-93.0,-91.0,-89.0,-68,25.0,None,IT,Italy,Sicily,"Sicily,Italy"
+17,-96.0,-94.0,-93.0,-86.0,-65,25.0,None,IT,Italy,Trentino-South Tyrol,"Trentino-South Tyrol,Italy"
+18,-94.0,-84.0,-91.0,-85.0,-62,25.0,None,IT,Italy,Tuscany,"Tuscany,Italy"
+19,-95.0,-89.0,-86.0,-81.0,-61,25.0,None,IT,Italy,Umbria,"Umbria,Italy"
+20,-96.0,-95.0,-91.0,-89.0,-62,25.0,None,IT,Italy,Veneto,"Veneto,Italy"
+0,-53.0,-36.0,-50.0,-50.0,-29,12.0,None,JM,Jamaica,None,Jamaica
+0,-26.0,-7.0,-25.0,-41.0,-9,7.0,None,JP,Japan,None,Japan
+1,-14.0,1.0,-11.0,-35.0,-5,6.0,None,JP,Japan,Aichi,"Aichi,Japan"
+2,-1.0,5.0,19.0,-20.0,0,3.0,None,JP,Japan,Akita,"Akita,Japan"
+3,-11.0,1.0,11.0,-20.0,0,3.0,None,JP,Japan,Aomori,"Aomori,Japan"
+4,-43.0,-21.0,-61.0,-53.0,-15,11.0,None,JP,Japan,Chiba,"Chiba,Japan"
+5,-5.0,5.0,29.0,-12.0,0,3.0,None,JP,Japan,Ehime,"Ehime,Japan"
+6,-13.0,5.0,-18.0,-19.0,-2,6.0,None,JP,Japan,Fukui,"Fukui,Japan"
+7,-13.0,6.0,34.0,-34.0,-3,4.0,None,JP,Japan,Fukuoka,"Fukuoka,Japan"
+8,-21.0,-7.0,-51.0,-35.0,-4,7.0,None,JP,Japan,Fukushima,"Fukushima,Japan"
+9,-14.0,3.0,-25.0,-32.0,-4,6.0,None,JP,Japan,Gifu,"Gifu,Japan"
+10,-33.0,-15.0,-55.0,-49.0,-8,9.0,None,JP,Japan,Gunma,"Gunma,Japan"
+11,-7.0,7.0,15.0,-24.0,-1,3.0,None,JP,Japan,Hiroshima,"Hiroshima,Japan"
+12,-7.0,3.0,-2.0,-27.0,-5,3.0,None,JP,Japan,Hokkaido,"Hokkaido,Japan"
+13,-12.0,5.0,-10.0,-31.0,-4,5.0,None,JP,Japan,Hyogo,"Hyogo,Japan"
+14,-31.0,-16.0,-60.0,-51.0,-10,10.0,None,JP,Japan,Ibaraki,"Ibaraki,Japan"
+15,-8.0,8.0,-23.0,-30.0,-1,4.0,None,JP,Japan,Ishikawa,"Ishikawa,Japan"
+16,-5.0,5.0,6.0,-19.0,1,3.0,None,JP,Japan,Iwate,"Iwate,Japan"
+17,-7.0,4.0,19.0,-22.0,-1,3.0,None,JP,Japan,Kagawa,"Kagawa,Japan"
+18,-5.0,4.0,16.0,-15.0,4,2.0,None,JP,Japan,Kagoshima,"Kagoshima,Japan"
+19,-55.0,-31.0,-66.0,-55.0,-23,13.0,None,JP,Japan,Kanagawa,"Kanagawa,Japan"
+20,-3.0,3.0,23.0,-7.0,0,2.0,None,JP,Japan,Kochi,"Kochi,Japan"
+21,-13.0,4.0,36.0,-14.0,-1,4.0,None,JP,Japan,Kumamoto,"Kumamoto,Japan"
+22,-10.0,7.0,12.0,-32.0,-3,4.0,None,JP,Japan,Kyoto,"Kyoto,Japan"
+23,-9.0,4.0,-20.0,-33.0,-1,5.0,None,JP,Japan,Mie,"Mie,Japan"
+24,-14.0,0.0,-37.0,-35.0,-2,5.0,None,JP,Japan,Miyagi,"Miyagi,Japan"
+25,-7.0,7.0,4.0,-15.0,2,3.0,None,JP,Japan,Miyazaki,"Miyazaki,Japan"
+26,-31.0,-11.0,-56.0,-44.0,-4,8.0,None,JP,Japan,Nagano,"Nagano,Japan"
+27,-3.0,8.0,30.0,-12.0,3,2.0,None,JP,Japan,Nagasaki,"Nagasaki,Japan"
+28,-7.0,11.0,10.0,-27.0,-5,4.0,None,JP,Japan,Nara,"Nara,Japan"
+29,-11.0,3.0,-22.0,-35.0,-3,5.0,None,JP,Japan,Niigata,"Niigata,Japan"
+30,-8.0,5.0,22.0,-17.0,-1,3.0,None,JP,Japan,Oita,"Oita,Japan"
+31,-7.0,7.0,17.0,-18.0,0,3.0,None,JP,Japan,Okayama,"Okayama,Japan"
+32,-9.0,0.0,-14.0,-27.0,1,3.0,None,JP,Japan,Okinawa,"Okinawa,Japan"
+33,-21.0,3.0,-8.0,-39.0,-7,6.0,None,JP,Japan,Osaka,"Osaka,Japan"
+34,-4.0,6.0,48.0,-19.0,0,3.0,None,JP,Japan,Saga,"Saga,Japan"
+35,-51.0,-28.0,-61.0,-53.0,-20,12.0,None,JP,Japan,Saitama,"Saitama,Japan"
+36,-6.0,7.0,-8.0,-25.0,-2,4.0,None,JP,Japan,Shiga,"Shiga,Japan"
+37,1.0,6.0,45.0,4.0,5,1.0,None,JP,Japan,Shimane,"Shimane,Japan"
+38,-17.0,-4.0,-47.0,-38.0,-6,7.0,None,JP,Japan,Shizuoka,"Shizuoka,Japan"
+39,-33.0,-16.0,-61.0,-46.0,-9,10.0,None,JP,Japan,Tochigi,"Tochigi,Japan"
+40,-4.0,3.0,27.0,-13.0,0,3.0,None,JP,Japan,Tokushima,"Tokushima,Japan"
+41,-63.0,-32.0,-66.0,-59.0,-27,14.0,None,JP,Japan,Tokyo,"Tokyo,Japan"
+42,1.0,9.0,15.0,-13.0,2,2.0,None,JP,Japan,Tottori,"Tottori,Japan"
+43,-6.0,7.0,-19.0,-26.0,0,4.0,None,JP,Japan,Toyama,"Toyama,Japan"
+44,-6.0,8.0,16.0,-21.0,-2,4.0,None,JP,Japan,Wakayama,"Wakayama,Japan"
+45,-3.0,6.0,-12.0,-27.0,-1,3.0,None,JP,Japan,Yamagata,"Yamagata,Japan"
+46,-4.0,9.0,49.0,-6.0,1,3.0,None,JP,Japan,Yamaguchi,"Yamaguchi,Japan"
+47,-29.0,-13.0,-56.0,-51.0,-9,8.0,None,JP,Japan,Yamanashi,"Yamanashi,Japan"
+0,-74.0,-52.0,-59.0,-89.0,-73,27.0,None,JO,Jordan,None,Jordan
+0,-45.0,-24.0,-20.0,-32.0,-17,9.0,None,KZ,Kazakhstan,None,Kazakhstan
+0,-45.0,-33.0,-20.0,-39.0,-22,17.0,None,KE,Kenya,None,Kenya
+0,-19.0,11.0,51.0,-17.0,-12,6.0,None,KR,South Korea,None,South Korea
+0,-56.0,-30.0,-48.0,-49.0,-42,23.0,None,KW,Kuwait,None,Kuwait
+1,-52.0,-28.0,-40.0,-37.0,-34,20.0,None,KW,Kuwait,Al Ahmadi Governorate,"Al Ahmadi Governorate,Kuwait"
+2,-65.0,-34.0,-56.0,-53.0,-50,21.0,None,KW,Kuwait,Al Asimah Governate,"Al Asimah Governate,Kuwait"
+3,-50.0,-31.0,-47.0,-55.0,-37,24.0,None,KW,Kuwait,Al Farwaniyah Governorate,"Al Farwaniyah Governorate,Kuwait"
+4,-46.0,-30.0,-38.0,-18.0,-32,19.0,None,KW,Kuwait,Al Jahra Governorate,"Al Jahra Governorate,Kuwait"
+5,-61.0,-28.0,-53.0,-40.0,-52,26.0,None,KW,Kuwait,Hawalli Governorate,"Hawalli Governorate,Kuwait"
+6,-56.0,-34.0,-51.0,-42.0,-52,21.0,None,KW,Kuwait,Mubarak Al-Kabeer Governorate,"Mubarak Al-Kabeer Governorate,Kuwait"
+0,-74.0,-64.0,-32.0,-70.0,-43,15.0,None,KG,Kyrgyzstan,None,Kyrgyzstan
+0,-45.0,-23.0,-18.0,-47.0,-9,11.0,None,LA,Laos,None,Laos
+0,-50.0,-22.0,-18.0,-48.0,-25,7.0,None,LV,Latvia,None,Latvia
+0,-73.0,-48.0,-59.0,-84.0,-41,15.0,None,LB,Lebanon,None,Lebanon
+0,-49.0,-28.0,-32.0,-52.0,-36,21.0,None,LY,Libya,None,Libya
+0,-90.0,-22.0,,,-37,,None,LI,Liechtenstein,None,Liechtenstein
+0,-72.0,-38.0,-28.0,-63.0,-33,11.0,None,LT,Lithuania,None,Lithuania
+1,-71.0,-36.0,0.0,-70.0,-32,17.0,None,LT,Lithuania,Alytus County,"Alytus County,Lithuania"
+2,-74.0,-40.0,-48.0,-68.0,-33,11.0,None,LT,Lithuania,Kaunas County,"Kaunas County,Lithuania"
+3,-73.0,-31.0,-43.0,-59.0,-36,11.0,None,LT,Lithuania,Klaipėda County,"Klaipėda County,Lithuania"
+4,-64.0,-39.0,-35.0,-41.0,-27,18.0,None,LT,Lithuania,Marijampolė County,"Marijampolė County,Lithuania"
+5,-70.0,-36.0,-32.0,-63.0,-26,7.0,None,LT,Lithuania,Panevėžys County,"Panevėžys County,Lithuania"
+6,-60.0,-31.0,,-46.0,-23,15.0,None,LT,Lithuania,Tauragė County,"Tauragė County,Lithuania"
+7,-67.0,-40.0,-18.0,-44.0,-24,17.0,None,LT,Lithuania,Telšiai County,"Telšiai County,Lithuania"
+8,-63.0,-22.0,1.0,-35.0,-23,16.0,None,LT,Lithuania,Utena County,"Utena County,Lithuania"
+9,-74.0,-41.0,-22.0,-67.0,-40,12.0,None,LT,Lithuania,Vilnius County,"Vilnius County,Lithuania"
+10,-73.0,-39.0,-41.0,-38.0,-30,7.0,None,LT,Lithuania,Šiauliai County,"Šiauliai County,Lithuania"
+0,-90.0,-70.0,-66.0,-78.0,-60,23.0,None,LU,Luxembourg,None,Luxembourg
+0,-74.0,-41.0,-44.0,-69.0,-51,18.0,None,MK,North Macedonia,None,North Macedonia
+0,-81.0,-58.0,-68.0,-83.0,-52,31.0,None,MY,Malaysia,None,Malaysia
+0,-25.0,-18.0,-12.0,-36.0,0,9.0,None,ML,Mali,None,Mali
+0,-76.0,-38.0,-45.0,-57.0,-49,19.0,None,MT,Malta,None,Malta
+0,-89.0,-86.0,-88.0,-89.0,-69,24.0,None,MU,Mauritius,None,Mauritius
+1,-92.0,-89.0,-88.0,,-72,8.0,None,MU,Mauritius,Flacq District,"Flacq District,Mauritius"
+2,-94.0,-90.0,-90.0,-94.0,-70,8.0,None,MU,Mauritius,Grand Port District,"Grand Port District,Mauritius"
+3,-97.0,-76.0,,-74.0,-65,8.0,None,MU,Mauritius,Moka District,"Moka District,Mauritius"
+4,-81.0,-82.0,-91.0,-81.0,-67,7.0,None,MU,Mauritius,Pamplemousses District,"Pamplemousses District,Mauritius"
+5,-91.0,-88.0,,-92.0,-71,37.0,None,MU,Mauritius,Plaines Wilhems District,"Plaines Wilhems District,Mauritius"
+6,-88.0,-89.0,-85.0,-87.0,-65,6.0,None,MU,Mauritius,Port Louis District,"Port Louis District,Mauritius"
+7,-92.0,-88.0,-91.0,-82.0,-73,8.0,None,MU,Mauritius,Rivière Noire District,"Rivière Noire District,Mauritius"
+8,-93.0,-93.0,-100.0,,-67,8.0,None,MU,Mauritius,Rivière du Rempart District,"Rivière du Rempart District,Mauritius"
+9,,,-55.0,,-62,,None,MU,Mauritius,Rodrigues District,"Rodrigues District,Mauritius"
+10,-91.0,-83.0,-28.0,,-69,,None,MU,Mauritius,Savanne District,"Savanne District,Mauritius"
+0,-45.0,-19.0,-46.0,-47.0,-20,11.0,None,MX,Mexico,None,Mexico
+0,-67.0,-44.0,-43.0,-68.0,-37,12.0,None,MD,Moldova,None,Moldova
+0,-16.0,5.0,5.0,-16.0,-2,2.0,None,MN,Mongolia,None,Mongolia
+0,-26.0,-13.0,-22.0,-29.0,1,10.0,None,MZ,Mozambique,None,Mozambique
+0,-46.0,-29.0,-19.0,-35.0,-10,12.0,None,MM,Myanmar (Burma),None,Myanmar (Burma)
+0,-56.0,-42.0,-39.0,-74.0,-28,16.0,None,NA,Namibia,None,Namibia
+0,-78.0,-69.0,-55.0,-74.0,-72,28.0,None,NP,Nepal,None,Nepal
+0,-65.0,-29.0,-30.0,-68.0,-35,11.0,None,NL,Netherlands,None,Netherlands
+1,-61.0,-30.0,-27.0,-58.0,-29,9.0,None,NL,Netherlands,Drenthe,"Drenthe,Netherlands"
+2,-56.0,-25.0,-5.0,-63.0,-34,10.0,None,NL,Netherlands,Flevoland,"Flevoland,Netherlands"
+3,-57.0,-28.0,-11.0,-51.0,-28,9.0,None,NL,Netherlands,Friesland,"Friesland,Netherlands"
+4,-66.0,-28.0,-29.0,-62.0,-33,10.0,None,NL,Netherlands,Gelderland,"Gelderland,Netherlands"
+5,-65.0,-31.0,2.0,-63.0,-33,10.0,None,NL,Netherlands,Groningen,"Groningen,Netherlands"
+6,-76.0,-34.0,-59.0,-65.0,-38,12.0,None,NL,Netherlands,Limburg,"Limburg,Netherlands"
+7,-68.0,-28.0,-33.0,-71.0,-34,12.0,None,NL,Netherlands,North Brabant,"North Brabant,Netherlands"
+8,-66.0,-31.0,-35.0,-78.0,-40,12.0,None,NL,Netherlands,North Holland,"North Holland,Netherlands"
+9,-67.0,-29.0,-25.0,-66.0,-34,11.0,None,NL,Netherlands,Overijssel,"Overijssel,Netherlands"
+10,-60.0,-26.0,-22.0,-64.0,-35,11.0,None,NL,Netherlands,South Holland,"South Holland,Netherlands"
+11,-60.0,-32.0,-17.0,-70.0,-36,11.0,None,NL,Netherlands,Utrecht,"Utrecht,Netherlands"
+12,-69.0,-40.0,-46.0,-57.0,-31,10.0,None,NL,Netherlands,Zeeland,"Zeeland,Netherlands"
+0,-91.0,-54.0,-78.0,-84.0,-59,22.0,None,NZ,New Zealand,None,New Zealand
+1,-89.0,-55.0,-70.0,-83.0,-64,25.0,None,NZ,New Zealand,Auckland,"Auckland,New Zealand"
+2,-92.0,-51.0,-86.0,-83.0,-52,22.0,None,NZ,New Zealand,Bay Of Plenty,"Bay Of Plenty,New Zealand"
+3,-90.0,-56.0,-83.0,-90.0,-60,22.0,None,NZ,New Zealand,Canterbury,"Canterbury,New Zealand"
+4,-100.0,-48.0,-88.0,,-47,,None,NZ,New Zealand,Gisborne,"Gisborne,New Zealand"
+5,-94.0,-53.0,-78.0,-84.0,-51,31.0,None,NZ,New Zealand,Hawke's Bay,"Hawke's Bay,New Zealand"
+6,-93.0,-50.0,-76.0,-84.0,-54,33.0,None,NZ,New Zealand,Manawatu-Wanganui,"Manawatu-Wanganui,New Zealand"
+7,-92.0,-60.0,-83.0,-91.0,-25,0.0,None,NZ,New Zealand,Marlborough,"Marlborough,New Zealand"
+8,-100.0,-60.0,-81.0,,-61,4.0,None,NZ,New Zealand,Nelson,"Nelson,New Zealand"
+9,-93.0,-55.0,-86.0,-86.0,-52,32.0,None,NZ,New Zealand,Northland,"Northland,New Zealand"
+10,-95.0,-62.0,-82.0,-91.0,-64,39.0,None,NZ,New Zealand,Otago,"Otago,New Zealand"
+11,-96.0,-53.0,-83.0,,-48,17.0,None,NZ,New Zealand,Southland,"Southland,New Zealand"
+12,-95.0,-52.0,-86.0,,-51,17.0,None,NZ,New Zealand,Taranaki,"Taranaki,New Zealand"
+13,-90.0,-67.0,-89.0,,-54,,None,NZ,New Zealand,Tasman,"Tasman,New Zealand"
+14,-94.0,-55.0,-84.0,-82.0,-57,23.0,None,NZ,New Zealand,Waikato,"Waikato,New Zealand"
+15,-93.0,-54.0,-63.0,-84.0,-62,20.0,None,NZ,New Zealand,Wellington,"Wellington,New Zealand"
+16,-100.0,-61.0,-87.0,,-54,,None,NZ,New Zealand,West Coast,"West Coast,New Zealand"
+0,-45.0,-25.0,-31.0,-38.0,-17,11.0,None,NI,Nicaragua,None,Nicaragua
+0,-23.0,-15.0,-19.0,-25.0,-1,9.0,None,NE,Niger,None,Niger
+0,-39.0,-25.0,-24.0,-34.0,-11,15.0,None,NG,Nigeria,None,Nigeria
+0,-65.0,-32.0,-5.0,-57.0,-34,11.0,None,NO,Norway,None,Norway
+1,-59.0,-21.0,-1.0,-39.0,-31,9.0,None,NO,Norway,Agder,"Agder,Norway"
+2,-66.0,-37.0,-8.0,-54.0,-32,10.0,None,NO,Norway,Innlandet,"Innlandet,Norway"
+3,-73.0,-38.0,-40.0,-67.0,-29,10.0,None,NO,Norway,Møre og Romsdal,"Møre og Romsdal,Norway"
+4,-61.0,-18.0,24.0,-71.0,-24,8.0,None,NO,Norway,Nordland,"Nordland,Norway"
+5,-68.0,-26.0,-7.0,-64.0,-45,14.0,None,NO,Norway,Oslo,"Oslo,Norway"
+6,-61.0,-38.0,4.0,-58.0,-35,11.0,None,NO,Norway,Rogaland,"Rogaland,Norway"
+7,-74.0,-46.0,-24.0,-71.0,-32,10.0,None,NO,Norway,Troms Og Finnmark,"Troms Og Finnmark,Norway"
+8,-74.0,-41.0,-15.0,-68.0,-37,13.0,None,NO,Norway,Trondelag,"Trondelag,Norway"
+9,-59.0,-23.0,13.0,-52.0,-30,10.0,None,NO,Norway,Vestfold Og Telemark,"Vestfold Og Telemark,Norway"
+10,-71.0,-47.0,-31.0,-66.0,-36,12.0,None,NO,Norway,Vestland,"Vestland,Norway"
+11,-56.0,-21.0,24.0,-59.0,-33,11.0,None,NO,Norway,Viken,"Viken,Norway"
+0,-52.0,-35.0,-41.0,-64.0,-34,17.0,None,OM,Oman,None,Oman
+0,-70.0,-55.0,-45.0,-62.0,-41,18.0,None,PK,Pakistan,None,Pakistan
+0,-84.0,-61.0,-78.0,-77.0,-59,31.0,None,PA,Panama,None,Panama
+0,-20.0,-9.0,-12.0,-46.0,11,12.0,None,PG,Papua New Guinea,None,Papua New Guinea
+0,-68.0,-52.0,-71.0,-76.0,-30,23.0,None,PY,Paraguay,None,Paraguay
+0,-82.0,-57.0,-76.0,-83.0,-55,29.0,None,PE,Peru,None,Peru
+0,-81.0,-59.0,-59.0,-82.0,-54,26.0,None,PH,Philippines,None,Philippines
+0,-78.0,-59.0,-59.0,-71.0,-36,13.0,None,PL,Poland,None,Poland
+1,-80.0,-61.0,-62.0,-73.0,-37,13.0,None,PL,Poland,Greater Poland Voivodeship,"Greater Poland Voivodeship,Poland"
+2,-79.0,-63.0,-73.0,-78.0,-33,12.0,None,PL,Poland,Kuyavian-Pomeranian Voivodeship,"Kuyavian-Pomeranian Voivodeship,Poland"
+3,-84.0,-65.0,-69.0,-78.0,-41,14.0,None,PL,Poland,Lesser Poland Voivodeship,"Lesser Poland Voivodeship,Poland"
+4,-82.0,-65.0,-71.0,-77.0,-38,13.0,None,PL,Poland,Lower Silesian Voivodeship,"Lower Silesian Voivodeship,Poland"
+5,-71.0,-44.0,-25.0,-71.0,-32,12.0,None,PL,Poland,Lublin Voivodeship,"Lublin Voivodeship,Poland"
+6,-77.0,-65.0,-55.0,-72.0,-37,12.0,None,PL,Poland,Lubusz Voivodeship,"Lubusz Voivodeship,Poland"
+7,-77.0,-54.0,-60.0,-70.0,-35,13.0,None,PL,Poland,Masovian Voivodeship,"Masovian Voivodeship,Poland"
+8,-79.0,-62.0,-55.0,-72.0,-37,12.0,None,PL,Poland,Opole Voivodeship,"Opole Voivodeship,Poland"
+9,-71.0,-46.0,-11.0,-71.0,-36,13.0,None,PL,Poland,Podkarpackie Voivodeship,"Podkarpackie Voivodeship,Poland"
+10,-75.0,-47.0,-17.0,-60.0,-32,11.0,None,PL,Poland,Podlaskie Voivodeship,"Podlaskie Voivodeship,Poland"
+11,-82.0,-64.0,-78.0,-78.0,-38,14.0,None,PL,Poland,Pomeranian Voivodeship,"Pomeranian Voivodeship,Poland"
+12,-77.0,-58.0,-50.0,-65.0,-35,13.0,None,PL,Poland,Silesian Voivodeship,"Silesian Voivodeship,Poland"
+13,-74.0,-44.0,-26.0,-67.0,-34,12.0,None,PL,Poland,Swietokrzyskie,"Swietokrzyskie,Poland"
+14,-77.0,-60.0,-63.0,-73.0,-35,11.0,None,PL,Poland,Warmian-Masurian Voivodeship,"Warmian-Masurian Voivodeship,Poland"
+15,-80.0,-66.0,-76.0,-69.0,-39,12.0,None,PL,Poland,West Pomeranian Voivodeship,"West Pomeranian Voivodeship,Poland"
+16,-74.0,-55.0,-49.0,-66.0,-29,13.0,None,PL,Poland,Łódź Voivodeship,"Łódź Voivodeship,Poland"
+0,-83.0,-59.0,-80.0,-78.0,-53,22.0,None,PT,Portugal,None,Portugal
+1,-83.0,-61.0,-84.0,-83.0,-53,24.0,None,PT,Portugal,Aveiro District,"Aveiro District,Portugal"
+2,-83.0,-56.0,-66.0,-87.0,-47,18.0,None,PT,Portugal,Azores,"Azores,Portugal"
+3,-83.0,-59.0,-60.0,,-40,24.0,None,PT,Portugal,Beja District,"Beja District,Portugal"
+4,-83.0,-60.0,-82.0,-76.0,-52,24.0,None,PT,Portugal,Braga,"Braga,Portugal"
+5,-85.0,-66.0,-57.0,-78.0,-52,18.0,None,PT,Portugal,Bragança District,"Bragança District,Portugal"
+6,-81.0,-61.0,-65.0,-76.0,-48,31.0,None,PT,Portugal,Castelo Branco District,"Castelo Branco District,Portugal"
+7,-83.0,-61.0,-80.0,-77.0,-48,23.0,None,PT,Portugal,Coimbra District,"Coimbra District,Portugal"
+8,-83.0,-60.0,-78.0,-82.0,-54,21.0,None,PT,Portugal,Faro District,"Faro District,Portugal"
+9,-86.0,-64.0,-75.0,-68.0,-46,28.0,None,PT,Portugal,Guarda District,"Guarda District,Portugal"
+10,-85.0,-62.0,-85.0,-81.0,-50,23.0,None,PT,Portugal,Leiria District,"Leiria District,Portugal"
+11,-84.0,-58.0,-82.0,-79.0,-56,22.0,None,PT,Portugal,Lisbon,"Lisbon,Portugal"
+12,-89.0,-63.0,-86.0,-77.0,-60,27.0,None,PT,Portugal,Madeira,"Madeira,Portugal"
+13,-85.0,-63.0,-70.0,,-42,24.0,None,PT,Portugal,Portalegre District,"Portalegre District,Portugal"
+14,-84.0,-59.0,-82.0,-79.0,-54,23.0,None,PT,Portugal,Porto District,"Porto District,Portugal"
+15,-83.0,-59.0,-77.0,-81.0,-46,20.0,None,PT,Portugal,Santarém District,"Santarém District,Portugal"
+16,-82.0,-56.0,-78.0,-74.0,-54,20.0,None,PT,Portugal,Setubal,"Setubal,Portugal"
+17,-85.0,-68.0,-76.0,-76.0,-51,26.0,None,PT,Portugal,Viana do Castelo District,"Viana do Castelo District,Portugal"
+18,-86.0,-64.0,-71.0,-72.0,-52,33.0,None,PT,Portugal,Vila Real District,"Vila Real District,Portugal"
+19,-82.0,-60.0,-65.0,-61.0,-48,22.0,None,PT,Portugal,Viseu District,"Viseu District,Portugal"
+20,-83.0,-59.0,-78.0,-77.0,-48,29.0,None,PT,Portugal,Évora District,"Évora District,Portugal"
+0,-77.0,-51.0,-75.0,-79.0,-48,21.0,None,PR,Puerto Rico,None,Puerto Rico
+0,-51.0,-25.0,-34.0,-52.0,-31,22.0,None,QA,Qatar,None,Qatar
+0,-96.0,-88.0,-92.0,-82.0,-53,,None,RE,Réunion,None,Réunion
+0,-81.0,-53.0,-60.0,-72.0,-39,15.0,None,RO,Romania,None,Romania
+1,-83.0,-58.0,-49.0,-62.0,-45,12.0,None,RO,Romania,Alba County,"Alba County,Romania"
+2,-81.0,-55.0,-45.0,-69.0,-38,15.0,None,RO,Romania,Arad County,"Arad County,Romania"
+3,-79.0,-54.0,-45.0,-73.0,-36,15.0,None,RO,Romania,Argeș County,"Argeș County,Romania"
+4,-80.0,-55.0,-47.0,-77.0,-38,15.0,None,RO,Romania,Bacău County,"Bacău County,Romania"
+5,-80.0,-59.0,-39.0,-64.0,-38,14.0,None,RO,Romania,Bihor County,"Bihor County,Romania"
+6,-82.0,-64.0,-64.0,-64.0,-43,17.0,None,RO,Romania,Bistrița-Năsăud County,"Bistrița-Năsăud County,Romania"
+7,-77.0,-51.0,-6.0,-67.0,-38,14.0,None,RO,Romania,Botoșani County,"Botoșani County,Romania"
+8,-85.0,-61.0,-79.0,-79.0,-43,17.0,None,RO,Romania,Brașov County,"Brașov County,Romania"
+9,-78.0,-47.0,-71.0,-70.0,-31,15.0,None,RO,Romania,Brăila County,"Brăila County,Romania"
+10,-85.0,-50.0,-86.0,-74.0,-45,18.0,None,RO,Romania,Bucharest,"Bucharest,Romania"
+11,-76.0,-56.0,-50.0,-59.0,-29,15.0,None,RO,Romania,Buzău County,"Buzău County,Romania"
+12,-77.0,-56.0,-53.0,-69.0,-41,19.0,None,RO,Romania,Caraș-Severin County,"Caraș-Severin County,Romania"
+13,-85.0,-62.0,-66.0,-77.0,-45,17.0,None,RO,Romania,Cluj County,"Cluj County,Romania"
+14,-80.0,-49.0,-72.0,-69.0,-37,16.0,None,RO,Romania,Constanța County,"Constanța County,Romania"
+15,-85.0,-61.0,-60.0,-61.0,-36,20.0,None,RO,Romania,Covasna County,"Covasna County,Romania"
+16,-65.0,-50.0,-53.0,-60.0,-24,14.0,None,RO,Romania,Călărași County,"Călărași County,Romania"
+17,-78.0,-53.0,-58.0,-67.0,-32,14.0,None,RO,Romania,Dolj County,"Dolj County,Romania"
+18,-76.0,-52.0,-50.0,-61.0,-32,14.0,None,RO,Romania,Dâmbovița County,"Dâmbovița County,Romania"
+19,-80.0,-51.0,-66.0,-71.0,-38,16.0,None,RO,Romania,Galați,"Galați,Romania"
+20,-63.0,-38.0,-37.0,-45.0,-19,14.0,None,RO,Romania,Giurgiu County,"Giurgiu County,Romania"
+21,-73.0,-48.0,-50.0,-67.0,-36,15.0,None,RO,Romania,Gorj County,"Gorj County,Romania"
+22,-79.0,-65.0,-60.0,-60.0,-40,18.0,None,RO,Romania,Harghita County,"Harghita County,Romania"
+23,-82.0,-53.0,-66.0,-67.0,-44,14.0,None,RO,Romania,Hunedoara County,"Hunedoara County,Romania"
+24,-62.0,-49.0,-47.0,-63.0,-28,17.0,None,RO,Romania,Ialomița County,"Ialomița County,Romania"
+25,-82.0,-53.0,-57.0,-73.0,-39,17.0,None,RO,Romania,Iași County,"Iași County,Romania"
+26,-78.0,-47.0,-61.0,-78.0,-39,16.0,None,RO,Romania,Ilfov County,"Ilfov County,Romania"
+27,-81.0,-58.0,-44.0,-67.0,-44,13.0,None,RO,Romania,Maramureș County,"Maramureș County,Romania"
+28,-78.0,-48.0,-51.0,-64.0,-33,20.0,None,RO,Romania,Mehedinți County,"Mehedinți County,Romania"
+29,-81.0,-58.0,-61.0,-68.0,-37,14.0,None,RO,Romania,Mureș County,"Mureș County,Romania"
+30,-80.0,-55.0,-62.0,-79.0,-39,16.0,None,RO,Romania,Neamț County,"Neamț County,Romania"
+31,-70.0,-46.0,-53.0,-66.0,-35,13.0,None,RO,Romania,Olt County,"Olt County,Romania"
+32,-81.0,-56.0,-72.0,-73.0,-36,14.0,None,RO,Romania,Prahova,"Prahova,Romania"
+33,-82.0,-58.0,-39.0,-72.0,-40,13.0,None,RO,Romania,Satu Mare County,"Satu Mare County,Romania"
+34,-83.0,-63.0,-70.0,-73.0,-42,15.0,None,RO,Romania,Sibiu,"Sibiu,Romania"
+35,-85.0,-65.0,-49.0,-78.0,-48,17.0,None,RO,Romania,Suceava County,"Suceava County,Romania"
+36,-82.0,-50.0,-55.0,-64.0,-36,16.0,None,RO,Romania,Sălaj,"Sălaj,Romania"
+37,-56.0,-47.0,-21.0,-55.0,-24,13.0,None,RO,Romania,Teleorman County,"Teleorman County,Romania"
+38,-83.0,-54.0,-71.0,-74.0,-42,16.0,None,RO,Romania,Timiș County,"Timiș County,Romania"
+39,-79.0,-53.0,-60.0,-71.0,-33,16.0,None,RO,Romania,Tulcea County,"Tulcea County,Romania"
+40,-76.0,-53.0,-28.0,-68.0,-37,13.0,None,RO,Romania,Vaslui County,"Vaslui County,Romania"
+41,-81.0,-56.0,-36.0,-74.0,-37,17.0,None,RO,Romania,Vrancea County,"Vrancea County,Romania"
+42,-78.0,-52.0,-50.0,-66.0,-36,14.0,None,RO,Romania,Vâlcea County,"Vâlcea County,Romania"
+0,-56.0,-57.0,-18.0,-75.0,-31,22.0,None,RW,Rwanda,None,Rwanda
+0,-54.0,-24.0,-49.0,-75.0,-45,23.0,None,SA,Saudi Arabia,None,Saudi Arabia
+0,-44.0,-31.0,-28.0,-50.0,-10,12.0,None,SN,Senegal,None,Senegal
+0,-28.0,-6.0,-12.0,-40.0,-15,15.0,None,SG,Singapore,None,Singapore
+0,-82.0,-89.0,-9.0,-61.0,-38,10.0,None,SK,Slovakia,None,Slovakia
+1,-81.0,-88.0,5.0,-59.0,-36,9.0,None,SK,Slovakia,Banská Bystrica Region,"Banská Bystrica Region,Slovakia"
+2,-83.0,-91.0,-3.0,-64.0,-40,12.0,None,SK,Slovakia,Bratislava Region,"Bratislava Region,Slovakia"
+3,-81.0,-90.0,67.0,-60.0,-34,9.0,None,SK,Slovakia,Košice Region,"Košice Region,Slovakia"
+4,-81.0,-90.0,29.0,-58.0,-36,9.0,None,SK,Slovakia,Nitra Region,"Nitra Region,Slovakia"
+5,-82.0,-90.0,-55.0,-71.0,-41,10.0,None,SK,Slovakia,Prešov Region,"Prešov Region,Slovakia"
+6,-78.0,-88.0,3.0,-57.0,-40,9.0,None,SK,Slovakia,Trenčín Region,"Trenčín Region,Slovakia"
+7,-81.0,-89.0,45.0,-62.0,-38,10.0,None,SK,Slovakia,Trnava Region,"Trnava Region,Slovakia"
+8,-83.0,-88.0,-25.0,-68.0,-41,10.0,None,SK,Slovakia,Žilina Region,"Žilina Region,Slovakia"
+0,-88.0,-92.0,-43.0,-54.0,-45,13.0,None,SI,Slovenia,None,Slovenia
+1,-90.0,-95.0,-53.0,-69.0,-45,27.0,None,SI,Slovenia,Administrative unit Maribor,"Administrative unit Maribor,Slovenia"
+2,-86.0,-41.0,,-65.0,-56,,None,SI,Slovenia,Ajdovščina,"Ajdovščina,Slovenia"
+3,-91.0,-55.0,,,-57,,None,SI,Slovenia,Brežice,"Brežice,Slovenia"
+4,-88.0,-94.0,-58.0,-52.0,-39,11.0,None,SI,Slovenia,Celje,"Celje,Slovenia"
+5,-83.0,,,,-53,,None,SI,Slovenia,Cerknica,"Cerknica,Slovenia"
+6,-89.0,-89.0,,-55.0,-39,22.0,None,SI,Slovenia,Domžale,"Domžale,Slovenia"
+7,-70.0,,,,-45,,None,SI,Slovenia,Dravograd,"Dravograd,Slovenia"
+8,-88.0,-33.0,,,-48,,None,SI,Slovenia,Gornja Radgona,"Gornja Radgona,Slovenia"
+9,-90.0,-43.0,,,-38,2.0,None,SI,Slovenia,Grosuplje,"Grosuplje,Slovenia"
+10,-66.0,-45.0,,,-55,,None,SI,Slovenia,Idrija,"Idrija,Slovenia"
+11,-80.0,,,,-55,,None,SI,Slovenia,Ilirska Bistrica,"Ilirska Bistrica,Slovenia"
+12,-84.0,-33.0,,,-63,,None,SI,Slovenia,Izola,"Izola,Slovenia"
+13,-90.0,-53.0,-67.0,-61.0,-53,,None,SI,Slovenia,Jesenice,"Jesenice,Slovenia"
+14,-95.0,-47.0,,,-39,2.0,None,SI,Slovenia,Kamnik,"Kamnik,Slovenia"
+15,-92.0,-85.0,-63.0,-73.0,-47,13.0,None,SI,Slovenia,Koper,"Koper,Slovenia"
+16,-73.0,-51.0,,,-52,,None,SI,Slovenia,Kočevje,"Kočevje,Slovenia"
+17,-90.0,-91.0,,-75.0,-52,30.0,None,SI,Slovenia,Kranj,"Kranj,Slovenia"
+18,-71.0,-54.0,,,-36,,None,SI,Slovenia,Krško,"Krško,Slovenia"
+19,-80.0,-51.0,,,-53,,None,SI,Slovenia,Laško,"Laško,Slovenia"
+20,-89.0,-41.0,,,-51,,None,SI,Slovenia,Lenart,"Lenart,Slovenia"
+21,-78.0,-55.0,,,-48,,None,SI,Slovenia,Lendava,"Lendava,Slovenia"
+22,-77.0,-35.0,,,-53,,None,SI,Slovenia,Litija,"Litija,Slovenia"
+23,-87.0,-91.0,-51.0,-58.0,-44,15.0,None,SI,Slovenia,Ljubljana,"Ljubljana,Slovenia"
+24,-88.0,-48.0,,,-52,,None,SI,Slovenia,Ljutomer,"Ljutomer,Slovenia"
+25,-88.0,-47.0,,-81.0,-53,,None,SI,Slovenia,Logatec,"Logatec,Slovenia"
+26,,,,,-58,,None,SI,Slovenia,Metlika,"Metlika,Slovenia"
+27,-80.0,-45.0,,,-53,,None,SI,Slovenia,Mozirje,"Mozirje,Slovenia"
+28,,,,,-53,,None,SI,Slovenia,Municipality of Hrastnik,"Municipality of Hrastnik,Slovenia"
+29,-90.0,-39.0,,-44.0,-50,1.0,None,SI,Slovenia,Murska Sobota,"Murska Sobota,Slovenia"
+30,-89.0,-49.0,,-60.0,-52,2.0,None,SI,Slovenia,Nova Gorica,"Nova Gorica,Slovenia"
+31,-90.0,-45.0,,,-37,19.0,None,SI,Slovenia,Novo Mesto,"Novo Mesto,Slovenia"
+32,-61.0,-50.0,,,-59,,None,SI,Slovenia,Ormož,"Ormož,Slovenia"
+33,-83.0,,,,-55,,None,SI,Slovenia,Pesnica,"Pesnica,Slovenia"
+34,-90.0,-81.0,-53.0,,-61,,None,SI,Slovenia,Piran,"Piran,Slovenia"
+35,-73.0,-46.0,,-51.0,-51,,None,SI,Slovenia,Postojna,"Postojna,Slovenia"
+36,-95.0,-92.0,,-61.0,-37,18.0,None,SI,Slovenia,Ptuj,"Ptuj,Slovenia"
+37,-81.0,-45.0,,,-49,,None,SI,Slovenia,Radlje ob Dravi,"Radlje ob Dravi,Slovenia"
+38,-94.0,-50.0,-62.0,-61.0,-61,,None,SI,Slovenia,Radovljica,"Radovljica,Slovenia"
+39,-76.0,-41.0,,,-30,,None,SI,Slovenia,Ravne na Koroškem,"Ravne na Koroškem,Slovenia"
+40,,,,,-52,,None,SI,Slovenia,Ribnica,"Ribnica,Slovenia"
+41,-78.0,,,,-52,,None,SI,Slovenia,Ruše,"Ruše,Slovenia"
+42,-85.0,-40.0,,,-51,,None,SI,Slovenia,Sevnica,"Sevnica,Slovenia"
+43,-95.0,-57.0,,,-44,,None,SI,Slovenia,Sežana,"Sežana,Slovenia"
+44,-86.0,-57.0,,,-58,,None,SI,Slovenia,Slovenj Gradec,"Slovenj Gradec,Slovenia"
+45,-100.0,-49.0,,,-36,,None,SI,Slovenia,Slovenska Bistrica,"Slovenska Bistrica,Slovenia"
+46,-91.0,-36.0,,,-48,,None,SI,Slovenia,Slovenske Konjice,"Slovenske Konjice,Slovenia"
+47,-68.0,-49.0,,,-54,,None,SI,Slovenia,Tolmin,"Tolmin,Slovenia"
+48,-86.0,-41.0,,,-50,,None,SI,Slovenia,Trbovlje,"Trbovlje,Slovenia"
+49,-92.0,-49.0,,,-57,,None,SI,Slovenia,Trebnje,"Trebnje,Slovenia"
+50,-84.0,-44.0,,,-54,,None,SI,Slovenia,Tržič,"Tržič,Slovenia"
+51,-93.0,-58.0,,-59.0,-47,0.0,None,SI,Slovenia,Velenje,"Velenje,Slovenia"
+52,-88.0,-42.0,,,-50,,None,SI,Slovenia,Vrhnika,"Vrhnika,Slovenia"
+53,-76.0,-45.0,,,-59,,None,SI,Slovenia,Zagorje ob Savi,"Zagorje ob Savi,Slovenia"
+54,-70.0,-47.0,,,-47,,None,SI,Slovenia,Črnomelj,"Črnomelj,Slovenia"
+55,-74.0,-44.0,,,-54,,None,SI,Slovenia,Šentjur,"Šentjur,Slovenia"
+56,-90.0,-43.0,,-63.0,-64,1.0,None,SI,Slovenia,Škofja Loka,"Škofja Loka,Slovenia"
+57,-82.0,-60.0,2.0,,-58,,None,SI,Slovenia,Šmarje pri Jelšah,"Šmarje pri Jelšah,Slovenia"
+58,-100.0,-42.0,,,-41,0.0,None,SI,Slovenia,Žalec,"Žalec,Slovenia"
+0,-79.0,-60.0,-55.0,-80.0,-49,24.0,None,ZA,South Africa,None,South Africa
+0,-94.0,-76.0,-89.0,-88.0,-64,22.0,None,ES,Spain,None,Spain
+1,-94.0,-81.0,-88.0,-90.0,-65,21.0,None,ES,Spain,Andalusia,"Andalusia,Spain"
+2,-92.0,-75.0,-87.0,-90.0,-64,20.0,None,ES,Spain,Aragon,"Aragon,Spain"
+3,-94.0,-78.0,-88.0,-80.0,-63,23.0,None,ES,Spain,Asturias,"Asturias,Spain"
+4,-92.0,-68.0,-90.0,-88.0,-61,22.0,None,ES,Spain,Balearic Islands,"Balearic Islands,Spain"
+5,-94.0,-77.0,-93.0,-88.0,-63,22.0,None,ES,Spain,Basque Country,"Basque Country,Spain"
+6,-94.0,-75.0,-92.0,-87.0,-66,20.0,None,ES,Spain,Canary Islands,"Canary Islands,Spain"
+7,-94.0,-76.0,-92.0,-89.0,-61,23.0,None,ES,Spain,Cantabria,"Cantabria,Spain"
+8,-94.0,-78.0,-84.0,-89.0,-62,22.0,None,ES,Spain,Castile and León,"Castile and León,Spain"
+9,-93.0,-77.0,-84.0,-89.0,-63,21.0,None,ES,Spain,Castile-La Mancha,"Castile-La Mancha,Spain"
+10,-94.0,-75.0,-90.0,-88.0,-64,21.0,None,ES,Spain,Catalonia,"Catalonia,Spain"
+11,-89.0,-78.0,-91.0,,-64,4.0,None,ES,Spain,Ceuta,"Ceuta,Spain"
+12,-94.0,-72.0,-92.0,-89.0,-65,22.0,None,ES,Spain,Community of Madrid,"Community of Madrid,Spain"
+13,-93.0,-75.0,-79.0,-87.0,-60,22.0,None,ES,Spain,Extremadura,"Extremadura,Spain"
+14,-92.0,-77.0,-84.0,-88.0,-59,24.0,None,ES,Spain,Galicia,"Galicia,Spain"
+15,-94.0,-75.0,-90.0,-90.0,-65,23.0,None,ES,Spain,La Rioja,"La Rioja,Spain"
+16,-92.0,-86.0,-90.0,-87.0,-59,-2.0,None,ES,Spain,Melilla,"Melilla,Spain"
+17,-93.0,-77.0,-88.0,-90.0,-61,23.0,None,ES,Spain,Navarre,"Navarre,Spain"
+18,-94.0,-85.0,-90.0,-86.0,-63,24.0,None,ES,Spain,Region of Murcia,"Region of Murcia,Spain"
+19,-95.0,-84.0,-92.0,-90.0,-66,22.0,None,ES,Spain,Valencian Community,"Valencian Community,Spain"
+0,-86.0,-87.0,-57.0,-78.0,-50,32.0,None,LK,Sri Lanka,None,Sri Lanka
+0,-24.0,-10.0,43.0,-36.0,-18,5.0,None,SE,Sweden,None,Sweden
+1,-6.0,-5.0,26.0,-23.0,-18,9.0,None,SE,Sweden,Blekinge County,"Blekinge County,Sweden"
+2,-34.0,-15.0,1.0,-30.0,-17,5.0,None,SE,Sweden,Dalarna County,"Dalarna County,Sweden"
+3,-27.0,-10.0,10.0,-27.0,-14,5.0,None,SE,Sweden,Gavleborg County,"Gavleborg County,Sweden"
+4,-12.0,-6.0,,-45.0,-10,7.0,None,SE,Sweden,Gotland County,"Gotland County,Sweden"
+5,-13.0,-7.0,74.0,-25.0,-14,5.0,None,SE,Sweden,Halland County,"Halland County,Sweden"
+6,-41.0,-25.0,3.0,-46.0,-16,8.0,None,SE,Sweden,Jamtland County,"Jamtland County,Sweden"
+7,-24.0,-7.0,30.0,-29.0,-23,6.0,None,SE,Sweden,Jonkoping County,"Jonkoping County,Sweden"
+8,-11.0,-5.0,21.0,-27.0,-13,5.0,None,SE,Sweden,Kalmar County,"Kalmar County,Sweden"
+9,-19.0,-6.0,-51.0,-35.0,-17,8.0,None,SE,Sweden,Kronoberg County,"Kronoberg County,Sweden"
+10,-30.0,-14.0,60.0,-38.0,-15,2.0,None,SE,Sweden,Norrbotten County,"Norrbotten County,Sweden"
+11,-23.0,-8.0,23.0,-43.0,-16,6.0,None,SE,Sweden,Skåne County,"Skåne County,Sweden"
+12,-31.0,-14.0,24.0,-45.0,-21,7.0,None,SE,Sweden,Stockholm County,"Stockholm County,Sweden"
+13,-18.0,-7.0,46.0,-41.0,-19,5.0,None,SE,Sweden,Södermanland County,"Södermanland County,Sweden"
+14,-27.0,-9.0,35.0,-36.0,-18,7.0,None,SE,Sweden,Uppsala County,"Uppsala County,Sweden"
+15,-28.0,-11.0,0.0,-25.0,-13,5.0,None,SE,Sweden,Varmland County,"Varmland County,Sweden"
+16,-27.0,-10.0,34.0,-32.0,-18,3.0,None,SE,Sweden,Västerbotten County,"Västerbotten County,Sweden"
+17,-26.0,-9.0,-14.0,-26.0,-17,4.0,None,SE,Sweden,Västernorrland County,"Västernorrland County,Sweden"
+18,-18.0,-7.0,-25.0,-32.0,-17,5.0,None,SE,Sweden,Västmanland County,"Västmanland County,Sweden"
+19,-24.0,-9.0,38.0,-34.0,-18,6.0,None,SE,Sweden,Västra Götaland County,"Västra Götaland County,Sweden"
+20,-18.0,-7.0,59.0,-28.0,-18,5.0,None,SE,Sweden,Örebro County,"Örebro County,Sweden"
+21,-18.0,-12.0,60.0,-33.0,-17,5.0,None,SE,Sweden,Östergötland County,"Östergötland County,Sweden"
+0,-81.0,-51.0,-41.0,-68.0,-46,15.0,None,CH,Switzerland,None,Switzerland
+1,-75.0,-35.0,-14.0,-56.0,-41,13.0,None,CH,Switzerland,Aargau,"Aargau,Switzerland"
+2,-77.0,3.0,,-60.0,-29,,None,CH,Switzerland,Appenzell Ausserrhoden,"Appenzell Ausserrhoden,Switzerland"
+3,-57.0,,,,-29,,None,CH,Switzerland,Appenzell Innerrhoden,"Appenzell Innerrhoden,Switzerland"
+4,-89.0,-41.0,-65.0,-76.0,-48,25.0,None,CH,Switzerland,Basel City,"Basel City,Switzerland"
+5,-77.0,-21.0,-25.0,-61.0,-40,23.0,None,CH,Switzerland,Basel-Landschaft,"Basel-Landschaft,Switzerland"
+6,-80.0,-53.0,-36.0,-68.0,-43,14.0,None,CH,Switzerland,Canton of Bern,"Canton of Bern,Switzerland"
+7,-75.0,-2.0,,-67.0,-45,27.0,None,CH,Switzerland,Canton of Zug,"Canton of Zug,Switzerland"
+8,-82.0,-44.0,-41.0,-62.0,-42,20.0,None,CH,Switzerland,Fribourg,"Fribourg,Switzerland"
+9,-82.0,-60.0,-40.0,-84.0,-54,21.0,None,CH,Switzerland,Geneva,"Geneva,Switzerland"
+10,-92.0,-19.0,,-48.0,-33,,None,CH,Switzerland,Glarus,"Glarus,Switzerland"
+11,-89.0,-78.0,-59.0,-78.0,-57,20.0,None,CH,Switzerland,Grisons,"Grisons,Switzerland"
+12,-91.0,-32.0,,-64.0,-43,14.0,None,CH,Switzerland,Jura,"Jura,Switzerland"
+13,-82.0,-38.0,-50.0,-66.0,-40,16.0,None,CH,Switzerland,Lucerne,"Lucerne,Switzerland"
+14,-78.0,-48.0,-18.0,-58.0,-46,28.0,None,CH,Switzerland,Neuchâtel,"Neuchâtel,Switzerland"
+15,-74.0,-2.0,-73.0,-78.0,-46,,None,CH,Switzerland,Nidwalden,"Nidwalden,Switzerland"
+16,-63.0,-16.0,-49.0,-79.0,-40,,None,CH,Switzerland,Obwalden,"Obwalden,Switzerland"
+17,-90.0,-50.0,,-61.0,-41,2.0,None,CH,Switzerland,Schaffhausen,"Schaffhausen,Switzerland"
+18,-72.0,-55.0,-45.0,-66.0,-44,23.0,None,CH,Switzerland,Schwyz,"Schwyz,Switzerland"
+19,-77.0,-35.0,-13.0,-63.0,-38,15.0,None,CH,Switzerland,Solothurn,"Solothurn,Switzerland"
+20,-80.0,-44.0,-29.0,-58.0,-42,14.0,None,CH,Switzerland,St. Gallen,"St. Gallen,Switzerland"
+21,-79.0,-30.0,-44.0,-61.0,-40,15.0,None,CH,Switzerland,Thurgau,"Thurgau,Switzerland"
+22,-85.0,-69.0,-51.0,-64.0,-49,21.0,None,CH,Switzerland,Ticino,"Ticino,Switzerland"
+23,-89.0,-13.0,,-78.0,-44,,None,CH,Switzerland,Uri,"Uri,Switzerland"
+24,-87.0,-67.0,-61.0,-75.0,-57,17.0,None,CH,Switzerland,Valais,"Valais,Switzerland"
+25,-79.0,-49.0,-42.0,-68.0,-50,17.0,None,CH,Switzerland,Vaud,"Vaud,Switzerland"
+26,-82.0,-44.0,-53.0,-73.0,-47,16.0,None,CH,Switzerland,Zurich,"Zurich,Switzerland"
+0,-9.0,3.0,17.0,-24.0,-1,4.0,None,TW,Taiwan,None,Taiwan
+0,-8.0,-8.0,4.0,-17.0,10,-3.0,None,TJ,Tajikistan,None,Tajikistan
+0,-16.0,-8.0,-7.0,-11.0,-9,3.0,None,TZ,Tanzania,None,Tanzania
+0,-55.0,-27.0,-54.0,-61.0,-21,16.0,None,TH,Thailand,None,Thailand
+0,-37.0,-25.0,-21.0,-41.0,-9,16.0,None,TG,Togo,None,Togo
+0,-29.0,10.0,-40.0,-70.0,-17,9.0,None,TT,Trinidad and Tobago,None,Trinidad and Tobago
+0,-75.0,-39.0,-58.0,-71.0,-45,17.0,None,TR,Turkey,None,Turkey
+0,-50.0,-36.0,-16.0,-59.0,-23,19.0,None,UG,Uganda,None,Uganda
+0,-55.0,-26.0,-53.0,-69.0,-45,26.0,None,AE,United Arab Emirates,None,United Arab Emirates
+0,-85.0,-46.0,-52.0,-75.0,-55,15.0,None,GB,United Kingdom,None,United Kingdom
+1,-86.0,-41.0,-46.0,-73.0,-58,30.0,None,GB,United Kingdom,Aberdeen City,"Aberdeen City,United Kingdom"
+2,-80.0,-46.0,-45.0,-58.0,-52,27.0,None,GB,United Kingdom,Aberdeenshire,"Aberdeenshire,United Kingdom"
+3,-80.0,-44.0,-28.0,-51.0,-48,20.0,None,GB,United Kingdom,Angus council,"Angus council,United Kingdom"
+4,-81.0,-46.0,-61.0,-89.0,-52,29.0,None,GB,United Kingdom,Antrim And Newtownabbey,"Antrim And Newtownabbey,United Kingdom"
+5,-78.0,-39.0,-57.0,-57.0,-56,28.0,None,GB,United Kingdom,Ards And North Down,"Ards And North Down,United Kingdom"
+6,-88.0,-45.0,-34.0,-57.0,-52,8.0,None,GB,United Kingdom,Argyll and Bute Council,"Argyll and Bute Council,United Kingdom"
+7,-82.0,-45.0,-66.0,-65.0,-47,27.0,None,GB,United Kingdom,Armagh City and Banbridge And Craigavon,"Armagh City and Banbridge And Craigavon,United Kingdom"
+8,-91.0,-48.0,-54.0,-75.0,-66,30.0,None,GB,United Kingdom,Bath and North East Somerset,"Bath and North East Somerset,United Kingdom"
+9,-86.0,-47.0,-51.0,-72.0,-49,28.0,None,GB,United Kingdom,Bedford,"Bedford,United Kingdom"
+10,-85.0,-42.0,-47.0,-76.0,-59,17.0,None,GB,United Kingdom,Belfast,"Belfast,United Kingdom"
+11,-85.0,-42.0,,-71.0,-50,25.0,None,GB,United Kingdom,Blackburn with Darwen,"Blackburn with Darwen,United Kingdom"
+12,-88.0,-43.0,-64.0,-65.0,-54,22.0,None,GB,United Kingdom,Blackpool,"Blackpool,United Kingdom"
+13,-75.0,-46.0,,-57.0,-46,12.0,None,GB,United Kingdom,Blaenau Gwent,"Blaenau Gwent,United Kingdom"
+14,-78.0,-43.0,-46.0,-60.0,-48,25.0,None,GB,United Kingdom,Borough of Halton,"Borough of Halton,United Kingdom"
+15,-83.0,-41.0,-56.0,-69.0,-58,31.0,None,GB,United Kingdom,Bracknell Forest,"Bracknell Forest,United Kingdom"
+16,-85.0,-43.0,-48.0,-59.0,-50,25.0,None,GB,United Kingdom,Bridgend County Borough,"Bridgend County Borough,United Kingdom"
+17,-89.0,-48.0,-59.0,-77.0,-64,30.0,None,GB,United Kingdom,Brighton and Hove,"Brighton and Hove,United Kingdom"
+18,-85.0,-45.0,-43.0,-74.0,-57,16.0,None,GB,United Kingdom,Buckinghamshire,"Buckinghamshire,United Kingdom"
+19,-78.0,-41.0,-52.0,-54.0,-47,25.0,None,GB,United Kingdom,Caerphilly County Borough,"Caerphilly County Borough,United Kingdom"
+20,-87.0,-48.0,-51.0,-79.0,-54,16.0,None,GB,United Kingdom,Cambridgeshire,"Cambridgeshire,United Kingdom"
+21,-86.0,-45.0,-48.0,-79.0,-59,17.0,None,GB,United Kingdom,Cardiff,"Cardiff,United Kingdom"
+22,-81.0,-46.0,-57.0,-60.0,-49,24.0,None,GB,United Kingdom,Carmarthenshire,"Carmarthenshire,United Kingdom"
+23,-87.0,-41.0,-66.0,-64.0,-55,26.0,None,GB,United Kingdom,Causeway Coast and Glens,"Causeway Coast and Glens,United Kingdom"
+24,-82.0,-45.0,-41.0,-74.0,-54,20.0,None,GB,United Kingdom,Central Bedfordshire,"Central Bedfordshire,United Kingdom"
+25,-84.0,-54.0,-60.0,-69.0,-57,6.0,None,GB,United Kingdom,Ceredigion,"Ceredigion,United Kingdom"
+26,-84.0,-47.0,-63.0,-75.0,-53,15.0,None,GB,United Kingdom,Cheshire East,"Cheshire East,United Kingdom"
+27,-88.0,-47.0,-58.0,-77.0,-55,15.0,None,GB,United Kingdom,Cheshire West and Chester,"Cheshire West and Chester,United Kingdom"
+28,-87.0,-47.0,-25.0,-81.0,-57,18.0,None,GB,United Kingdom,City of Bristol,"City of Bristol,United Kingdom"
+29,-89.0,-39.0,,-53.0,-49,6.0,None,GB,United Kingdom,Clackmannanshire,"Clackmannanshire,United Kingdom"
+30,-86.0,-48.0,-70.0,-63.0,-58,22.0,None,GB,United Kingdom,Conwy Principal Area,"Conwy Principal Area,United Kingdom"
+31,-85.0,-53.0,-54.0,-66.0,-56,14.0,None,GB,United Kingdom,Cornwall,"Cornwall,United Kingdom"
+32,-83.0,-42.0,-56.0,-68.0,-55,14.0,None,GB,United Kingdom,County Durham,"County Durham,United Kingdom"
+33,-84.0,-50.0,-54.0,-73.0,-58,15.0,None,GB,United Kingdom,Cumbria,"Cumbria,United Kingdom"
+34,-86.0,-47.0,-57.0,-75.0,-51,26.0,None,GB,United Kingdom,Darlington,"Darlington,United Kingdom"
+35,-84.0,-43.0,-59.0,-70.0,-52,14.0,None,GB,United Kingdom,Denbighshire,"Denbighshire,United Kingdom"
+36,-85.0,-46.0,-55.0,-81.0,-55,19.0,None,GB,United Kingdom,Derby,"Derby,United Kingdom"
+37,-86.0,-43.0,-55.0,-66.0,-55,15.0,None,GB,United Kingdom,Derbyshire,"Derbyshire,United Kingdom"
+38,-80.0,-39.0,-63.0,-60.0,-54,25.0,None,GB,United Kingdom,Derry And Strabane,"Derry And Strabane,United Kingdom"
+39,-87.0,-51.0,-54.0,-73.0,-54,15.0,None,GB,United Kingdom,Devon,"Devon,United Kingdom"
+40,-87.0,-47.0,-57.0,-70.0,-57,15.0,None,GB,United Kingdom,Dorset,"Dorset,United Kingdom"
+41,-80.0,-42.0,-48.0,-75.0,-49,22.0,None,GB,United Kingdom,Dumfries and Galloway,"Dumfries and Galloway,United Kingdom"
+42,-83.0,-52.0,-10.0,-71.0,-56,26.0,None,GB,United Kingdom,Dundee City Council,"Dundee City Council,United Kingdom"
+43,-83.0,-39.0,,-55.0,-51,26.0,None,GB,United Kingdom,East Ayrshire Council,"East Ayrshire Council,United Kingdom"
+44,-75.0,-35.0,,-54.0,-56,19.0,None,GB,United Kingdom,East Dunbartonshire Council,"East Dunbartonshire Council,United Kingdom"
+45,-81.0,-37.0,-34.0,-57.0,-56,17.0,None,GB,United Kingdom,East Lothian Council,"East Lothian Council,United Kingdom"
+46,-63.0,-29.0,-54.0,-51.0,-56,19.0,None,GB,United Kingdom,East Renfrewshire Council,"East Renfrewshire Council,United Kingdom"
+47,-85.0,-45.0,-61.0,-51.0,-52,14.0,None,GB,United Kingdom,East Riding of Yorkshire,"East Riding of Yorkshire,United Kingdom"
+48,-87.0,-46.0,-60.0,-68.0,-57,14.0,None,GB,United Kingdom,East Sussex,"East Sussex,United Kingdom"
+49,-86.0,-44.0,-42.0,-83.0,-67,18.0,None,GB,United Kingdom,Edinburgh,"Edinburgh,United Kingdom"
+50,-84.0,-49.0,-58.0,-85.0,-56,16.0,None,GB,United Kingdom,Essex,"Essex,United Kingdom"
+51,-78.0,-38.0,-26.0,-56.0,-47,27.0,None,GB,United Kingdom,Falkirk,"Falkirk,United Kingdom"
+52,-86.0,-47.0,-55.0,-54.0,-52,27.0,None,GB,United Kingdom,Fermanagh And Omagh,"Fermanagh And Omagh,United Kingdom"
+53,-79.0,-38.0,-32.0,-56.0,-51,14.0,None,GB,United Kingdom,Fife,"Fife,United Kingdom"
+54,-80.0,-44.0,-48.0,-60.0,-54,26.0,None,GB,United Kingdom,Flintshire,"Flintshire,United Kingdom"
+55,-84.0,-44.0,-37.0,-81.0,-60,16.0,None,GB,United Kingdom,Glasgow City,"Glasgow City,United Kingdom"
+56,-86.0,-48.0,-49.0,-73.0,-55,15.0,None,GB,United Kingdom,Gloucestershire,"Gloucestershire,United Kingdom"
+57,-87.0,-48.0,-59.0,-80.0,-62,19.0,None,GB,United Kingdom,Greater London,"Greater London,United Kingdom"
+58,-84.0,-46.0,-44.0,-80.0,-54,16.0,None,GB,United Kingdom,Greater Manchester,"Greater Manchester,United Kingdom"
+59,-87.0,-55.0,-62.0,-65.0,-56,18.0,None,GB,United Kingdom,Gwynedd,"Gwynedd,United Kingdom"
+60,-85.0,-45.0,-48.0,-74.0,-54,15.0,None,GB,United Kingdom,Hampshire,"Hampshire,United Kingdom"
+61,-86.0,-44.0,-64.0,-70.0,-51,19.0,None,GB,United Kingdom,Hartlepool,"Hartlepool,United Kingdom"
+62,-86.0,-50.0,-42.0,-64.0,-46,24.0,None,GB,United Kingdom,Herefordshire,"Herefordshire,United Kingdom"
+63,-85.0,-47.0,-46.0,-73.0,-56,16.0,None,GB,United Kingdom,Hertfordshire,"Hertfordshire,United Kingdom"
+64,-83.0,-47.0,-48.0,-70.0,-53,24.0,None,GB,United Kingdom,Highland Council,"Highland Council,United Kingdom"
+65,-83.0,-37.0,,-58.0,-52,15.0,None,GB,United Kingdom,Inverclyde,"Inverclyde,United Kingdom"
+66,-84.0,-48.0,-65.0,-63.0,-46,7.0,None,GB,United Kingdom,Isle of Anglesey,"Isle of Anglesey,United Kingdom"
+67,-88.0,-47.0,-57.0,-76.0,-54,22.0,None,GB,United Kingdom,Isle of Wight,"Isle of Wight,United Kingdom"
+68,-86.0,-49.0,-62.0,-68.0,-53,15.0,None,GB,United Kingdom,Kent,"Kent,United Kingdom"
+69,-82.0,-45.0,-49.0,-71.0,-51,14.0,None,GB,United Kingdom,Kingston upon Hull,"Kingston upon Hull,United Kingdom"
+70,-84.0,-44.0,-39.0,-71.0,-52,14.0,None,GB,United Kingdom,Lancashire,"Lancashire,United Kingdom"
+71,-84.0,-47.0,-45.0,-80.0,-51,15.0,None,GB,United Kingdom,Leicester,"Leicester,United Kingdom"
+72,-83.0,-45.0,-54.0,-72.0,-55,15.0,None,GB,United Kingdom,Leicestershire,"Leicestershire,United Kingdom"
+73,-84.0,-45.0,-63.0,-67.0,-47,13.0,None,GB,United Kingdom,Lincolnshire,"Lincolnshire,United Kingdom"
+74,-87.0,-45.0,-79.0,-61.0,-56,30.0,None,GB,United Kingdom,Lisburn and Castlereagh,"Lisburn and Castlereagh,United Kingdom"
+75,-79.0,-39.0,-41.0,-90.0,-49,19.0,None,GB,United Kingdom,Luton,"Luton,United Kingdom"
+76,-85.0,-40.0,-67.0,-71.0,-51,15.0,None,GB,United Kingdom,Medway,"Medway,United Kingdom"
+77,-83.0,-42.0,-53.0,-74.0,-54,15.0,None,GB,United Kingdom,Merseyside,"Merseyside,United Kingdom"
+78,-89.0,-50.0,,-54.0,-52,8.0,None,GB,United Kingdom,Merthyr Tydfil County Borough,"Merthyr Tydfil County Borough,United Kingdom"
+79,-81.0,-37.0,-52.0,-56.0,-56,27.0,None,GB,United Kingdom,Mid And East Antrim,"Mid And East Antrim,United Kingdom"
+80,-81.0,-43.0,,-51.0,-42,28.0,None,GB,United Kingdom,Mid Ulster,"Mid Ulster,United Kingdom"
+81,-84.0,-43.0,-63.0,-73.0,-51,24.0,None,GB,United Kingdom,Middlesbrough,"Middlesbrough,United Kingdom"
+82,-90.0,-43.0,-20.0,-50.0,-53,25.0,None,GB,United Kingdom,Midlothian,"Midlothian,United Kingdom"
+83,-85.0,-49.0,-53.0,-79.0,-55,19.0,None,GB,United Kingdom,Milton Keynes,"Milton Keynes,United Kingdom"
+84,-85.0,-56.0,-61.0,-58.0,-47,16.0,None,GB,United Kingdom,Monmouthshire,"Monmouthshire,United Kingdom"
+85,-88.0,-45.0,-42.0,-63.0,-54,12.0,None,GB,United Kingdom,Moray,"Moray,United Kingdom"
+86,-77.0,-31.0,,-54.0,-51,,None,GB,United Kingdom,Na h-Eileanan an Iar,"Na h-Eileanan an Iar,United Kingdom"
+87,-74.0,-38.0,-46.0,-60.0,-46,23.0,None,GB,United Kingdom,Neath Port Talbot Principle Area,"Neath Port Talbot Principle Area,United Kingdom"
+88,-83.0,-47.0,-49.0,-66.0,-52,26.0,None,GB,United Kingdom,Newport,"Newport,United Kingdom"
+89,-87.0,-45.0,-65.0,-55.0,-52,29.0,None,GB,United Kingdom,Newry and Mourne And Down,"Newry and Mourne And Down,United Kingdom"
+90,-87.0,-52.0,-69.0,-68.0,-53,14.0,None,GB,United Kingdom,Norfolk,"Norfolk,United Kingdom"
+91,-79.0,-37.0,-12.0,-59.0,-51,25.0,None,GB,United Kingdom,North Ayrshire Council,"North Ayrshire Council,United Kingdom"
+92,-85.0,-46.0,-72.0,-68.0,-46,22.0,None,GB,United Kingdom,North East Lincolnshire,"North East Lincolnshire,United Kingdom"
+93,-78.0,-37.0,,-56.0,-50,13.0,None,GB,United Kingdom,North Lanarkshire,"North Lanarkshire,United Kingdom"
+94,-79.0,-41.0,-56.0,-58.0,-46,23.0,None,GB,United Kingdom,North Lincolnshire,"North Lincolnshire,United Kingdom"
+95,-84.0,-50.0,-52.0,-88.0,-54,27.0,None,GB,United Kingdom,North Somerset,"North Somerset,United Kingdom"
+96,-88.0,-48.0,-65.0,-74.0,-55,15.0,None,GB,United Kingdom,North Yorkshire,"North Yorkshire,United Kingdom"
+97,-84.0,-42.0,-59.0,-71.0,-47,14.0,None,GB,United Kingdom,Northamptonshire,"Northamptonshire,United Kingdom"
+98,-84.0,-42.0,-66.0,-61.0,-54,14.0,None,GB,United Kingdom,Northumberland,"Northumberland,United Kingdom"
+99,-90.0,-45.0,-58.0,-80.0,-56,15.0,None,GB,United Kingdom,Nottinghamshire,"Nottinghamshire,United Kingdom"
+100,-85.0,-40.0,,,-61,,None,GB,United Kingdom,Orkney,"Orkney,United Kingdom"
+101,-87.0,-45.0,-48.0,-79.0,-58,17.0,None,GB,United Kingdom,Oxfordshire,"Oxfordshire,United Kingdom"
+102,-87.0,-49.0,-62.0,-61.0,-47,18.0,None,GB,United Kingdom,Pembrokeshire,"Pembrokeshire,United Kingdom"
+103,-86.0,-46.0,-39.0,-65.0,-54,27.0,None,GB,United Kingdom,Perth and Kinross,"Perth and Kinross,United Kingdom"
+104,-80.0,-45.0,-36.0,-77.0,-43,17.0,None,GB,United Kingdom,Peterborough,"Peterborough,United Kingdom"
+105,-87.0,-50.0,-43.0,-70.0,-54,18.0,None,GB,United Kingdom,Plymouth,"Plymouth,United Kingdom"
+106,-88.0,-43.0,-46.0,-71.0,-54,19.0,None,GB,United Kingdom,Portsmouth,"Portsmouth,United Kingdom"
+107,-88.0,-50.0,-56.0,-63.0,-51,23.0,None,GB,United Kingdom,Powys,"Powys,United Kingdom"
+108,-89.0,-50.0,-41.0,-84.0,-55,32.0,None,GB,United Kingdom,Reading,"Reading,United Kingdom"
+109,-88.0,-44.0,-63.0,-62.0,-50,23.0,None,GB,United Kingdom,Redcar and Cleveland,"Redcar and Cleveland,United Kingdom"
+110,-86.0,-39.0,14.0,-84.0,-58,29.0,None,GB,United Kingdom,Renfrewshire,"Renfrewshire,United Kingdom"
+111,-80.0,-41.0,-47.0,-52.0,-50,19.0,None,GB,United Kingdom,Rhondda Cynon Taff,"Rhondda Cynon Taff,United Kingdom"
+112,-100.0,-37.0,-70.0,,-57,,None,GB,United Kingdom,Rutland,"Rutland,United Kingdom"
+113,-88.0,-46.0,-39.0,-44.0,-51,20.0,None,GB,United Kingdom,Scottish Borders,"Scottish Borders,United Kingdom"
+114,-85.0,-49.0,,-54.0,-60,,None,GB,United Kingdom,Shetland Islands,"Shetland Islands,United Kingdom"
+115,-85.0,-49.0,-56.0,-70.0,-50,14.0,None,GB,United Kingdom,Shropshire,"Shropshire,United Kingdom"
+116,-80.0,-45.0,-45.0,-78.0,-54,29.0,None,GB,United Kingdom,Slough,"Slough,United Kingdom"
+117,-86.0,-48.0,-56.0,-73.0,-49,14.0,None,GB,United Kingdom,Somerset,"Somerset,United Kingdom"
+118,-88.0,-42.0,-35.0,-62.0,-56,20.0,None,GB,United Kingdom,South Ayrshire Council,"South Ayrshire Council,United Kingdom"
+119,-81.0,-45.0,-30.0,-64.0,-52,20.0,None,GB,United Kingdom,South Gloucestershire,"South Gloucestershire,United Kingdom"
+120,-78.0,-38.0,-6.0,-57.0,-54,14.0,None,GB,United Kingdom,South Lanarkshire,"South Lanarkshire,United Kingdom"
+121,-86.0,-43.0,-47.0,-71.0,-53,15.0,None,GB,United Kingdom,South Yorkshire,"South Yorkshire,United Kingdom"
+122,-87.0,-41.0,-57.0,-71.0,-54,19.0,None,GB,United Kingdom,Southampton,"Southampton,United Kingdom"
+123,-89.0,-39.0,-63.0,-79.0,-57,28.0,None,GB,United Kingdom,Southend-on-Sea,"Southend-on-Sea,United Kingdom"
+124,-85.0,-44.0,-54.0,-73.0,-54,14.0,None,GB,United Kingdom,Staffordshire,"Staffordshire,United Kingdom"
+125,-85.0,-49.0,-49.0,-76.0,-62,11.0,None,GB,United Kingdom,Stirling,"Stirling,United Kingdom"
+126,-84.0,-47.0,-60.0,-69.0,-52,25.0,None,GB,United Kingdom,Stockton-on-Tees,"Stockton-on-Tees,United Kingdom"
+127,-84.0,-44.0,-41.0,-70.0,-49,14.0,None,GB,United Kingdom,Stoke-on-Trent,"Stoke-on-Trent,United Kingdom"
+128,-87.0,-51.0,-67.0,-69.0,-54,15.0,None,GB,United Kingdom,Suffolk,"Suffolk,United Kingdom"
+129,-85.0,-44.0,-57.0,-74.0,-59,17.0,None,GB,United Kingdom,Surrey,"Surrey,United Kingdom"
+130,-84.0,-50.0,-51.0,-67.0,-54,19.0,None,GB,United Kingdom,Swansea,"Swansea,United Kingdom"
+131,-83.0,-44.0,-30.0,-69.0,-52,28.0,None,GB,United Kingdom,Swindon,"Swindon,United Kingdom"
+132,-88.0,-53.0,-51.0,-59.0,-50,29.0,None,GB,United Kingdom,Thurrock,"Thurrock,United Kingdom"
+133,-86.0,-44.0,-58.0,-68.0,-55,24.0,None,GB,United Kingdom,Torbay,"Torbay,United Kingdom"
+134,-82.0,-37.0,,-54.0,-53,24.0,None,GB,United Kingdom,Torfaen Principal Area,"Torfaen Principal Area,United Kingdom"
+135,-85.0,-47.0,-58.0,-74.0,-57,15.0,None,GB,United Kingdom,Tyne and Wear,"Tyne and Wear,United Kingdom"
+136,-84.0,-49.0,-59.0,-70.0,-54,27.0,None,GB,United Kingdom,Vale of Glamorgan,"Vale of Glamorgan,United Kingdom"
+137,-86.0,-42.0,-29.0,-68.0,-52,27.0,None,GB,United Kingdom,Warrington,"Warrington,United Kingdom"
+138,-86.0,-44.0,-56.0,-72.0,-54,15.0,None,GB,United Kingdom,Warwickshire,"Warwickshire,United Kingdom"
+139,-88.0,-49.0,-41.0,-82.0,-58,29.0,None,GB,United Kingdom,West Berkshire,"West Berkshire,United Kingdom"
+140,-75.0,-43.0,,-54.0,-51,23.0,None,GB,United Kingdom,West Dunbartonshire Council,"West Dunbartonshire Council,United Kingdom"
+141,-74.0,-29.0,-29.0,-52.0,-50,27.0,None,GB,United Kingdom,West Lothian,"West Lothian,United Kingdom"
+142,-84.0,-45.0,-45.0,-78.0,-57,15.0,None,GB,United Kingdom,West Midlands,"West Midlands,United Kingdom"
+143,-85.0,-46.0,-53.0,-85.0,-56,15.0,None,GB,United Kingdom,West Sussex,"West Sussex,United Kingdom"
+144,-84.0,-44.0,-49.0,-74.0,-55,15.0,None,GB,United Kingdom,West Yorkshire,"West Yorkshire,United Kingdom"
+145,-84.0,-45.0,-56.0,-70.0,-54,15.0,None,GB,United Kingdom,Wiltshire,"Wiltshire,United Kingdom"
+146,-88.0,-42.0,-74.0,-79.0,-63,31.0,None,GB,United Kingdom,Windsor and Maidenhead,"Windsor and Maidenhead,United Kingdom"
+147,-81.0,-52.0,-26.0,-66.0,-61,32.0,None,GB,United Kingdom,Wokingham,"Wokingham,United Kingdom"
+148,-86.0,-47.0,-44.0,-71.0,-55,14.0,None,GB,United Kingdom,Worcestershire,"Worcestershire,United Kingdom"
+149,-83.0,-43.0,-45.0,-64.0,-48,24.0,None,GB,United Kingdom,Wrexham Principal Area,"Wrexham Principal Area,United Kingdom"
+150,-90.0,-50.0,-64.0,-84.0,-65,29.0,None,GB,United Kingdom,York,"York,United Kingdom"
+0,-47.0,-22.0,-19.0,-51.0,-38,12.0,None,US,United States,None,United States
+1,-41.0,-13.0,19.0,-30.0,-32,9.0,None,US,United States,Alabama,"Alabama,United States"
+2,-48.0,-27.0,18.0,-55.0,-33,10.0,None,US,United States,Alaska,"Alaska,United States"
+3,-40.0,-17.0,-7.0,-41.0,-33,10.0,None,US,United States,Arizona,"Arizona,United States"
+4,-29.0,-7.0,81.0,-22.0,-27,7.0,None,US,United States,Arkansas,"Arkansas,United States"
+5,-50.0,-24.0,-38.0,-54.0,-39,15.0,None,US,United States,California,"California,United States"
+6,-51.0,-27.0,-12.0,-60.0,-40,13.0,None,US,United States,Colorado,"Colorado,United States"
+7,-56.0,-32.0,-52.0,-64.0,-38,15.0,None,US,United States,Connecticut,"Connecticut,United States"
+8,-47.0,-28.0,-6.0,-57.0,-37,12.0,None,US,United States,Delaware,"Delaware,United States"
+9,-64.0,-30.0,-41.0,-68.0,-47,14.0,None,US,United States,District of Columbia,"District of Columbia,United States"
+10,-50.0,-26.0,-48.0,-63.0,-41,13.0,None,US,United States,Florida,"Florida,United States"
+11,-42.0,-17.0,-2.0,-52.0,-37,11.0,None,US,United States,Georgia,"Georgia,United States"
+12,-56.0,-36.0,-65.0,-72.0,-45,16.0,None,US,United States,Hawaii,"Hawaii,United States"
+13,-42.0,-18.0,25.0,-34.0,-38,10.0,None,US,United States,Idaho,"Idaho,United States"
+14,-53.0,-24.0,-29.0,-55.0,-39,13.0,None,US,United States,Illinois,"Illinois,United States"
+15,-48.0,-25.0,24.0,-34.0,-36,11.0,None,US,United States,Indiana,"Indiana,United States"
+16,-43.0,-10.0,41.0,-28.0,-29,10.0,None,US,United States,Iowa,"Iowa,United States"
+17,-36.0,-14.0,72.0,-20.0,-30,9.0,None,US,United States,Kansas,"Kansas,United States"
+18,-37.0,-11.0,68.0,-34.0,-34,9.0,None,US,United States,Kentucky,"Kentucky,United States"
+19,-45.0,-16.0,-18.0,-49.0,-35,11.0,None,US,United States,Louisiana,"Louisiana,United States"
+20,-50.0,-22.0,-24.0,-56.0,-31,10.0,None,US,United States,Maine,"Maine,United States"
+21,-45.0,-25.0,29.0,-51.0,-39,13.0,None,US,United States,Maryland,"Maryland,United States"
+22,-59.0,-36.0,-56.0,-73.0,-42,16.0,None,US,United States,Massachusetts,"Massachusetts,United States"
+23,-58.0,-28.0,15.0,-55.0,-43,12.0,None,US,United States,Michigan,"Michigan,United States"
+24,-58.0,-35.0,-16.0,-64.0,-38,14.0,None,US,United States,Minnesota,"Minnesota,United States"
+25,-32.0,-7.0,27.0,-29.0,-30,9.0,None,US,United States,Mississippi,"Mississippi,United States"
+26,-38.0,-12.0,73.0,-34.0,-32,9.0,None,US,United States,Missouri,"Missouri,United States"
+27,-51.0,-25.0,28.0,-37.0,-37,10.0,None,US,United States,Montana,"Montana,United States"
+28,-34.0,-9.0,109.0,-18.0,-24,8.0,None,US,United States,Nebraska,"Nebraska,United States"
+29,-47.0,-23.0,-38.0,-62.0,-52,14.0,None,US,United States,Nevada,"Nevada,United States"
+30,-58.0,-35.0,-63.0,-63.0,-38,13.0,None,US,United States,New Hampshire,"New Hampshire,United States"
+31,-59.0,-33.0,-36.0,-70.0,-44,16.0,None,US,United States,New Jersey,"New Jersey,United States"
+32,-44.0,-18.0,-12.0,-31.0,-34,11.0,None,US,United States,New Mexico,"New Mexico,United States"
+33,-62.0,-32.0,-47.0,-68.0,-46,16.0,None,US,United States,New York,"New York,United States"
+34,-40.0,-15.0,13.0,-51.0,-35,10.0,None,US,United States,North Carolina,"North Carolina,United States"
+35,-44.0,-13.0,73.0,-36.0,-24,9.0,None,US,United States,North Dakota,"North Dakota,United States"
+36,-43.0,-19.0,117.0,-33.0,-35,10.0,None,US,United States,Ohio,"Ohio,United States"
+37,-36.0,-12.0,29.0,-23.0,-32,9.0,None,US,United States,Oklahoma,"Oklahoma,United States"
+38,-51.0,-25.0,-22.0,-47.0,-38,12.0,None,US,United States,Oregon,"Oregon,United States"
+39,-50.0,-27.0,7.0,-52.0,-38,12.0,None,US,United States,Pennsylvania,"Pennsylvania,United States"
+40,-55.0,-30.0,-50.0,-67.0,-37,14.0,None,US,United States,Rhode Island,"Rhode Island,United States"
+41,-38.0,-11.0,-4.0,-34.0,-34,9.0,None,US,United States,South Carolina,"South Carolina,United States"
+42,-35.0,-3.0,126.0,-31.0,-25,8.0,None,US,United States,South Dakota,"South Dakota,United States"
+43,-35.0,-9.0,35.0,-35.0,-34,8.0,None,US,United States,Tennessee,"Tennessee,United States"
+44,-45.0,-23.0,-27.0,-47.0,-36,13.0,None,US,United States,Texas,"Texas,United States"
+45,-41.0,-14.0,26.0,-44.0,-40,10.0,None,US,United States,Utah,"Utah,United States"
+46,-62.0,-42.0,-55.0,-71.0,-43,13.0,None,US,United States,Vermont,"Vermont,United States"
+47,-39.0,-16.0,46.0,-50.0,-36,11.0,None,US,United States,Virginia,"Virginia,United States"
+48,-48.0,-26.0,-11.0,-56.0,-41,13.0,None,US,United States,Washington,"Washington,United States"
+49,-38.0,-16.0,52.0,-31.0,-33,8.0,None,US,United States,West Virginia,"West Virginia,United States"
+50,-55.0,-30.0,-12.0,-50.0,-34,13.0,None,US,United States,Wisconsin,"Wisconsin,United States"
+51,-37.0,-13.0,29.0,-14.0,-29,8.0,None,US,United States,Wyoming,"Wyoming,United States"
+0,-75.0,-45.0,-79.0,-71.0,-35,22.0,None,UY,Uruguay,None,Uruguay
+1,-60.0,-45.0,-71.0,-77.0,-24,-3.0,None,UY,Uruguay,Artigas Department,"Artigas Department,Uruguay"
+2,-74.0,-49.0,-77.0,-75.0,-31,20.0,None,UY,Uruguay,Canelones Department,"Canelones Department,Uruguay"
+3,-74.0,-43.0,-76.0,-73.0,-28,13.0,None,UY,Uruguay,Cerro Largo Department,"Cerro Largo Department,Uruguay"
+4,-78.0,-51.0,-84.0,-90.0,-38,21.0,None,UY,Uruguay,Colonia Department,"Colonia Department,Uruguay"
+5,-68.0,-39.0,-68.0,-79.0,-21,-2.0,None,UY,Uruguay,Durazno Department,"Durazno Department,Uruguay"
+6,-83.0,-38.0,-72.0,,-20,,None,UY,Uruguay,Flores Department,"Flores Department,Uruguay"
+7,-63.0,-37.0,-78.0,-70.0,-23,13.0,None,UY,Uruguay,Florida Department,"Florida Department,Uruguay"
+8,-53.0,-35.0,-76.0,-69.0,-22,-2.0,None,UY,Uruguay,Lavalleja Department,"Lavalleja Department,Uruguay"
+9,-87.0,-65.0,-88.0,-86.0,-56,24.0,None,UY,Uruguay,Maldonado Department,"Maldonado Department,Uruguay"
+10,-73.0,-37.0,-72.0,-58.0,-37,23.0,None,UY,Uruguay,Montevideo Department,"Montevideo Department,Uruguay"
+11,-68.0,-22.0,-75.0,-78.0,-23,18.0,None,UY,Uruguay,Paysandú Department,"Paysandú Department,Uruguay"
+12,-71.0,-33.0,-76.0,-67.0,-33,12.0,None,UY,Uruguay,Rivera Department,"Rivera Department,Uruguay"
+13,-89.0,-75.0,-89.0,-90.0,-41,9.0,None,UY,Uruguay,Rocha Department,"Rocha Department,Uruguay"
+14,-72.0,-49.0,-82.0,-64.0,-27,-3.0,None,UY,Uruguay,Río Negro Department,"Río Negro Department,Uruguay"
+15,-71.0,-49.0,-74.0,-68.0,-30,17.0,None,UY,Uruguay,Salto Department,"Salto Department,Uruguay"
+16,-60.0,-40.0,-78.0,-61.0,-23,19.0,None,UY,Uruguay,San José Department,"San José Department,Uruguay"
+17,-67.0,-52.0,-78.0,,-28,13.0,None,UY,Uruguay,Soriano Department,"Soriano Department,Uruguay"
+18,-67.0,-43.0,-77.0,-76.0,-25,15.0,None,UY,Uruguay,Tacuarembó Department,"Tacuarembó Department,Uruguay"
+19,-60.0,-24.0,-75.0,-55.0,-20,,None,UY,Uruguay,Treinta y Tres Department,"Treinta y Tres Department,Uruguay"
+0,-62.0,-44.0,-57.0,-62.0,-25,16.0,None,VE,Venezuela,None,Venezuela
+0,-52.0,-29.0,-33.0,-49.0,-20,16.0,None,VN,Vietnam,None,Vietnam
+0,-8.0,-1.0,-9.0,-9.0,-5,5.0,None,YE,Yemen,None,Yemen
+0,-21.0,-8.0,-6.0,-24.0,0,10.0,None,ZM,Zambia,None,Zambia
+0,-2.0,24.0,-4.0,-6.0,14,13.0,None,ZW,Zimbabwe,None,Zimbabwe
