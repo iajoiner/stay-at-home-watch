@@ -1,11 +1,12 @@
 import requests
 import pdftotext
 import pandas
+import numpy
 url_head = 'https://www.gstatic.com/covid19/mobility/'
 url_tail = 'Mobility_Report_en.pdf'
 local_path = '/Users/karlkatzen/Documents/code/covid/data/'
 def _process_data_string(line):
-    return [int(string.strip().split()[0][:-1]) if 'baseline' in string else 'None' for string in line.split('  ') if len(string) != 0]
+    return [int(string.strip().split()[0][:-1]) if 'baseline' in string else numpy.nan for string in line.split('  ') if len(string) != 0]
 def _identify_subdivision_line(lines):
     leng = len(lines)
     for i in range(2,leng):
@@ -41,7 +42,7 @@ def mobility_report_extract(country_code, subdivision = None, date = '2020-03-29
             try:
                 data = int(data)
             except ValueError:
-                data = 'None'
+                data = numpy.nan
             top_level_data.append(data)
         messages = second.split('Mobility trends')[1:]
         for message in messages:
@@ -49,7 +50,7 @@ def mobility_report_extract(country_code, subdivision = None, date = '2020-03-29
             try:
                 data = int(data)
             except ValueError:
-                data = 'None'
+                data = numpy.nan
             top_level_data.append(data)
         top_level_dict = _list_to_dict(top_level_data)
         top_level_dict['second_level_subdivision'] = 'None'
@@ -83,7 +84,7 @@ def mobility_report_extract(country_code, subdivision = None, date = '2020-03-29
                 res.append(_dict)        
         return res
     else:
-        print(f"Doesn't work for {top_level_name} at {date}")
+        print(f"No data for {top_level_name} on {date}")
         return None
 def get_international_data():
     df = pandas.read_csv('code.csv',keep_default_na=False)
@@ -103,8 +104,8 @@ def get_us_data():
  'Colorado',
  'Connecticut',
  'Delaware',
- 'District Of Columbia',
- 'Federated States Of Micronesia',
+ 'District of Columbia',
+ 'Federated States of Micronesia',
  'Florida',
  'Georgia',
  'Guam',
@@ -155,7 +156,6 @@ def get_us_data():
  'Wyoming']
     df_us = []
     for state in state_list:
-        print(state)
         df_us.append(pandas.DataFrame(mobility_report_extract('US',state)))
     df_us_final = pandas.concat(df_us)
     df_us_final.to_csv('us.csv')
