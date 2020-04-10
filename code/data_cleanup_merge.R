@@ -35,3 +35,6 @@ ggsave("scatterplot_canada.pdf")
 
 ggMarginal(g, type = "histogram", fill="transparent")
 
+#---------------------------------------------------------------------
+
+
