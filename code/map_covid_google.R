@@ -3,52 +3,27 @@ if (!exists("setup_sourced")) source(here::here("code", "setup.R"))
 
 #---------------------------------------------------------------------
 
-# load confirmed cases from JHU data
-confirmed <- fread(here::here("data", "time_series_covid19_confirmed_global.csv")) 
-death <- fread(here::here("data", "time_series_covid19_deaths_global.csv"))
-recovered <- fread(here::here("data", "time_series_covid19_recovered_global.csv"))
+# load data
+maps_data <- read_csv("data/final_data.csv")
+glimpse(maps_data)
 
-#-----------------------------------------------------------
+# clean out the 'none' post-fixes in the juristiction field
+maps <- maps_data %>%
+  mutate(c = str_replace(jurisdiction, "-None-None", "")) %>%
+  mutate(country = str_replace(c, "-None", ""))
 
-# make a dataframe for all of Canada
-drop_columns <- c("Country/Region", "Lat", "Long")
+maps <- maps[, -c(1,2)]
+maps <- maps[,-8]
 
-ccc <- confirmed %>%
-  filter(`Country/Region` == "Canada") %>%
-  select(-one_of(drop_columns)) %>%
-  pivot_longer(-`Province/State`, names_to = "date", values_to = "confirmed_counts") %>%
-  mutate(date = mdy(date)) %>%
-  rename(Province = `Province/State`)
-
-
-dcc <- death %>%
-  filter(`Country/Region` == "Canada") %>%
-  select(-one_of(drop_columns)) %>%
-  pivot_longer(-`Province/State`, names_to = "date", values_to = "death_counts") %>%
-  mutate(date = mdy(date)) %>%
-  rename(Province = `Province/State`)
-
-
-rcc <- recovered %>%
-  filter(`Country/Region` == "Canada") %>%
-  select(-one_of(drop_columns)) %>%
-  pivot_longer(-`Province/State`, names_to = "date", values_to = "recovered_counts") %>%
-  mutate(date = mdy(date)) %>%
-  rename(Province = `Province/State`)
-
-
-combinedc <- cbind(ccc, dcc, rcc, by = "date") 
-
-combinedc_cleanup <- combinedc[,c(1:3, 6, 9)]
-
-# make data to visualize
-JHU <- combinedc_cleanup %>%
-  filter(!Province == "Diamond Princess") %>%
-  filter(!Province == "Grand Princess") %>%
-  filter(!Province == "Recovered") %>%
-  mutate(week_in_2020 = week(date)) %>%
+google_canada <- maps %>%
+  filter(str_detect(maps$country, "Canada")) %>%
+  mutate(Province = str_replace(country, ",Canada", "")) %>%
   mutate(Province = as.factor(Province))
 
+
+google_canada <- google_canada[,-8]
+
+fwrite(google_canada, here::here("map_app", "google_canada.csv"), sep = ",")
 #-----------------------------------------------------------
 
 # Map covid cases on Canada map
